@@ -64,7 +64,7 @@
 ;Adviescollege;LNV;RDA;Raad voor dierenaangelegenheden;;;https://english.rda.nl/;;english.rda.nl;16-10-2021;;ja;ja;;200ok;;;;
 ;Adviescollege;LNV;RDA;Raad voor dierenaangelegenheden;;;https://www.eurofawc.com/home/1;https://www.eurofawc.com;eurofawc.com;16-10-2021;;ja;ja;;200ok;;;;
 ;Adviescollege;BZK;ROB;Raad voor het Openbaar Bestuur;;;https://www.raadopenbaarbestuur.nl/;;raadopenbaarbestuur.nl;10-10-2021;;ja;ja;;200ok;;;;
-;Adviescollege;JenV;RSJ;Raad voor strafrechtstoepassing en jeugdbescherming;;;http://abonneren.rsj.nl/;;abonneren.rsj.nl;11-10-2021;;ja;ja;;200ok;;;;
+;Adviescollege;JenV;RSJ;Raad voor strafrechtstoepassing en jeugdbescherming;;;http://abonneren.rsj.nl/;;abonneren.rsj.nl;30-11-2021;offline;ja;ja;;rijksreg;http://abonneren.rsj.nl/;28-11-2021;;
 ;Adviescollege;JenV;RSJ;Raad voor strafrechtstoepassing en jeugdbescherming;;;https://www.rsj.nl/;;rsj.nl;11-10-2021;;ja;ja;;200ok;;;;
 ;Adviescollege;VWS;RVS;Raad voor Volksgezondheid & Samenleving;;;https://www.raadrvs.nl/;https://adviezen.raadrvs.nl/;raadrvs.nl;10-10-2021;;ja;;;200ok;;;;
 ;Adviescollege;VWS;RVS;Raad voor Volksgezondheid & Samenleving;;;http://werkagenda.raadrvs.nl/;;werkagenda.raadrvs.nl;1-10-2021;offline;ja;;;rijksreg;http://werkagenda.raadrvs.nl;21-8-2021;;
@@ -330,6 +330,7 @@
 ;Agentschap;EZK;RVO;Rijksdienst voor Ondernemend Nederland;;;https://www.drrteam-dsswater.nl/;;drrteam-dsswater.nl;;;ja;;;200ok;;;;uitzoeken
 ;Agentschap;EZK;RVO;Rijksdienst voor Ondernemend Nederland;;;https://duurzaamdoor.nl/;;duurzaamdoor.nl;20-10-2021;;ja;ja;;200ok;;;;
 ;Agentschap;EZK;RVO;Rijksdienst voor Ondernemend Nederland;;;https://economicdiplomacy.rvo.nl/;;economicdiplomacy.rvo.nl;;;ja;;;tv;;;;
+;Agentschap;EZK;RVO;Rijksdienst voor Ondernemend Nederland;;;https://www.eiti.nl/;;eiti.nl;30-11-2021;;ja;ja;;200ok;;;;
 ;Agentschap;EZK;RVO;Rijksdienst voor Ondernemend Nederland;;;https://energiebesparingsverkenner.rvo.nl/;;energiebesparingsverkenner.rvo.nl;;;ja;;;tv;;;;
 ;Agentschap;EZK;RVO;Rijksdienst voor Ondernemend Nederland;;;https://energiecijfers.databank.nl/;;energiecijfers.databank.nl;;;ja;;;tv;;;;
 ;Agentschap;EZK;RVO;Rijksdienst voor Ondernemend Nederland;;;https://energielabelvoorwoningen.nl/;;energielabelvoorwoningen.nl;;;ja;;;tv;;;;
@@ -348,7 +349,7 @@
 ;Agentschap;EZK;RVO;Rijksdienst voor Ondernemend Nederland;;;https://guaranteeforum.eu/;;guaranteeforum.eu;;;ja;;;tv;;;;
 ;Agentschap;EZK;RVO;Rijksdienst voor Ondernemend Nederland;;;https://www.higherlevel.nl/;;higherlevel.nl;5-11-2021;;ja;ja;;200ok;;;;
 ;Agentschap;EZK;RVO;Rijksdienst voor Ondernemend Nederland;;;https://www.internationaalondernemen.nl/;;internationaalondernemen.nl;;;ja;;;tv;;;;
-;Agentschap;EZK;RVO;Rijksdienst voor Ondernemend Nederland;;;https://investinholland.com/;;investinholland.com;;;ja;;;tv;;;;
+;Agentschap;EZK;RVO;Rijksdienst voor Ondernemend Nederland;;;https://investinholland.com/;;investinholland.com;30-11-2021;;ja;ja;;200ok;;;;
 ;Agentschap;EZK;RVO;Rijksdienst voor Ondernemend Nederland;;;https://invest-nl.nl/;;invest-nl.nl;;;ja;;;tv;;;;
 ;Agentschap;EZK;RVO;Rijksdienst voor Ondernemend Nederland;;;https://www.jonglereneten.nl/;;jonglereneten.nl;;;ja;;;tv;;;;
 ;Agentschap;EZK;RVO;Rijksdienst voor Ondernemend Nederland;;;https://www.kemprogramma.nl/;;kemprogramma.nl;5-11-2021;;ja;ja;;200ok;;;;
@@ -396,6 +397,8 @@
 ;Agentschap;VWS;RIVM;Rijksinstituut voor Volksgezondheid en Milieu;;;https://apps.geodan.nl/public/atlasnextgen/map/;;apps.geodan.nl;;;ja;ja;;200ok;;;;
 ;Agentschap;VWS;RIVM;Rijksinstituut voor Volksgezondheid en Milieu;;;https://www.atlasleefomgeving.nl/;;atlasleefomgeving.nl;20-10-2021;;ja;ja;;200ok;;;;
 ;Agentschap;VWS;RIVM;Rijksinstituut voor Volksgezondheid en Milieu;;;https://geodata.rivm.nl/checkjeplek/;;geodata.rivm.nl;20-10-2021;;ja;ja;;200ok;;;;
+;Agentschap;VWS;RIVM;Rijksinstituut voor Volksgezondheid en Milieu;;;https://english.rivmmagazines.nl/rivmmagazine-en/2021/01/index;;english.rivmmagazines.nl;30-11-2021;;ja;ja;;200ok;;;;
+;Agentschap;VWS;RIVM;Rijksinstituut voor Volksgezondheid en Milieu;;;https://www.rivmmagazines.nl/;;rivmmagazines.nl;30-11-2021;;ja;ja;;200ok;;;;
 ;Agentschap;VWS;RIVM;Rijksinstituut voor Volksgezondheid en Milieu;;;https://www.aerius.nl/;;aerius.nl;16-10-2021;;ja;ja;;200ok;;;;
 ;Agentschap;VWS;RIVM;Rijksinstituut voor Volksgezondheid en Milieu;;;https://biotechnologie.rivm.nl/;;biotechnologie.rivm.nl;20-10-2021;;ja;ja;;200ok;;;;
 ;Agentschap;VWS;RIVM;Rijksinstituut voor Volksgezondheid en Milieu;;;https://draaiboekhielprikscreening.rivm.nl/;;draaiboekhielprikscreening.rivm.nl;20-10-2021;;ja;ja;;200ok;;;;
@@ -412,6 +415,7 @@
 ;Agentschap;VWS;RIVM;Rijksinstituut voor Volksgezondheid en Milieu;;;https://rvs.rivm.nl/;;rvs.rivm.nl;20-10-2021;;ja;ja;;200ok;;;;
 ;Agentschap;VWS;RIVM;Rijksinstituut voor Volksgezondheid en Milieu;;;https://sub.gezondekinderopvang.nl/bso/doe-de-test;;sub.gezondekinderopvang.nl;20-10-2021;;ja;ja;;200ok;;;;
 ;Agentschap;VWS;RIVM;Rijksinstituut voor Volksgezondheid en Milieu;;;https://sub.gezondeschool.nl/;;sub.gezondeschool.nl;20-10-2021;;ja;ja;;200ok;;;;
+;Agentschap;VWS;RIVM;Rijksinstituut voor Volksgezondheid en Milieu;;;https://www.volksgezondheidtoekomstverkenning.nl/;;volksgezondheidtoekomstverkenning.nl;30-11-2021;;ja;ja;;200ok;;;;
 ;Agentschap;BZK;RVB;Rijksvastgoedbedrijf;;;https://www.rijksvastgoedbedrijf.nl/;;rijksvastgoedbedrijf.nl;16-10-2021;;ja;ja;;200ok;;; ALG;
 ;Agentschap;BZK;RVB;Rijksvastgoedbedrijf;;;https://www.bidbook.eu/en;https://www.bidbook.eu;bidbook.eu;18-10-2021;;ja;ja;;200ok;;;;
 ;Agentschap;BZK;RVB;Rijksvastgoedbedrijf;;;https://www.biedboek.nl/nl/;https://www.biedboek.nl/;biedboek.nl;18-10-2021;;ja;ja;;200ok;;;;
@@ -493,6 +497,7 @@
 ;Agentschap;IenW;RWS;Rijkswaterstaat;;;https://ishetafval.nl/;;ishetafval.nl;;;ja;;;tv;;;;
 ;Agentschap;IenW;RWS;Rijkswaterstaat;;;https://www.its-corridor.nl/;;its-corridor.nl;;offline;ja;;;tv;;;;
 ;Agentschap;IenW;RWS;Rijkswaterstaat;;;https://www.jaarberichtrijkswaterstaat.nl/;;jaarberichtrijkswaterstaat.nl;15-10-2021;pw;ja;ja;;rijksreg;http://www.jaarberichtrijkswaterstaat.nl;21-8-2021;;
+;Agentschap;IenW;RWS;Rijkswaterstaat;;Kenniscentrum OO;https://kenniscentrum-oo.nl/;;kenniscentrum-oo.nl;30-11-2021;;ja;ja;;200ok;;;;
 ;Agentschap;IenW;RWS;Rijkswaterstaat;;;https://www.keringhuis.nl/;;keringhuis.nl;1-10-2021;;ja;ja;;rijksreg;http://www.keringhuis.nl;22-8-2021;;
 ;Agentschap;IenW;RWS;Rijkswaterstaat;;;https://klimaatadaptatienederland.nl/;;klimaatadaptatienederland.nl;;;ja;;;tv;;;;
 ;Agentschap;IenW;RWS;Rijkswaterstaat;;;https://knooppunt-hoevelaken.nl/;;knooppunt-hoevelaken.nl;1-10-2021;;ja;ja;;rijksreg;http://knooppunt-hoevelaken.nl;21-8-2021;;
@@ -847,8 +852,8 @@
 ;Gemeente;;;Almelo;;;https://ris.almelo.nl/;;ris.almelo.nl;;;ja;;;200ok;;;INTRANET;uitzoeken
 ;Gemeente;;;Almelo;;;https://mijn.gbtwente.nl/;;mijn.gbtwente.nl;;;ja;;;200ok;;;;uitzoeken
 ;Gemeente;;;Almelo;;;https://www.verlorenofgevonden.nl/;;verlorenofgevonden.nl;;;ja;nee;verlorenofgevonden;200ok;;;;
-;Gemeente;;;Almelo;;;https://www.mijn-melding.nl/almelo/viewer.php;;mijn-melding.nl;11-11-2021;;ja;nee;mijn-meldin;200ok;;;;
 ;Gemeente;;;Almelo;;;https://lms.nederlandslicht.nl/almelo/outages/report;;lms.nederlandslicht.nl;27-11-2021;;ja;nee;LMS;200ok;;;;
+;Gemeente;;;Almelo;;;https://www.mijn-melding.nl/almelo/viewer.php;;mijn-melding.nl;11-11-2021;;ja;nee;mijn-meldin;200ok;;;;
 ;Gemeente;;;Almelo;;Omgevingsdienst Twente (OD Twente);https://www.odtwente.nl/;;odtwente.nl;;;nee;ja;;200ok;;;;
 ;Gemeente;;;Almelo;;Port of Twente;https://www.portoftwente.com/;;portoftwente.com;;;nee;nee;;200ok;;;;
 ;Gemeente;;;Almelo;;Regio Twente;https://www.regiotwente.nl/;;regiotwente.nl;;;ja;;;200ok;;;;uitzoeken
@@ -866,9 +871,11 @@
 ;Gemeente;;;Almelo;;Stadsbank Oost Nederland;https://stadsbankoostnederland.nl/;;stadsbankoostnederland.nl;;;nee;nee;;200ok;;;;
 ;Gemeente;;;Almelo;;;https://www.vragensociaaldomein.nl/deelnemers/;;vragensociaaldomein.nl;;;ja;;;200ok;;;;uitzoeken
 ;Gemeente;;;Almelo;;Werkplein Twente;https://www.werkpleintwente.nl/;;werkpleintwente.nl;;;nee;nee;;200ok;;;;
+;Gemeente;;;Almelo;;;https://www.binnenstadsmonitoralmelo.nl/;;binnenstadsmonitoralmelo.nl;30-11-2021;;ja;ja;;200ok;;;;
 ;Gemeente;;;Almelo;;Veiligheidsregio Twente (VRT);https://www.vrtwente.nl/;;vrtwente.nl;;;nee;ja;;200ok;;;;
 ;Gemeente;;;Almelo;;;https://almelo.easycruit.com/;;almelo.easycruit.com;23-10-2021;;ja;ja;easycruit;200ok;;;;
 ;Gemeente;;;Almelo;;;https://www.gemeentebanen.nl/overheden/gemeente-almelo;;gemeentebanen.nl;;;nee;nee;gemeentebanen;200ok;;;;
+;Gemeente;;;Almelo;;Kennispunt Twente;https://almelopanel.nl/;;almelopanel.nl;30-11-2021;;ja;ja;;200ok;;;;
 ;Gemeente;;;Almere;;;https://www.almere.nl/;;almere.nl;;;ja;ja;;200ok;;; ALG;
 ;Gemeente;;;Almere;;HVC Groep;https://www.hvcgroep.nl/zelf-regelen/afvalkalender;;hvcgroep.nl;;;ja;nee;;200ok;;;;
 ;Gemeente;;;Almere;;;https://almere.archiefweb.eu/;;almere.archiefweb.eu;15-10-2021;;ja;ja;;200ok;;;ARCHIEF;
@@ -1325,7 +1332,7 @@
 ;Gemeente;;;Assen;;;https://bedrijfsafval.assen.nl/;;bedrijfsafval.assen.nl;;;ja;;;200ok;;;;uitzoeken
 ;Gemeente;;;Assen;;;https://parkeren.assen.nl/;;parkeren.assen.nl;;;ja;;;200ok;;;;uitzoeken
 ;Gemeente;;;Assen;;Regio Groningen-Assen;https://regiogroningenassen.nl/;;regiogroningenassen.nl;;;nee;ja;;200ok;;;;
-;Gemeente;;;Assen;;;https://vacatures.vooruitindrenthe.nl/organisatie/178;;;9-11-2021;;ja;nee;;200ok;;;;
+;Gemeente;;;Assen;;;https://vacatures.vooruitindrenthe.nl/organisatie/178;;vacatures.vooruitindrenthe.nl;9-11-2021;;ja;nee;;200ok;;;;
 ;Gemeente;;;Asten;;;https://www.asten.nl/inwoners;;asten.nl;;;ja;ja;;200ok;;; ALG;
 ;Gemeente;;;Asten;;;https://afspraken.asten.nl/internet_afspraken/;;afspraken.asten.nl;15-10-2021;;ja;;;200ok;;;;
 ;Gemeente;;;Asten;;Reiniging BLINK;https://mijnblink.nl/;;mijnblink.nl;;;nee;nee;;200ok;;;;
@@ -2020,8 +2027,8 @@
 ;Gemeente;;;Borger-Odoorn;;EMCO-groep;https://emco-groep.nl/;;emco-groep.nl;;;ja;nee;;almanak;;;;
 ;Gemeente;;;Borger-Odoorn;;;https://actiefborgerodoorn.nl/;;actiefborgerodoorn.nl;;;ja;;;200ok;;;;uitzoeken
 ;Gemeente;;;Borger-Odoorn;;;https://meedoen.borger-odoorn.nl/home.html;;meedoen.borger-odoorn.nl;;;ja;;;200ok;;;;uitzoeken
+;Gemeente;;;Borger-Odoorn;;;https://vacatures.vooruitindrenthe.nl/organisatie/172;;vacatures.vooruitindrenthe.nl;9-11-2021;;ja;nee;;200ok;;;;
 ;Gemeente;;;Borger-Odoorn;;;https://wozloket.borger-odoorn.nl/;;wozloket.borger-odoorn.nl;;;ja;;;200ok;;;;uitzoeken
-;Gemeente;;;Borger-Odoorn;;;https://vacatures.vooruitindrenthe.nl/organisatie/172;;;9-11-2021;;ja;nee;;200ok;;;;
 ;Gemeente;;;Borne;;;https://www.borne.nl/;;borne.nl;;;ja;ja;;200ok;;; ALG;
 ;Gemeente;;;Borne;;;https://afspraken.borne.nl/internetafspraken;;afspraken.borne.nl;15-10-2021;;ja;deel;;200ok;;;;
 ;Gemeente;;;Borne;;;https://portal.twentemilieu.nl/diftar/borne/;;portal.twentemilieu.nl;;;ja;;;200ok;;;;uitzoeken
@@ -2049,6 +2056,7 @@
 ;Gemeente;;;Borne;;Werkplein Twente;https://www.werkpleintwente.nl/;;werkpleintwente.nl;;;nee;nee;;200ok;;;;
 ;Gemeente;;;Borne;;Veiligheidsregio Twente (VRT);https://www.vrtwente.nl/;;vrtwente.nl;;;nee;ja;;200ok;;;;
 ;Gemeente;;;Borne;;;https://www.gemeentebanen.nl/overheden/gemeente-borne;;gemeentebanen.nl;;;nee;nee;gemeentebanen;200ok;;;;
+;Gemeente;;;Borne;;Kennispunt Twente;https://bornepanel.nl/;;bornepanel.nl;30-11-2021;;ja;ja;;200ok;;;;
 ;Gemeente;;;Borne;;;https://www.bornesport.nl/;;bornesport.nl;;;ja;;;200ok;;;;uitzoeken
 ;Gemeente;;;Borne;;;https://www.bornschematen.com/;;bornschematen.com;;;ja;;;200ok;;;;uitzoeken
 ;Gemeente;;;Borne;;;https://www.groene-poort.nl/Beleef;;groene-poort.nl;;;ja;;;200ok;;;;uitzoeken
@@ -2515,9 +2523,9 @@
 ;Gemeente;;;Coevorden;;;https://www.jeugdhulpzuiddrenthe.nl/;;jeugdhulpzuiddrenthe.nl;;;ja;;;200ok;;;;uitzoeken
 ;Gemeente;;;Coevorden;;;https://kansrijk-opgroeien.nl/;;kansrijk-opgroeien.nl;;;;;;tv;;;;
 ;Gemeente;;;Coevorden;;;https://mijnshv.coevorden.nl/;;mijnshv.coevorden.nl;;;ja;;;200ok;;;;uitzoeken
+;Gemeente;;;Coevorden;;;https://vacatures.vooruitindrenthe.nl/organisatie/173;;vacatures.vooruitindrenthe.nl;9-11-2021;;ja;nee;;200ok;;;;
 ;Gemeente;;;Coevorden;;;https://www.verwijzingswijzer.nl/;;verwijzingswijzer.nl;;;ja;;;200ok;;;;uitzoeken
 ;Gemeente;;;Coevorden;;;https://www.woz-loket.coevorden.nl/;;woz-loket.coevorden.nl;;;ja;;;200ok;;;;uitzoeken
-;Gemeente;;;Coevorden;;;https://vacatures.vooruitindrenthe.nl/organisatie/173;;;9-11-2021;;ja;nee;;200ok;;;;
 ;Gemeente;;;Cranendonck;;;https://www.cranendonck.nl/;;cranendonck.nl;;;ja;ja;;200ok;;; ALG;
 ;Gemeente;;;Cranendonck;;;https://afspraken.cranendonck.nl/;;afspraken.cranendonck.nl;15-10-2021;;ja;deel;;200ok;;;;
 ;Gemeente;;;Cranendonck;;;http://afvalkalender.cranendonck.nl/;;afvalkalender.cranendonck.nl;;;ja;;;200ok;;;;uitzoeken
@@ -3283,8 +3291,8 @@
 ;Gemeente;;;Druten;;;https://intranet.druten.nl/;;intranet.druten.nl;;;ja;;;200ok;;;INTRANET;uitzoeken
 ;Gemeente;;;Druten;;;https://iburgerzaken.druten.nl/gaas-web/server/start/StartVerhuizing;;iburgerzaken.druten.nl;;;ja;ja;iburgerzaken;200ok;;;;
 ;Gemeente;;;Druten;;;https://www.verlorenofgevonden.nl/;;verlorenofgevonden.nl;;;ja;nee;verlorenofgevonden;200ok;;;;
-;Gemeente;;;Druten;;;https://www.mijn-melding.nl/druten/melding.php;;mijn-melding.nl;11-11-2021;;ja;nee;mijn-meldin;200ok;;;;
 ;Gemeente;;;Druten;;;https://lms.nederlandslicht.nl/druten/outages/report;;lms.nederlandslicht.nl;27-11-2021;;ja;nee;LMS;200ok;;;;
+;Gemeente;;;Druten;;;https://www.mijn-melding.nl/druten/melding.php;;mijn-melding.nl;11-11-2021;;ja;nee;mijn-meldin;200ok;;;;
 ;Gemeente;;;Druten;;Omgevingsdienst Regio Nijmegen (ODRN);https://www.odregionijmegen.nl/;;odregionijmegen.nl;;;nee;ja;;200ok;;;;
 ;Gemeente;;;Druten;;;https://www.zonatlas.nl/druten/;;zonatlas.nl;;;ja;nee;zonatlas;200ok;;;;
 ;Gemeente;;;Druten;;Recreatieschap Nederrijn, Lek en Waal;https://www.uiterwaarde.nl/;;uiterwaarde.nl;;;nee;nee;;200ok;;;;
@@ -3309,8 +3317,8 @@
 ;Gemeente;;;Duiven;;;https://ilost.co/nl/org/gemeente-duiven;;ilost.co;;;nee;nee;ilost;200ok;;;;
 ;Gemeente;;;Duiven;;;https://www.verlorenofgevonden.nl/;;verlorenofgevonden.nl;;;ja;nee;verlorenofgevonden;200ok;;;;
 ;Gemeente;;;Duiven;;;https://www.fixi.nl/duiven;;fixi.nl;;;ja;nee;fixi;200ok;;;;uitzoeken
-;Gemeente;;;Duiven;;;https://storing.moononline.nl/gemeenteduiven;;storing.moononline.nl;;;ja;;;200ok;;;;uitzoeken
 ;Gemeente;;;Duiven;;;https://lms.nederlandslicht.nl/duiven/outages/report;;lms.nederlandslicht.nl;27-11-2021;;ja;nee;LMS;200ok;;;;
+;Gemeente;;;Duiven;;;https://storing.moononline.nl/gemeenteduiven;;storing.moononline.nl;;;ja;;;200ok;;;;uitzoeken
 ;Gemeente;;;Duiven;;Omgevingsdienst Regio Arnhem;https://www.odregioarnhem.nl/;;odregioarnhem.nl;;;nee;ja;;200ok;;;;
 ;Gemeente;;;Duiven;;;https://www.zonatlas.nl/duiven/;;zonatlas.nl;;;ja;nee;zonatlas;200ok;;;;
 ;Gemeente;;;Duiven;;;https://0226.ropubliceer.nl/;;0226.ropubliceer.nl;;;ja;ja;ropubliceer;200ok;;;;
@@ -3655,9 +3663,9 @@
 ;Gemeente;;;Emmen;;;https://mmmeter.nl/;;mmmeter.nl;;;;;;tv;;;;
 ;Gemeente;;;Emmen;;;https://rensenparkemmen.nl/;;rensenparkemmen.nl;;;ja;;;200ok;;;;uitzoeken
 ;Gemeente;;;Emmen;;;https://stemvan.emmen.nl/;;stemvan.emmen.nl;;;;;;tv;;;;
+;Gemeente;;;Emmen;;;https://vacatures.vooruitindrenthe.nl/organisatie/164;;vacatures.vooruitindrenthe.nl;9-11-2021;;ja;nee;;200ok;;;;
 ;Gemeente;;;Emmen;;;https://www.wspdrenthe.nl/default.aspx;;wspdrenthe.nl;;;;;;tv;;;;
 ;Gemeente;;;Emmen;;;https://gemeente.emmen.nl/zwembaden;;zwemmeninemmen.nl;;;;;;200ok;;;;
-;Gemeente;;;Emmen;;;https://vacatures.vooruitindrenthe.nl/organisatie/164;;;9-11-2021;;ja;nee;;200ok;;;;
 ;Gemeente;;;Enkhuizen;;;https://www.enkhuizen.nl/;;enkhuizen.nl;;;ja;ja;;200ok;;; ALG;
 ;Gemeente;;;Enkhuizen;;HVC Groep;https://www.hvcgroep.nl/zelf-regelen/afvalkalender;;hvcgroep.nl;;;ja;nee;;200ok;;;;
 ;Gemeente;;;Enkhuizen;;;https://enkhuizen.archiefweb.eu/;;enkhuizen.archiefweb.eu;;;ja;ja;;200ok;;;ARCHIEF;
@@ -3716,6 +3724,7 @@
 ;Gemeente;;;Enschede;;Stadsbank Oost Nederland;https://stadsbankoostnederland.nl/;;stadsbankoostnederland.nl;;;nee;nee;;200ok;;;;
 ;Gemeente;;;Enschede;;;https://www.vragensociaaldomein.nl/deelnemers/;;vragensociaaldomein.nl;;;ja;;;200ok;;;;uitzoeken
 ;Gemeente;;;Enschede;;Werkplein Twente;https://www.werkpleintwente.nl/;;werkpleintwente.nl;;;nee;nee;;200ok;;;;
+;Gemeente;;;Enschede;;;https://www.binnenstadsmonitorenschede.nl/;;binnenstadsmonitorenschede.nl;30-11-2021;;ja;ja;;200ok;;;;
 ;Gemeente;;;Enschede;;Veiligheidsregio Twente (VRT);https://www.vrtwente.nl/;;vrtwente.nl;;;nee;ja;;200ok;;;;
 ;Gemeente;;;Enschede;;;https://www.gemeentebanen.nl/overheden/gemeente-enschede;;gemeentebanen.nl;;;nee;nee;gemeentebanen;200ok;;;;
 ;Gemeente;;;Enschede;;;https://platform.negometrix.com/PublicBuyerProfile/PublishedTenderInformation.aspx?isPublicProfile=false&tenderId=19451&tab=&page=1&searchParam=&sortParam=Id&sortDirection=False;;platform.negometrix.com;;;ja;;;200ok;;;;uitzoeken
@@ -3730,6 +3739,7 @@
 ;Gemeente;;;Enschede;;;https://enschede.slimmelden.nl/;;enschede.slimmelden.nl;;;ja;;;200ok;;;;uitzoeken
 ;Gemeente;;;Enschede;;;http://enschede.zonnekaart.nl/;;enschede.zonnekaart.nl;;;ja;;;200ok;;;;uitzoeken
 ;Gemeente;;;Enschede;;;https://enschedefietsstad.nl/;;enschedefietsstad.nl;;;ja;;;200ok;;;;uitzoeken
+;Gemeente;;;Enschede;;Kennispunt Twente;https://www.enschedepanel.nl/;;enschedepanel.nl;30-11-2021;;ja;ja;;200ok;;;;
 ;Gemeente;;;Enschede;;;http://enschedewektop.nl/;;enschedewektop.nl;;;ja;;;200ok;;;;uitzoeken
 ;Gemeente;;;Enschede;;;https://www.erfgoedenschede.nl/;;erfgoedenschede.nl;;;;;;tv;;;;
 ;Gemeente;;;Enschede;;;https://www.geldkompasenschede.nl/;;geldkompasenschede.nl;;;ja;;;200ok;;;;uitzoeken
@@ -4794,7 +4804,6 @@
 ;Gemeente;;;Heerhugowaard;;;https://www.heerhugowaard.nl/;;heerhugowaard.nl;;;ja;ja;;200ok;;; ALG;
 ;Gemeente;;;Heerhugowaard;;;https://afspraken.heerhugowaard.nl/;;afspraken.heerhugowaard.nl;15-10-2021;;ja;deel;;200ok;;;;
 ;Gemeente;;;Heerhugowaard;;HVC Groep;https://www.hvcgroep.nl/zelf-regelen/afvalkalender;;hvcgroep.nl;;;ja;nee;;200ok;;;;
-;Gemeente;;;Heerhugowaard;;;https://www.mijnafvalwijzer.nl/;;mijnafvalwijzer.nl;17-10-2021;;ja;ja;;200ok;;;;
 ;Gemeente;;;Heerhugowaard;;;https://www.mijnafvalwijzer.nl/;;mijnafvalwijzer.nl;;;nee;nee;mijnafvalwijzer;200ok;;;;uitzoeken
 ;Gemeente;;;Heerhugowaard;;;https://heerhugowaard.archiefweb.eu/;;heerhugowaard.archiefweb.eu;;;ja;ja;;200ok;;;ARCHIEF;
 ;Gemeente;;;Heerhugowaard;;;https://heerhugowaard.begroting-2018.nl/;;heerhugowaard.begroting-2018.nl;23-10-2021;;ja;ja;;200ok;;;;
@@ -5137,6 +5146,7 @@
 ;Gemeente;;;Hengelo Ov.;;;https://www.kavelsinhengelo.nl/;;kavelsinhengelo.nl;;;ja;;;200ok;;;;uitzoeken
 ;Gemeente;;;Hengelo Ov.;;;https://www.hengelo.nl/marktplein;;hengelo.nl;;;ja;;;200ok;;;;uitzoeken
 ;Gemeente;;;Hengelo Ov.;;;https://www.hengeloaardgasvrij.nl/;;hengeloaardgasvrij.nl;;;ja;;;200ok;;;;uitzoeken
+;Gemeente;;;Hengelo OV.;;Kennispunt Twente;https://www.hengelopanel.nl/;;hengelopanel.nl;30-11-2021;;ja;ja;;200ok;;;;
 ;Gemeente;;;Hengelo Ov.;;;https://mijn.hengelo.nl/;;mijn.hengelo.nl;;;ja;;;200ok;;;;uitzoeken
 ;Gemeente;;;Hengelo Ov.;;;https://www.omgevingsvisiehengelo.nl/;;omgevingsvisiehengelo.nl;;;ja;;;200ok;;;;uitzoeken
 ;Gemeente;;;Hengelo Ov.;;;https://parkeren.hengelo.nl/;;parkeren.hengelo.nl;;;ja;;;200ok;;;;uitzoeken
@@ -5557,9 +5567,9 @@
 ;Gemeente;;;Huizen;;;https://www.huizen.woz-portaal.nl/;;huizen.woz-portaal.nl;;;ja;;;200ok;;;;uitzoeken
 ;Gemeente;;;Huizen;;;https://formulieren.huizen.nl/;;formulieren.huizen.nl;;;ja;ja;;200ok;;;;uitzoeken
 ;Gemeente;;;Huizen;;;https://www.verlorenofgevonden.nl/;;verlorenofgevonden.nl;;;ja;nee;verlorenofgevonden;200ok;;;;
+;Gemeente;;;Huizen;;;https://lms.nederlandslicht.nl/huizen/outages/report;;lms.nederlandslicht.nl;27-11-2021;;ja;nee;LMS;200ok;;;;
 ;Gemeente;;;Huizen;;;https://www.mijn-melding.nl/huizen/melding.php;;mijn-melding.nl;11-11-2021;;ja;nee;mijn-meldin;200ok;;;;
 ;Gemeente;;;Huizen;;;https://storing.moononline.nl/gemeentehuizen;;storing.moononline.nl;;;ja;;;200ok;;;;uitzoeken
-;Gemeente;;;Huizen;;;https://lms.nederlandslicht.nl/huizen/outages/report;;lms.nederlandslicht.nl;27-11-2021;;ja;nee;LMS;200ok;;;;
 ;Gemeente;;;Huizen;;;https://www.huizenklimaatbewust.nl/;;huizenklimaatbewust.nl;;;ja;;;200ok;;;;uitzoeken
 ;Gemeente;;;Huizen;;Omgevingsdienst Flevoland & Gooi en Vechtstreek (OFGV);https://www.ofgv.nl/;;ofgv.nl;;;nee;ja;;200ok;;;;
 ;Gemeente;;;Huizen;;Regio Gooi en Vechtstreek;https://www.regiogv.nl/;;regiogv.nl;;;nee;nee;;200ok;;;;
@@ -6822,7 +6832,7 @@
 ;Gemeente;;;Meppel;;Veiligheidsregio Drenthe (VRD);https://www.vrd.nl/home.html;;vrd.nl;;;nee;ja;;200ok;;;;
 ;Gemeente;;;Meppel;;;https://www.talentenregio.nl/taxonomy/term/3073;;talentenregio.nl;6-11-2021;;ja;nee;;200ok;;;;
 ;Gemeente;;;Meppel;;;https://www.talentenregiohuurtin.nl/;;talentenregiohuurtin.nl;6-11-2021;;ja;nee;talentenregiohuurtin;200ok;;;;
-;Gemeente;;;Meppel;;;https://vacatures.vooruitindrenthe.nl/organisatie/177;;;9-11-2021;;ja;nee;;200ok;;;;
+;Gemeente;;;Meppel;;;https://vacatures.vooruitindrenthe.nl/organisatie/177;;vacatures.vooruitindrenthe.nl;9-11-2021;;ja;nee;;200ok;;;;
 ;Gemeente;;;Middelburg;;;https://www.middelburg.nl/;;middelburg.nl;;;ja;ja;;200ok;;; ALG;
 ;Gemeente;;;Middelburg;;;https://afspraken.middelburg.nl/services;;afspraken.middelburg.nl;15-10-2021;;ja;deel;;200ok;;;;
 ;Gemeente;;;Middelburg;;Openbaar Lichaam Afvalstoffenverwijdering Zeeland (O.L.A.Z.);https://www.olazzeeland.nl/;;olazzeeland.nl;;;nee;nee;;200ok;;;;
@@ -6884,7 +6894,7 @@
 ;Gemeente;;;Midden-Drenthe;;GGD Drenthe;https://www.ggddrenthe.nl/publiek/;https://www.ggddrenthe.nl/;ggddrenthe.nl;15-10-2021;;ja;nee;;200ok;;;;
 ;Gemeente;;;Midden-Drenthe;;Stark;https://www.wijzijnstark.nl/;;wijzijnstark.nl;;;nee;nee;;200ok;;;;
 ;Gemeente;;;Midden-Drenthe;;Veiligheidsregio Drenthe (VRD);https://www.vrd.nl/home.html;;vrd.nl;;;nee;ja;;200ok;;;;
-;Gemeente;;;Midden-Drenthe;;;https://vacatures.vooruitindrenthe.nl/organisatie/180;;;9-11-2021;;ja;nee;;200ok;;;;
+;Gemeente;;;Midden-Drenthe;;;https://vacatures.vooruitindrenthe.nl/organisatie/180;;vacatures.vooruitindrenthe.nl;9-11-2021;;ja;nee;;200ok;;;;
 ;Gemeente;;;Midden-Groningen;;;https://www.midden-groningen.nl/;;midden-groningen.nl;;;ja;ja;;200ok;;; ALG;
 ;Gemeente;;;Midden-Groningen;;;https://internetafspraken.midden-groningen.nl/;;internetafspraken.midden-groningen.nl;15-10-2021;;ja;deel;;200ok;;;;
 ;Gemeente;;;Midden-Groningen;;;https://www.mijnafvalwijzer.nl/;;mijnafvalwijzer.nl;;;nee;nee;mijnafvalwijzer;200ok;;;;uitzoeken
@@ -8453,6 +8463,7 @@
 ;Gemeente;;;Rijssen-Holten;;Veiligheidsregio Twente (VRT);https://www.vrtwente.nl/;;vrtwente.nl;;;nee;ja;;200ok;;;;
 ;Gemeente;;;Rijssen-Holten;;;https://opbroek.rijssen-holten.nl/;;opbroek.rijssen-holten.nl;;;ja;;;200ok;;;;uitzoeken
 ;Gemeente;;;Rijssen-Holten;;;https://kolschool.rijssen-holten.nl/;;kolschool.rijssen-holten.nl;;;ja;;;200ok;;;;uitzoeken
+;Gemeente;;;Rijssen-Holten;;Kennispunt Twente;https://www.rijssen-holtenpanel.nl/;;rijssen-holtenpanel.nl;30-11-2021;;ja;ja;;200ok;;;;
 ;Gemeente;;;Rijswijk;;;https://www.rijswijk.nl/inwoners;;rijswijk.nl;;;ja;ja;;200ok;;; ALG;
 ;Gemeente;;;Rijswijk;;;https://afspraak.rijswijk.nl/services;;afspraak.rijswijk.nl;15-10-2021;;ja;;;200ok;;;;
 ;Gemeente;;;Rijswijk;;Regionaal Reinigingsbedrijf Avalex;https://www.avalex.nl/kalender/;;avalex.nl;;;nee;nee;;200ok;;;;
@@ -10176,7 +10187,7 @@
 ;Gemeente;;;Veldhoven;;;https://vergunning.p1overheid.nl/veldhoven;;vergunning.p1overheid.nl;;;ja;;;200ok;;;;uitzoeken
 ;Gemeente;;;Veldhoven;;;http://www.kempenbaanveldhoven.nl/;;kempenbaanveldhoven.nl;;;ja;;;200ok;;;;uitzoeken
 ;Gemeente;;;Veldhoven;;;https://www.akj.nl/welkom/;https://www.akj.nl/;akj.nl;;;nee;nee;;200ok;;;;
-x;Gemeente;;;Veldhoven;;;http://www.cjgveldhoven.nl/;;cjgveldhoven.nl;5-11-2021;;ja;nee;;200ok;;;;
+;Gemeente;;;Veldhoven;;;http://www.cjgveldhoven.nl/;;cjgveldhoven.nl;5-11-2021;;ja;nee;;200ok;;;;
 ;Gemeente;;;Veldhoven;;Werkvoorzieningschap Regio Eindhoven;https://ergon.nu/;;ergon.nu;;;nee;nee;;200ok;;;;
 ;Gemeente;;;Veldhoven;;;https://gezondverzekerd.nl/gemeente/veldhoven;;gezondverzekerd.nl;15-10-2021;;ja;nee;gezondverzekerd;200ok;;;;
 ;Gemeente;;;Veldhoven;;GGD Brabant-Zuidoost;https://www.ggdbzo.nl/;;ggdbzo.nl;;;ja;nee;;200ok;;;;
@@ -10296,7 +10307,6 @@ x;Gemeente;;;Veldhoven;;;http://www.cjgveldhoven.nl/;;cjgveldhoven.nl;5-11-2021;
 ;Gemeente;;;Venlo;;Veiligheidsregio Limburg-Noord;https://www.vrln.nl/;;vrln.nl;;;nee;ja;;200ok;;;;
 ;Gemeente;;;Venlo;;;https://www.gemeentebanen.nl/overheden/gemeente-venlo;;gemeentebanen.nl;;;nee;nee;gemeentebanen;200ok;;;;
 ;Gemeente;;;Venlo;;;https://marktplaats.banenpleinlimburg.nl/;;marktplaats.banenpleinlimburg.nl;;;ja;;;200ok;;;;uitzoeken
-;Gemeente;;;Venlo;;;https://venlo.dashboardsamenwerking.nl/;;venlo.dashboardsamenwerking.nl;23-10-2021;;ja;ja;;200ok;;;;
 ;Gemeente;;;Venlo;;;https://begroting.venlo.nl/;;begroting.venlo.nl;;;ja;;;200ok;;;;uitzoeken
 ;Gemeente;;;Venlo;;;https://buurtbudget.venlo.nl/;;buurtbudget.venlo.nl;;;;;;tv;;;;
 ;Gemeente;;;Venlo;;;http://c2cvenlo.nl/;;c2cvenlo.nl;;;ja;;;200ok;;;;uitzoeken
@@ -10421,11 +10431,11 @@ x;Gemeente;;;Veldhoven;;;http://www.cjgveldhoven.nl/;;cjgveldhoven.nl;5-11-2021;
 ;Gemeente;;;Vlaardingen;;;https://vlaardingen.begrotingsapp.nl/;;vlaardingen.begrotingsapp.nl;;;ja;nee;begrotingsapp.nl;200ok;;;;
 ;Gemeente;;;Vlaardingen;;;http://vlaardingen.raadsinformatie.nl/;;vlaardingen.raadsinformatie.nl;;;ja;;;200ok;;;;uitzoeken
 ;Gemeente;;;Vlaardingen;;;https://www.ombudsmanrotterdam.nl/;;ombudsmanrotterdam.nl;;;ja;;;200ok;;;;uitzoeken
-;Gemeente;;;Vlaardingen;;;http://pers.vlaardingen.nl/;;pers.vlaardingen.nl;;;ja;;;200ok;;;;uitzoeken
 ;Gemeente;;;Vlaardingen;;;https://www.berekenuwrechtplus.nl/vlaardingen;;berekenuwrechtplus.nl;;;ja;nee;;200ok;;;;
 ;Gemeente;;;Vlaardingen;;Regionale Belasting Groep;https://derbg.nl/;;derbg.nl;;;ja;nee;;200ok;;;;
 ;Gemeente;;;Vlaardingen;;;https://lokaaltotaal.nl/vlaardingen;;lokaaltotaal.nl;15-10-2021;;ja;nee;lokaaltotaal;200ok;;;;
-;Gemeente;;;Vlaardingen;;;https://secure.vlaardingen.nl/share/page?pt=login;;secure.vlaardingen.nl;;;nee;ja;;200ok;;;INTRANET;
+;Gemeente;;;Vlaardingen;;;https://secure.vlaardingen.nl/share/page?pt=login;;secure.vlaardingen.nl;30-11-2021;;nee;ja;;200ok;;;INTRANET;
+;Gemeente;;;Vlaardingen;;;https://balie2.vlaardingen.nl/;;balie2.vlaardingen.nl;30-11-2021;;ja;ja;;200ok;;;;
 ;Gemeente;;;Vlaardingen;;;https://www.verlorenofgevonden.nl/;;verlorenofgevonden.nl;;;ja;nee;verlorenofgevonden;200ok;;;;
 ;Gemeente;;;Vlaardingen;;;;;;;;ja;ja;;200ok;;;;
 ;Gemeente;;;Vlaardingen;;DCMR Milieudienst Rijnmond;https://www.dcmr.nl/;;dcmr.nl;;;nee;nee;;200ok;;;;
@@ -10450,15 +10460,13 @@ x;Gemeente;;;Veldhoven;;;http://www.cjgveldhoven.nl/;;cjgveldhoven.nl;5-11-2021;
 ;Gemeente;;;Vlaardingen;;Veiligheidsregio Rotterdam-Rijnmond (VRR);https://vr-rr.nl/;;vr-rr.nl;;;nee;ja;;200ok;;;;
 ;Gemeente;;;Vlaardingen;;;https://www.gemeentebanen.nl/overheden/gemeente-vlaardingen;;gemeentebanen.nl;;;nee;nee;gemeentebanen;200ok;;;;
 ;Gemeente;;;Vlaardingen;;;https://www.gemeentebanen.nl/overheden/stroomopwaarts;;gemeentebanen.nl;;;nee;nee;gemeentebanen;200ok;;;;
-;Gemeente;;;Vlaardingen;;;https://balie2.vlaardingen.nl/;;balie2.vlaardingen.nl;;;ja;;;200ok;;;;
 ;Gemeente;;;Vlaardingen;;;https://centrumvoorjeugdengezin.nl/vlaardingen;;centrumvoorjeugdengezin.nl;15-10-2021;;ja;nee;;200ok;;;;
 ;Gemeente;;;Vlaardingen;;Platform31 (G4+G40);https://www.platform31.nl/;;platform31.nl;;;nee;nee;;200ok;;;;
 ;Gemeente;;;Vlieland;;;https://www.vlieland.nl/home-vlieland/;;vlieland.nl;;;ja;ja;;200ok;;; ALG;
 ;Gemeente;;;Vlieland;;;https://www.afvalscheidingswijzer.nl/;;afvalscheidingswijzer.nl;;;ja;;;200ok;;;;uitzoeken
 ;Gemeente;;;Vlieland;;;https://vlieland.archiefweb.eu/;;vlieland.archiefweb.eu;;;ja;ja;;200ok;;;ARCHIEF;
-;Gemeente;;;Vlieland;;;https://bestuur.vlieland.nl/vlieland-bestuur-en-organisatie/raadsvergaderingen_3895/;;bestuur.vlieland.nl;;;ja;;;200ok;;;;uitzoeken
 ;Gemeente;;;Vlieland;;;https://ris2.ibabs.eu/Vlieland;;ris2.ibabs.eu;15-10-2021;;ja;deel;ibabs;200ok;;;;
-;Gemeente;;;Vlieland;;;http://www.vlieland.nl/raad;;vlieland.nl;;;ja;;;200ok;;;;uitzoeken
+;Gemeente;;;Vlieland;;;https://www.vlieland.nl/raad;;vlieland.nl;30-11-2021;;ja;ja;;200ok;;;;
 ;Gemeente;;;Vlieland;;;https://vlieland.raadsinformatie.nl/;;vlieland.raadsinformatie.nl;;;ja;;;200ok;;;;uitzoeken
 ;Gemeente;;;Vlieland;;;https://www.aangifteportaal.nl/Aangifte.aspx?Parm=VLIE0385;;aangifteportaal.nl;12-10-2021;;ja;nee;aangifteportaal;200ok;;;;
 ;Gemeente;;;Vlieland;;Vitens;https://www.vitens.nl/tarieven-en-voorwaarden/tarieven-overzicht?gemeente=vlieland;;vitens.nl;;;nee;ja;vitens;200ok;;1-10-2021;;
@@ -10466,6 +10474,7 @@ x;Gemeente;;;Veldhoven;;;http://www.cjgveldhoven.nl/;;cjgveldhoven.nl;5-11-2021;
 ;Gemeente;;;Vlieland;;hus en hiem;https://www.husenhiem.nl/;;husenhiem.nl;;;nee;nee;;200ok;;;;
 ;Gemeente;;;Vlieland;;;https://www.e-inwoner.nl/;;e-inwoner.nl;;;ja;nee;;200ok;;;;
 ;Gemeente;;;Vlieland;;Fryske Utfieringstsjinst Miljeu en Omjouwing (FUMO);https://www.fumo.nl/;;fumo.nl;;;nee;nee;;200ok;;;;
+;Gemeente;;;Vlieland;;;https://www.vlieland.nl/duurzaamheid;;vlieland.nl;30-11-2021;;ja;ja;;200ok;;;;
 ;Gemeente;;;Vlieland;;De Waddeneilanden;https://www.dewaddeneilanden.nl/;;dewaddeneilanden.nl;;;ja;nee;;200ok;;;;
 ;Gemeente;;;Vlieland;;;https://www.akj.nl/welkom/;https://www.akj.nl/;akj.nl;;;nee;nee;;200ok;;;;
 ;Gemeente;;;Vlieland;;;http://www.cjgvlieland.nl/;;cjgvlieland.nl;5-11-2021;;ja;nee;;200ok;;;;
@@ -10473,15 +10482,13 @@ x;Gemeente;;;Veldhoven;;;http://www.cjgveldhoven.nl/;;cjgveldhoven.nl;5-11-2021;
 ;Gemeente;;;Vlieland;;GGD Fryslân;https://www.ggdfryslan.nl/;;ggdfryslan.nl;;;ja;nee;;200ok;;;;
 ;Gemeente;;;Vlieland;;Dienst Sociale Zaken en Werkgelegenheid Noardwest Fryslân;https://www.sozawe-nw-fryslan.nl/;;sozawe-nw-fryslan.nl;;;nee;nee;;200ok;;;;
 ;Gemeente;;;Vlieland;;;https://www.startpuntgeldzaken.nl/noordwestfriesland;;startpuntgeldzaken.nl;;;ja;;;200ok;;;;
-;Gemeente;;;Vlieland;;;https://secure.vlieland.nl/;;secure.vlieland.nl;;;ja;ja;;200ok;;;;
 ;Gemeente;;;Vlieland;;Veiligheidsregio Fryslân;https://www.veiligheidsregiofryslan.nl/;;veiligheidsregiofryslan.nl;;;nee;ja;;200ok;;;;
-;Gemeente;;;Vlieland;;;http://www.vlieland.nl/boswijk;;vlieland.nl;;;ja;;;200ok;;;;uitzoeken
-;Gemeente;;;Vlieland;;;http://www.vlieland.nl/duurzaamheid;;vlieland.nl;;;ja;;;200ok;;;;uitzoeken
+;Gemeente;;;Vlieland;;;https://www.vlieland.nl/boswijk;;vlieland.nl;30-11-2021;;ja;ja;;200ok;;;;
 ;Gemeente;;;Vlissingen;;;https://www.vlissingen.nl/home/;;vlissingen.nl;;;ja;ja;;200ok;;; ALG;
 ;Gemeente;;;Vlissingen;;;https://afspraken.vlissingen.nl/internetafspraken/;;afspraken.vlissingen.nl;15-10-2021;;ja;deel;;200ok;;;;
 ;Gemeente;;;Vlissingen;;Openbaar Lichaam Afvalstoffenverwijdering Zeeland (O.L.A.Z.);https://www.olazzeeland.nl/;;olazzeeland.nl;;;nee;nee;;200ok;;;;
 ;Gemeente;;;Vlissingen;;Zeeuwse ReinigingsDienst;https://www.zrd.nl/afvalkalender.htm;;zrd.nl;;;ja;nee;;200ok;;;;
-;Gemeente;;;Vlissingen;;;https://gemeenteraad.vlissingen.nl/;;gemeenteraad.vlissingen.nl;;;ja;;;200ok;;;;uitzoeken
+;Gemeente;;;Vlissingen;;;https://gemeenteraad.vlissingen.nl/;;gemeenteraad.vlissingen.nl;30-11-2021;;ja;ja;;200ok;;;;
 ;Gemeente;;;Vlissingen;;;http://vlissingen.raadsinformatie.nl/;;vlissingen.raadsinformatie.nl;;;ja;;;200ok;;;;uitzoeken
 ;Gemeente;;;Vlissingen;;;https://makelpunt-nederland.nl/home-makelpunt-walcheren;;makelpunt-nederland.nl;;;ja;;;200ok;;;;uitzoeken
 ;Gemeente;;;Vlissingen;;;https://www.berekenuwrechtplus.nl/vlissingen;;berekenuwrechtplus.nl;;;ja;nee;;200ok;;;;
@@ -10491,6 +10498,7 @@ x;Gemeente;;;Veldhoven;;;http://www.cjgveldhoven.nl/;;cjgveldhoven.nl;5-11-2021;
 ;Gemeente;;;Vlissingen;;;;;;;;ja;ja;;200ok;;;;
 ;Gemeente;;;Vlissingen;;;https://www.burgerklacht.nl/vlissingen/melding_ordeveiligheid.php;;burgerklacht.nl;;;ja;ja;burgerklacht;200ok;;;;
 ;Gemeente;;;Vlissingen;;RUD Zeeland (Regionale Uitvoeringsdienst Zeeland);http://www.rud-zeeland.nl/;;rud-zeeland.nl;;;nee;ja;;200ok;;;;
+;Gemeente;;;Vlissingen;;;https://ro.vlissingen.nl/;;ro.vlissingen.nl;30-11-2021;;ja;ja;;200ok;;;;
 ;Gemeente;;;Vlissingen;;Orionis Walcheren;https://www.orioniswalcheren.nl/;;orioniswalcheren.nl;;;nee;nee;;200ok;;;;
 ;Gemeente;;;Vlissingen;;;https://www.akj.nl/welkom/;https://www.akj.nl/;akj.nl;;;nee;nee;;200ok;;;;
 ;Gemeente;;;Vlissingen;;;https://gezondverzekerd.nl/gemeente/vlissingen;;gezondverzekerd.nl;15-10-2021;;ja;nee;gezondverzekerd;200ok;;;;
@@ -10511,9 +10519,10 @@ x;Gemeente;;;Veldhoven;;;http://www.cjgveldhoven.nl/;;cjgveldhoven.nl;5-11-2021;
 ;Gemeente;;;Voerendaal;;Belastingsamenwerking Gemeenten en Waterschappen (BsGW);https://bsgw.nl/;;bsgw.nl;;;ja;nee;;200ok;;;;
 ;Gemeente;;;Voerendaal;;;http://www.rijckheyt.nl/;;rijckheyt.nl;;;ja;;;200ok;;;;uitzoeken
 ;Gemeente;;;Voerendaal;;;https://lokaaltotaal.nl/voerendaal;;lokaaltotaal.nl;15-10-2021;;ja;nee;lokaaltotaal;200ok;;;;
-;Gemeente;;;Voerendaal;;;http://mijn.voerendaal.nl/aanvragen/137/persoon/verhuizing-of-emigratie;;mijn.voerendaal.nl;;;ja;;;200ok;;;;uitzoeken
+;Gemeente;;;Voerendaal;;;https://mijn.voerendaal.nl/aanvragen/137/persoon/verhuizing-of-emigratie;;mijn.voerendaal.nl;30-11-2021;;ja;ja;;200ok;;;;
 ;Gemeente;;;Voerendaal;;RUD Zuid-Limburg;https://www.rudzuidlimburg.nl/default.aspx;;rudzuidlimburg.nl;;;nee;ja;;200ok;;;;
 ;Gemeente;;;Voerendaal;;Het gegevenshuis;https://gegevenshuis.nl/;;gegevenshuis.nl;;;nee;nee;;200ok;;;;
+;Gemeente;;;Voerendaal;;;https://ruimtelijkeplannen.voerendaal.nl/;;ruimtelijkeplannen.voerendaal.nl;30-11-2021;;ja;ja;;200ok;;;;
 ;Gemeente;;;Voerendaal;;Stadsregio Parkstad Limburg;https://parkstad-limburg.nl/;;parkstad-limburg.nl;;;nee;nee;;200ok;;;;
 ;Gemeente;;;Voerendaal;;ADV-Limburg;https://www.advlimburg.nl/;;advlimburg.nl;1-11-2021;;nee;nee;;almanak;;;;
 ;Gemeente;;;Voerendaal;;;https://www.akj.nl/welkom/;https://www.akj.nl/;akj.nl;;;nee;nee;;200ok;;;;
@@ -10532,6 +10541,7 @@ x;Gemeente;;;Veldhoven;;;http://www.cjgveldhoven.nl/;;cjgveldhoven.nl;5-11-2021;
 ;Gemeente;;;Voerendaal;;Werkgeversservicepunt Parkstad;https://www.wspparkstad.nl/;;wspparkstad.nl;;;nee;nee;;200ok;;;;
 ;Gemeente;;;Voorschoten;;;https://www.voorschoten.nl/;;voorschoten.nl;;;ja;ja;;200ok;;; ALG;
 ;Gemeente;;;Voorschoten;;;https://voorschoten.mijnafspraakmaken.nl/Client/;;voorschoten.mijnafspraakmaken.nl;15-10-2021;;ja;deel;;200ok;;;;
+;Gemeente;;;Voorschoten;;;https://afvalkalender.voorschoten.nl/;;afvalkalender.voorschoten.nl;30-11-2021;;ja;ja;;200ok;;;;
 ;Gemeente;;;Voorschoten;;;https://www.voorschotenmaakthetverschil.nl/;;voorschotenmaakthetverschil.nl;;;ja;;;200ok;;;;uitzoeken
 ;Gemeente;;;Voorschoten;;;https://voorschoten.archiefweb.eu/;;voorschoten.archiefweb.eu;;;ja;ja;;200ok;;;ARCHIEF;
 ;Gemeente;;;Voorschoten;;;https://ris2.ibabs.eu/Voorschoten;;ris2.ibabs.eu;15-10-2021;;ja;deel;ibabs;200ok;;;;
@@ -10562,6 +10572,7 @@ x;Gemeente;;;Veldhoven;;;http://www.cjgveldhoven.nl/;;cjgveldhoven.nl;5-11-2021;
 ;Gemeente;;;Voorst;;;https://www.circulus-berkel.nl/voorst;;circulus-berkel.nl;5-11-2021;;ja;nee;;200ok;;;;
 ;Gemeente;;;Voorst;;;https://voorst.archiefweb.eu/;;voorst.archiefweb.eu;;;ja;ja;;200ok;;;ARCHIEF;
 ;Gemeente;;;Voorst;;;http://voorst.raadsinformatie.nl/;;voorst.raadsinformatie.nl;;;ja;;;200ok;;;;uitzoeken
+;Gemeente;;;Voorst;;;https://filecap.voorst.nl/;;filecap.voorst.nl;30-11-2021;;ja;ja;;200ok;;;;
 ;Gemeente;;;Voorst;;Tribuut belastingsamenwerking;https://www.tribuut.nl/;;tribuut.nl;;;ja;;;200ok;;;;uitzoeken
 ;Gemeente;;;Voorst;;Vitens;https://www.vitens.nl/tarieven-en-voorwaarden/tarieven-overzicht?gemeente=voorst;;vitens.nl;;;nee;ja;vitens;200ok;;1-10-2021;;
 ;Gemeente;;;Voorst;;;https://lokaaltotaal.nl/voorst;;lokaaltotaal.nl;15-10-2021;;ja;nee;lokaaltotaal;200ok;;;;
@@ -10588,7 +10599,7 @@ x;Gemeente;;;Veldhoven;;;http://www.cjgveldhoven.nl/;;cjgveldhoven.nl;5-11-2021;
 ;Gemeente;;;Vught;;;https://vught.100-100-100.nl/;;vught.100-100-100.nl;;;ja;;;200ok;;;;
 ;Gemeente;;;Vught;;;http://vught.afvalstoffendienstkalender.nl/;;vught.afvalstoffendienstkalender.nl;;;ja;;;200ok;;;;uitzoeken
 ;Gemeente;;;Vught;;;https://vught.archiefweb.eu/;;vught.archiefweb.eu;;;ja;ja;;200ok;;;ARCHIEF;
-;Gemeente;;;Vught;;;https://gemeenteraad.vught.nl/;;gemeenteraad.vught.nl;;;ja;;;200ok;;;;uitzoeken
+;Gemeente;;;Vught;;;https://gemeenteraad.vught.nl/;;gemeenteraad.vught.nl;30-11-2021;;ja;ja;;200ok;;;;
 ;Gemeente;;;Vught;;;http://ibabsonline.eu/Kalender.aspx?site=Vught;;ibabsonline.eu;;;ja;deel;ibabs;tv;;;;
 ;Gemeente;;;Vught;;;https://vught.bestuurlijkeinformatie.nl/;;vught.bestuurlijkeinformatie.nl;;;ja;ja;ibabs ris;200ok;;;;
 ;Gemeente;;;Vught;;Brabant Water;https://www.brabantwater.nl/klantenservice/gemeentelijke-heffingen-en-belastingen;;brabantwater.nl;;;ja;nee;;200ok;;1-10-2021;;
@@ -10605,14 +10616,14 @@ x;Gemeente;;;Veldhoven;;;http://www.cjgveldhoven.nl/;;cjgveldhoven.nl;5-11-2021;
 ;Gemeente;;;Vught;;;https://gezondverzekerd.nl/gemeente/vught;;gezondverzekerd.nl;15-10-2021;;ja;nee;gezondverzekerd;200ok;;;;
 ;Gemeente;;;Vught;;GGD Hart voor Brabant;https://www.ggdhvb.nl/;;ggdhvb.nl;;;ja;nee;;200ok;;;;
 ;Gemeente;;;Vught;;RIOZ (Specialistische jeugdhulp);https://www.jeugdhulpnob.nl/;;jeugdhulpnob.nl;;;nee;nee;;200ok;;;;
+;Gemeente;;;Vught;;;https://socialekaart.vught.nl/;;socialekaart.vught.nl;30-11-2021;;ja;ja;;200ok;;;;
 ;Gemeente;;;Vught;;;http://www.vughtvoorelkaar.nl/;;vughtvoorelkaar.nl;;;ja;;;200ok;;;;uitzoeken
-;Gemeente;;;Vught;;;https://wegwijsplus.vught.nl/;;wegwijsplus.vught.nl;;;ja;;;200ok;;;;uitzoeken
+;Gemeente;;;Vught;;;https://wegwijsplus.vught.nl/;;wegwijsplus.vught.nl;30-11-2021;;ja;ja;;200ok;;;;
 ;Gemeente;;;Vught;;;http://shertogenbosch-vught.jeugdsportfonds.nl/;;shertogenbosch-vught.jeugdsportfonds.nl;;;ja;;;200ok;;;;uitzoeken
 ;Gemeente;;;Vught;;Veiligheidsregio Brabant-Noord;https://www.vrbn.nl/;;vrbn.nl;;;nee;ja;;200ok;;;;
 ;Gemeente;;;Vught;;;https://www.gemeentebanen.nl/overheden/gemeente-vught;;gemeentebanen.nl;;;nee;nee;gemeentebanen;200ok;;;;
 ;Gemeente;;;Vught;;;https://inhuurdesk.werkeninnoordoostbrabant.nl/;;inhuurdesk.werkeninnoordoostbrabant.nl;;;ja;;;200ok;;;;uitzoeken
 ;Gemeente;;;Vught;;;https://dekoepelvught.nl/;;dekoepelvught.nl;;;ja;;;200ok;;;;uitzoeken
-;Gemeente;;;Vught;;;https://socialekaart.vught.nl/;;socialekaart.vught.nl;;;ja;;;200ok;;;;uitzoeken
 ;Gemeente;;;Waadhoeke;;;https://www.waadhoeke.nl/;;waadhoeke.nl;;;ja;ja;;200ok;;; ALG;
 ;Gemeente;;;Waadhoeke;;;https://afspraken.waadhoeke.nl/;;afspraken.waadhoeke.nl;15-10-2021;;ja;deel;;200ok;;;;
 ;Gemeente;;;Waadhoeke;;;https://www.omrin.nl/afvalkalender;;omrin.nl;;;ja;;;200ok;;;;
@@ -10627,10 +10638,13 @@ x;Gemeente;;;Veldhoven;;;http://www.cjgveldhoven.nl/;;cjgveldhoven.nl;5-11-2021;
 ;Gemeente;;;Waadhoeke;;Vitens;https://www.vitens.nl/tarieven-en-voorwaarden/tarieven-overzicht?gemeente=waadhoeke;;vitens.nl;;;nee;ja;vitens;200ok;;1-10-2021;;
 ;Gemeente;;;Waadhoeke;;;https://lokaaltotaal.nl/franekeradeel;;lokaaltotaal.nl;15-10-2021;;ja;nee;lokaaltotaal;200ok;;;;
 ;Gemeente;;;Waadhoeke;;;http://waadhoeke.smartmap.nl/;;waadhoeke.smartmap.nl;;;ja;;;200ok;;;;uitzoeken
+;Gemeente;;;Waadhoeke;;;https://intranet.waadhoeke.nl/;;intranet.waadhoeke.nl;30-10-2021;;ja;ja;;200ok;;;;
 ;Gemeente;;;Waadhoeke;;hus en hiem;https://www.husenhiem.nl/;;husenhiem.nl;;;nee;nee;;200ok;;;;
+;Gemeente;;;Waadhoeke;;;https://loket.waadhoeke.nl/;;loket.waadhoeke.nl;30-10-2021;;ja;ja;;200ok;;;;
 ;Gemeente;;;Waadhoeke;;;https://www.verlorenofgevonden.nl/;;verlorenofgevonden.nl;;;ja;nee;verlorenofgevonden;200ok;;;;
 ;Gemeente;;;Waadhoeke;;;;;;;;ja;ja;;200ok;;;;
 ;Gemeente;;;Waadhoeke;;Fryske Utfieringstsjinst Miljeu en Omjouwing (FUMO);https://www.fumo.nl/;;fumo.nl;;;nee;nee;;200ok;;;;
+;Gemeente;;;Waadhoeke;;;https://parkeren.waadhoeke.nl/;;parkeren.waadhoeke.nl;30-10-2021;;ja;ja;;200ok;;;;
 ;Gemeente;;;Waadhoeke;;Marrekrite;https://www.marrekrite.frl/;;marrekrite.frl;;;nee;nee;;200ok;;;;
 ;Gemeente;;;Waadhoeke;;;https://www.akj.nl/welkom/;https://www.akj.nl/;akj.nl;;;nee;nee;;200ok;;;;
 ;Gemeente;;;Waadhoeke;;;https://gezondverzekerd.nl/gemeente/waadhoeke;;gezondverzekerd.nl;15-10-2021;;ja;nee;gezondverzekerd;200ok;;;;
@@ -10640,10 +10654,10 @@ x;Gemeente;;;Veldhoven;;;http://www.cjgveldhoven.nl/;;cjgveldhoven.nl;5-11-2021;
 ;Gemeente;;;Waadhoeke;;Veiligheidsregio Fryslân;https://www.veiligheidsregiofryslan.nl/;;veiligheidsregiofryslan.nl;;;nee;ja;;200ok;;;;
 ;Gemeente;;;Waadhoeke;;;http://www.werkeninfriesland.nl/inhuur-externen/;;werkeninfriesland.nl;;;ja;;;200ok;;;;uitzoeken
 ;Gemeente;;;Waalre;;;https://www.waalre.nl/;;waalre.nl;;;ja;ja;;200ok;;; ALG;
-;Gemeente;;;Waalre;;;https://afvalkalender.waalre.nl/;;afvalkalender.waalre.nl;;;ja;;;200ok;;;;uitzoeken
+;Gemeente;;;Waalre;;;https://afvalkalender.waalre.nl/;;afvalkalender.waalre.nl;30-11-2021;;ja;ja;;200ok;;;;
 ;Gemeente;;;Waalre;;;https://waalre.notubiz.nl/;;waalre.notubiz.nl;;;ja;ja;notubiz;200ok;;;;
 ;Gemeente;;;Waalre;;Brabant Water;https://www.brabantwater.nl/klantenservice/gemeentelijke-heffingen-en-belastingen;;brabantwater.nl;;;ja;nee;;200ok;;1-10-2021;;
-;Gemeente;;;Waalre;;;http://intranet.waalre.nl/;;intranet.waalre.nl;;;ja;;;200ok;;;INTRANET;uitzoeken
+;Gemeente;;;Waalre;;;https://mijn.waalre.nl/;;mijn.waalre.nl;30-11-2021;;ja;ja;;200ok;;;;
 ;Gemeente;;;Waalre;;;http://www.burgerklacht.nl/waalre/melding.php;;burgerklacht.nl;;;ja;ja;burgerklacht;200ok;;;;
 ;Gemeente;;;Waalre;;;https://www.duurzaamdoorwaalre.nl/;;duurzaamdoorwaalre.nl;;;ja;;;200ok;;;;uitzoeken
 ;Gemeente;;;Waalre;;Omgevingsdienst Zuidoost-Brabant;https://odzob.nl/;;odzob.nl;;;nee;ja;;200ok;;;;
@@ -10655,18 +10669,22 @@ x;Gemeente;;;Veldhoven;;;http://www.cjgveldhoven.nl/;;cjgveldhoven.nl;5-11-2021;
 ;Gemeente;;;Waalre;;;https://www.hethuisvanwaalre.nl/;;hethuisvanwaalre.nl;;;ja;;;200ok;;;;uitzoeken
 ;Gemeente;;;Waalre;;Zorg- en Veiligheidshuizen;https://www.veiligheidshuizen.nl/veiligheidshuizen/veiligheidshuis-brabant-zuidoost/;;veiligheidshuizen.nl;;;ja;;;200ok;;;;uitzoeken
 ;Gemeente;;;Waalre;;Veiligheidsregio Brabant-Zuidoost (VRBZO);https://www.vrbzo.nl/;;vrbzo.nl;;;nee;ja;;200ok;;;;
-;Gemeente;;;Waalre;;;https://mijn.waalre.nl/;;mijn.waalre.nl;;;;;;tv;;;;
 ;Gemeente;;;Waalwijk;;;https://www.waalwijk.nl/;;waalwijk.nl;;;ja;ja;;200ok;;; ALG;
 ;Gemeente;;;Waalwijk;;;https://afspraak.waalwijk.nl/InternetAfspraken/;;afspraak.waalwijk.nl;15-10-2021;;ja;;;200ok;;;;
 ;Gemeente;;;Waalwijk;;;https://www.mijnafvalwijzer.nl/;;mijnafvalwijzer.nl;;;nee;nee;mijnafvalwijzer;200ok;;;;uitzoeken
 ;Gemeente;;;Waalwijk;;;https://waalwijk.begrotingsapp.nl/;;waalwijk.begrotingsapp.nl;;;ja;nee;begrotingsapp.nl;200ok;;;;
 ;Gemeente;;;Waalwijk;;;https://waalwijk.notubiz.nl/;;waalwijk.notubiz.nl;;;ja;ja;notubiz;200ok;;;;
 ;Gemeente;;;Waalwijk;;;https://waalwijk.gemeentedocumenten.nl/Docs/Regelgeving/79a.%20AANGEPASTE%20tarieventabel%20legesverordening%202018.pdf;;waalwijk.gemeentedocumenten.nl;;;ja;;;200ok;;;;
+;Gemeente;;;Waalwijk;;;https://zwemmen.waalwijk.nl/;;;30-11-2021;;ja;ja;;200ok;;;;
 ;Gemeente;;;Waalwijk;;Brabant Water;https://www.brabantwater.nl/klantenservice/gemeentelijke-heffingen-en-belastingen;;brabantwater.nl;;;ja;nee;;200ok;;1-10-2021;;
+;Gemeente;;;Waalwijk;;;https://loket.waalwijk.nl/;;;30-11-2021;;ja;ja;;200ok;;;;
+;Gemeente;;;Waalwijk;;;https://belastingloket.waalwijk.nl/mc/;;;30-11-2021;;ja;ja;;200ok;;;;
 ;Gemeente;;;Waalwijk;;Streekarchief Langstraat Heusden Altena;https://salha.nl/;;salha.nl;;;nee;nee;;200ok;;;;
 ;Gemeente;;;Waalwijk;;;https://lokaaltotaal.nl/waalwijk;;lokaaltotaal.nl;15-10-2021;;ja;nee;lokaaltotaal;200ok;;;;
+;Gemeente;;;Waalwijk;;;https://beeldbankbeheer.waalwijk.nl/;;;30-11-2021;;ja;ja;;200ok;;;;
 ;Gemeente;;;Waalwijk;;;https://iburgerzaken.waalwijk.nl/gaas-web/server/start/StartVerhuizing;;iburgerzaken.waalwijk.nl;;;ja;ja;iburgerzaken;200ok;;;;
 ;Gemeente;;;Waalwijk;;;https://ilost.co/nl/org/gemeente-waalwijk;;ilost.co;;;nee;nee;ilost;200ok;;;;
+;Gemeente;;;Waalwijk;;;https://sporten.waalwijk.nl/;;;30-11-2021;;ja;ja;;200ok;;;;
 ;Gemeente;;;Waalwijk;;Omgevingsdienst Midden- en West-Brabant;https://www.omwb.nl/;;omwb.nl;;;nee;ja;;200ok;;;;
 ;Gemeente;;;Waalwijk;;;https://www.p1.nl/digitaal-loket/waalwijk;;p1.nl;;;ja;;;200ok;;;;uitzoeken
 ;Gemeente;;;Waalwijk;;;https://vergunning.p1overheid.nl/waalwijk;;vergunning.p1overheid.nl;;;ja;;;200ok;;;;uitzoeken
@@ -10676,6 +10694,7 @@ x;Gemeente;;;Veldhoven;;;http://www.cjgveldhoven.nl/;;cjgveldhoven.nl;5-11-2021;
 ;Gemeente;;;Waalwijk;;;https://gezondverzekerd.nl/gemeente/waalwijk;;gezondverzekerd.nl;15-10-2021;;ja;nee;gezondverzekerd;200ok;;;;
 ;Gemeente;;;Waalwijk;;GGD Hart voor Brabant;https://www.ggdhvb.nl/;;ggdhvb.nl;;;ja;nee;;200ok;;;;
 ;Gemeente;;;Waalwijk;;;https://www.waalwijzer.nl/;;waalwijzer.nl;;;ja;;;200ok;;;;uitzoeken
+;Gemeente;;;Waalwijk;;;https://meedoen.waalwijk.nl/;;;30-11-2021;;ja;ja;;200ok;;;;
 ;Gemeente;;;Waalwijk;;;https://waalwijk.incijfers.nl/dashboard/;;waalwijk.incijfers.nl;;;ja;;;200ok;;;;uitzoeken
 ;Gemeente;;;Waalwijk;;Veiligheidsregio Midden- en West-Brabant;https://www.vrmwb.nl/;;vrmwb.nl;;;nee;ja;;200ok;;;;
 ;Gemeente;;;Waalwijk;;;https://www.gemeentebanen.nl/overheden/gemeente-waalwijk;;gemeentebanen.nl;;;nee;nee;gemeentebanen;200ok;;;;
@@ -10687,9 +10706,11 @@ x;Gemeente;;;Veldhoven;;;http://www.cjgveldhoven.nl/;;cjgveldhoven.nl;5-11-2021;
 ;Gemeente;;;Waddinxveen;;;https://www.mijnafvalwijzer.nl/;;mijnafvalwijzer.nl;;;nee;nee;mijnafvalwijzer;200ok;;;;uitzoeken
 ;Gemeente;;;Waddinxveen;;;https://www.groenehartrekenkamer.nl/;;groenehartrekenkamer.nl;;;ja;;;200ok;;;;uitzoeken
 ;Gemeente;;;Waddinxveen;;;https://waddinxveen.raadsinformatie.nl/;;waddinxveen.raadsinformatie.nl;;;ja;;;200ok;;;;uitzoeken
+;Gemeente;;;Waddinxveen;;;https://waddsup.waddinxveen.nl/;;waddsup.waddinxveen.nl;30-11-2021;;ja;ja;;200ok;;;;
 ;Gemeente;;;Waddinxveen;;Belastingsamenwerking Gouwe-Rijnland (BSGR);https://www.bsgr.nl/belastingen/tarieven/waddinxveen/;;bsgr.nl;;;ja;nee;;200ok;;;;
 ;Gemeente;;;Waddinxveen;;;https://intranet.waddinxveen.nl/;;intranet.waddinxveen.nl;;;ja;;;200ok;;;INTRANET;uitzoeken
 ;Gemeente;;;Waddinxveen;;;https://iburgerzaken.waddinxveen.nl/gaas-web/server/start/StartVerhuizing;;iburgerzaken.waddinxveen.nl;;;ja;ja;iburgerzaken;200ok;;;;
+;Gemeente;;;Waddinxveen;;;https://mijnuitkering.waddinxveen.nl/;;mijnuitkering.waddinxveen.nl;30-11-2021;;ja;ja;;200ok;;;;
 ;Gemeente;;;Waddinxveen;;;https://www.verlorenofgevonden.nl/;;verlorenofgevonden.nl;;;ja;nee;verlorenofgevonden;200ok;;;;
 ;Gemeente;;;Waddinxveen;;;https://www.fixi.nl/;;fixi.nl;;;ja;nee;fixi;200ok;;;;uitzoeken
 ;Gemeente;;;Waddinxveen;;Omgevingsdienst Midden-Holland (ODMH);https://www.odmh.nl/;;odmh.nl;;;nee;ja;;200ok;;;;
@@ -10706,13 +10727,14 @@ x;Gemeente;;;Veldhoven;;;http://www.cjgveldhoven.nl/;;cjgveldhoven.nl;5-11-2021;
 ;Gemeente;;;Waddinxveen;;;https://www.gemeentebanen.nl/overheden/gemeente-waddinxveen;;gemeentebanen.nl;;;nee;nee;gemeentebanen;200ok;;;;
 ;Gemeente;;;Waddinxveen;;;http://www.inhuurdeskgroenehart.nl/;;inhuurdeskgroenehart.nl;;;ja;;;200ok;;;;uitzoeken
 ;Gemeente;;;Wageningen;;;https://www.wageningen.nl/;;wageningen.nl;;;ja;ja;;200ok;;; ALG;
-;Gemeente;;;Wageningen;;;https://afspraak.wageningen.nl/services;;afspraak.wageningen.nl;15-10-2021;;ja;;;200ok;;;;
+;Gemeente;;;Wageningen;;;https://afspraak.wageningen.nl/services;;afspraak.wageningen.nl;30-11-2021;;ja;ja;;200ok;;;;
 ;Gemeente;;;Wageningen;;ACV;https://www.acv-afvalkalender.nl/;;acv-afvalkalender.nl;1-11-2021;;ja;nee;acv-afvalkalender;200ok;;;;
 ;Gemeente;;;Wageningen;;ACV;https://www.acv-groep.nl/afvalpas-aanvragen-wageningen;;acv-groep.nl;1-11-2021;;nee;nee;acv-afvalpas;200ok;;;;
 ;Gemeente;;;Wageningen;;;https://www.mijnafvalwijzer.nl/;;mijnafvalwijzer.nl;;;nee;nee;mijnafvalwijzer;200ok;;;;uitzoeken
 ;Gemeente;;;Wageningen;;;https://wageningen.archiefweb.eu/;;wageningen.archiefweb.eu;;;ja;ja;;200ok;;;ARCHIEF;
 ;Gemeente;;;Wageningen;;;https://wageningen.begrotingsapp.nl/;;wageningen.begrotingsapp.nl;;;ja;nee;begrotingsapp.nl;200ok;;;;
 ;Gemeente;;;Wageningen;;;https://wageningen.raadsinformatie.nl/;;wageningen.raadsinformatie.nl;;;ja;;;200ok;;;;uitzoeken
+;Gemeente;;;Wageningen;;;https://stemvan.wageningen.nl/nl-NL/;;stemvan.wageningen.nl;30-11-2021;;ja;ja;;200ok;;;;
 ;Gemeente;;;Wageningen;;Vitens;https://www.vitens.nl/tarieven-en-voorwaarden/tarieven-overzicht?gemeente=wageningen;;vitens.nl;;;nee;ja;vitens;200ok;;1-10-2021;;
 ;Gemeente;;;Wageningen;;;http://www.wageningen.smartmap.nl/;;wageningen.smartmap.nl;;;ja;;;200ok;;;;uitzoeken
 ;Gemeente;;;Wageningen;;;https://devallei.vergunning.blitts.nl/;;devallei.vergunning.blitts.nl;4-11-2021;;ja;nee;blitts;200ok;;;;
@@ -10721,6 +10743,7 @@ x;Gemeente;;;Veldhoven;;;http://www.cjgveldhoven.nl/;;cjgveldhoven.nl;5-11-2021;
 ;Gemeente;;;Wageningen;;Omgevingsdienst De Vallei (OddV);https://www.oddevallei.nl/;;oddevallei.nl;;;nee;ja;;200ok;;;;
 ;Gemeente;;;Wageningen;;;https://www.zonatlas.nl/wageningen/;;zonatlas.nl;;;ja;nee;zonatlas;200ok;;;;
 ;Gemeente;;;Wageningen;;Regio Foodvalley;https://www.regiofoodvalley.nl/;;regiofoodvalley.nl;6-11-2021;;ja;nee;;200ok;;;;
+;Gemeente;;;Wageningen;;;https://parkeerbalie.wageningen.nl/;;parkeerbalie.wageningen.nl;30-11-2021;;ja;ja;;200ok;;;;
 ;Gemeente;;;Wageningen;;;http://gis.wageningen.nl/;;gis.wageningen.nl;;;ja;;;200ok;;;;uitzoeken
 ;Gemeente;;;Wageningen;;Statuten van het openbaar lichaam Euregio Rijn-Waal;https://www.euregio.org;;euregio.org;;;ja;nee;;200ok;;;;
 ;Gemeente;;;Wageningen;;;https://www.akj.nl/welkom/;https://www.akj.nl/;akj.nl;;;nee;nee;;200ok;;;;
@@ -10740,6 +10763,7 @@ x;Gemeente;;;Veldhoven;;;http://www.cjgveldhoven.nl/;;cjgveldhoven.nl;5-11-2021;
 ;Gemeente;;;Wassenaar;;;https://wassenaar.bestuurlijkeinformatie.nl/;;wassenaar.bestuurlijkeinformatie.nl;;;ja;ja;ibabs ris;200ok;;;;
 ;Gemeente;;;Wassenaar;;;https://www.wodv.nl/;;wodv.nl;11-11-2021;offline;ja;;;200ok;;;;uitzoeken
 ;Gemeente;;;Wassenaar;;Belastingsamenwerking Gouwe-Rijnland (BSGR);https://www.bsgr.nl/belastingen/tarieven/wassenaar/;;bsgr.nl;;;ja;nee;;200ok;;;;
+;Gemeente;;;Wassenaar;;;https://gemeentearchief.wassenaar.nl/;;gemeentearchief.wassenaar.nl;30-11-2021;;ja;ja;;200ok;;;;
 ;Gemeente;;;Wassenaar;;;https://lokaaltotaal.nl/wassenaar;;lokaaltotaal.nl;15-10-2021;;ja;nee;lokaaltotaal;200ok;;;;
 ;Gemeente;;;Wassenaar;;;https://wassenaar-plus.incijfers.nl/;;wassenaar-plus.incijfers.nl;;;ja;;;200ok;;;INTRANET;uitzoeken
 ;Gemeente;;;Wassenaar;;;https://secure.werkorganisatieduivenvoorde.nl/form/pu-2013-7-verhuizing-doorgeven-met-digid;;secure.werkorganisatieduivenvoorde.nl;;;ja;ja;;200ok;;;;
@@ -10767,6 +10791,7 @@ x;Gemeente;;;Veldhoven;;;http://www.cjgveldhoven.nl/;;cjgveldhoven.nl;5-11-2021;
 ;Gemeente;;;Waterland;;;https://waterland.bestuurlijkeinformatie.nl/;;waterland.bestuurlijkeinformatie.nl;;;ja;ja;ibabs ris;200ok;;;;
 ;Gemeente;;;Waterland;;;https://www.berekenuwrechtplus.nl/waterland;;berekenuwrechtplus.nl;;;ja;nee;;200ok;;;;
 ;Gemeente;;;Waterland;;;https://lokaaltotaal.nl/waterland/;;lokaaltotaal.nl;15-10-2021;;ja;nee;lokaaltotaal;200ok;;;;
+;Gemeente;;;Waterland;;;https://dloket.waterland.nl/;;dloket.waterland.nl;30-11-2021;;ja;ja;;200ok;;;;
 ;Gemeente;;;Waterland;;;;;;;;ja;ja;;200ok;;;;
 ;Gemeente;;;Waterland;;;https://www.degroenemenukaart.nl/waterland/homepage/;;degroenemenukaart.nl;5-11-2021;;ja;nee;;200ok;;;;
 ;Gemeente;;;Waterland;;Omgevingsdienst IJmond;https://www.odijmond.nl/;;odijmond.nl;;;nee;ja;;200ok;;;;
@@ -10787,6 +10812,7 @@ x;Gemeente;;;Veldhoven;;;http://www.cjgveldhoven.nl/;;cjgveldhoven.nl;5-11-2021;
 ;Gemeente;;;Weert;;;https://eloket.weert.nl/;;eloket.weert.nl;;;;;;tv;;;;
 ;Gemeente;;;Weert;;;https://iburgerzaken.weert.nl/gaas-web/server/start/StartVerhuizing;;iburgerzaken.weert.nl;;;ja;ja;iburgerzaken;200ok;;;;
 ;Gemeente;;;Weert;;;https://ilost.co/nl/org/gemeente-weert;;ilost.co;;;nee;nee;ilost;200ok;;;;
+;Gemeente;;;Weert;;;https://pip.weert.nl/;;pip.weert.nl;30-11-2021;;ja;ja;;200ok;;;;
 ;Gemeente;;;Weert;;;https://www.verlorenofgevonden.nl/;;verlorenofgevonden.nl;;;ja;nee;verlorenofgevonden;200ok;;;;
 ;Gemeente;;;Weert;;RUD Limburg Noord (Regionale uitvoeringsdienst Limburg Noord);https://www.rudlimburgnoord.nl/default.aspx;;rudlimburgnoord.nl;;;nee;ja;;200ok;;;;
 ;Gemeente;;;Weert;;ADV-Limburg;https://www.advlimburg.nl/;;advlimburg.nl;1-11-2021;;nee;nee;;almanak;;;;
@@ -10800,6 +10826,7 @@ x;Gemeente;;;Veldhoven;;;http://www.cjgveldhoven.nl/;;cjgveldhoven.nl;5-11-2021;
 ;Gemeente;;;Weert;;;https://marktplaats.banenpleinlimburg.nl/;;marktplaats.banenpleinlimburg.nl;;;ja;;;200ok;;;;uitzoeken
 ;Gemeente;;;Weesp;;;https://www.weesp.nl/;;weesp.nl;;;ja;ja;;200ok;;; ALG;
 ;Gemeente;;;Weesp;;;https://orion.weesp.nl/Internetafspraken/;;orion.weesp.nl;15-10-2021;;ja;;;200ok;;;;
+;Gemeente;;;Weesp;;;https://afvalcontainers.weesp.nl/;;afvalcontainers.weesp.nl;30-11-2021;;ja;ja;;200ok;;;;
 ;Gemeente;;;Weesp;;;https://www.gad.nl/mijn-gemeente/weesp/;;gad.nl;6-11-2021;;ja;nee;GAD;200ok;;;;
 ;Gemeente;;;Weesp;;;http://weesp.gemeentedocumenten.nl/;;weesp.gemeentedocumenten.nl;;;ja;;;200ok;;;;
 ;Gemeente;;;Weesp;;;https://weesp.raadsinformatie.nl/;;weesp.raadsinformatie.nl;;;ja;;;200ok;;;;uitzoeken
@@ -10810,8 +10837,10 @@ x;Gemeente;;;Veldhoven;;;http://www.cjgveldhoven.nl/;;cjgveldhoven.nl;5-11-2021;
 ;Gemeente;;;Weesp;;;https://iburgerzaken.weesp.nl/gaas-web/server/start/StartVerhuizing;;iburgerzaken.weesp.nl;;;ja;ja;iburgerzaken;200ok;;;;
 ;Gemeente;;;Weesp;;;https://www.verlorenofgevonden.nl/;;verlorenofgevonden.nl;;;ja;nee;verlorenofgevonden;200ok;;;;
 ;Gemeente;;;Weesp;;;https://www.fixi.nl/;;fixi.nl;;;ja;nee;fixi;200ok;;;;uitzoeken
+;Gemeente;;;Weesp;;;https://meldingen.weesp.nl/;;meldingen.weesp.nl;30-11-2021;;ja;ja;;200ok;;;;
 ;Gemeente;;;Weesp;;Omgevingsdienst Flevoland & Gooi en Vechtstreek (OFGV);https://www.ofgv.nl/;;ofgv.nl;;;nee;ja;;200ok;;;;
 ;Gemeente;;;Weesp;;Regio Gooi en Vechtstreek;https://www.regiogv.nl/;;regiogv.nl;;;nee;nee;;200ok;;;;
+;Gemeente;;;Weesp;;;https://weespbegroot.weesp.nl/;;weespbegroot.weesp.nl;30-11-2021;;ja;ja;;200ok;;;;
 ;Gemeente;;;Weesp;;;https://www.akj.nl/welkom/;https://www.akj.nl/;akj.nl;;;nee;nee;;200ok;;;;
 ;Gemeente;;;Weesp;;;http://www.cjgweesp.nl/;;cjgweesp.nl;5-11-2021;;ja;nee;;200ok;;;;
 ;Gemeente;;;Weesp;;;https://gezondverzekerd.nl/gemeente/weesp;;gezondverzekerd.nl;15-10-2021;;ja;nee;gezondverzekerd;200ok;;;;
@@ -10824,6 +10853,7 @@ x;Gemeente;;;Veldhoven;;;http://www.cjgveldhoven.nl/;;cjgveldhoven.nl;5-11-2021;
 ;Gemeente;;;West Betuwe;;;https://neerijnen.archiefweb.eu/;;neerijnen.archiefweb.eu;;;ja;ja;;200ok;;;ARCHIEF;
 ;Gemeente;;;West Betuwe;;;http://westbetuwe.archiefweb.eu/;;westbetuwe.archiefweb.eu;;;ja;ja;;200ok;;;ARCHIEF;
 ;Gemeente;;;West Betuwe;;;https://westbetuwe.archiefweb.eu/;;westbetuwe.archiefweb.eu;15-10-2021;;ja;ja;;200ok;;;ARCHIEF;
+;Gemeente;;;West Betuwe;;;https://bestuur.westbetuwe.nl/;;bestuur.westbetuwe.nl;30-11-2021;;ja;ja;;200ok;;;;
 ;Gemeente;;;West Betuwe;;;https://gemeenteraad.westbetuwe.nl/;;gemeenteraad.westbetuwe.nl;;;ja;;;200ok;;;;uitzoeken
 ;Gemeente;;;West Betuwe;;;https://lingewaal.raadsinformatie.nl/;;lingewaal.raadsinformatie.nl;;;ja;;;200ok;;;;uitzoeken
 ;Gemeente;;;West Betuwe;;;https://raad.neerijnen.nl/;;raad.neerijnen.nl;;;ja;;;200ok;;;;uitzoeken
@@ -10952,6 +10982,7 @@ x;Gemeente;;;Veldhoven;;;http://www.cjgveldhoven.nl/;;cjgveldhoven.nl;5-11-2021;
 ;Gemeente;;;Westervoort;;;https://ris2.ibabs.eu/Westervoort;;ris2.ibabs.eu;15-10-2021;;ja;deel;ibabs;200ok;;;;
 ;Gemeente;;;Westervoort;;;https://www.gelrepas.nl/;;gelrepas.nl;;;ja;;;200ok;;;;uitzoeken
 ;Gemeente;;;Westervoort;;Vitens;https://www.vitens.nl/tarieven-en-voorwaarden/tarieven-overzicht?gemeente=westervoort;;vitens.nl;;;nee;ja;vitens;200ok;;1-10-2021;;
+;Gemeente;;;Westervoort;;;https://kaarten.westervoort.nl/;;kaarten.westervoort.nl;30-11-2021;;ja;ja;;200ok;;;;
 ;Gemeente;;;Westervoort;;;https://lokaaltotaal.nl/westervoort;;lokaaltotaal.nl;15-10-2021;;ja;nee;lokaaltotaal;200ok;;;;
 ;Gemeente;;;Westervoort;;;https://intranet.westervoort.nl/;;intranet.westervoort.nl;;;ja;;;200ok;;;INTRANET;uitzoeken
 ;Gemeente;;;Westervoort;;;https://ilost.co/nl/org/gemeente-westervoort;;ilost.co;;;nee;nee;ilost;200ok;;;;
@@ -11007,6 +11038,7 @@ x;Gemeente;;;Veldhoven;;;http://www.cjgveldhoven.nl/;;cjgveldhoven.nl;5-11-2021;
 ;Gemeente;;;Westland;;;http://www.omgevingsrapportage.nl/bkk-i/westland/;;omgevingsrapportage.nl;;;ja;;;200ok;;;;uitzoeken
 ;Gemeente;;;Westland;;;https://westland.smartmap.nl/;;westland.smartmap.nl;;;ja;;;200ok;;;;uitzoeken
 ;Gemeente;;;Westland;;;https://edienstenburgerzaken.gemeentewestland.nl/Verhuizen/Login/;;edienstenburgerzaken.gemeentewestland.nl;;;ja;;;200ok;;;;uitzoeken
+;Gemeente;;;Westland;;;https://loket.gemeentewestland.nl/;;loket.gemeentewestland.nl;30-11-2021;;ja;ja;;200ok;;;;
 ;Gemeente;;;Westland;;;https://www.verlorenofgevonden.nl/;;verlorenofgevonden.nl;;;ja;nee;verlorenofgevonden;200ok;;;;
 ;Gemeente;;;Westland;;Omgevingsdienst Haaglanden (ODH);https://www.omgevingsdiensthaaglanden.nl/;;omgevingsdiensthaaglanden.nl;;;nee;ja;;200ok;;;;
 ;Gemeente;;;Westland;;Metropoolregio Rotterdam Den Haag;https://mrdh.nl/;;mrdh.nl;;;nee;nee;;200ok;;;;
@@ -11062,10 +11094,10 @@ x;Gemeente;;;Veldhoven;;;http://www.cjgveldhoven.nl/;;cjgveldhoven.nl;5-11-2021;
 ;Gemeente;;;Westvoorne;;Samenwerkingsverband Vastgoedinformatie Heffing en Waardebepaling (SVHW);https://www.svhw.nl/;;svhw.nl;;;nee;nee;;200ok;;;;
 ;Gemeente;;;Westvoorne;;;https://lokaaltotaal.nl/westvoorne;;lokaaltotaal.nl;15-10-2021;;ja;nee;lokaaltotaal;200ok;;;;
 ;Gemeente;;;Westvoorne;;;https://intranet.westvoorne.nl/;;intranet.westvoorne.nl;;;ja;;;200ok;;;INTRANET;uitzoeken
+;Gemeente;;;Westvoorne;;;https://dloket.westvoorne.nl/loket/;;dloket.westvoorne.nl;28-11-2021;;ja;ja;;200ok;;;;
+;Gemeente;;;Westvoorne;;;https://mijnuitkering.westvoorne.nl/;;mijnuitkering.westvoorne.nl;28-11-2021;;ja;ja;;200ok;;;;
 ;Gemeente;;;Westvoorne;;;https://www.verlorenofgevonden.nl/;;verlorenofgevonden.nl;;;ja;nee;verlorenofgevonden;200ok;;;;
 ;Gemeente;;;Westvoorne;;;;;;;;ja;ja;;200ok;;;;
-;Gemeente;;;Westvoorne;;;https://mijnuitkering.westvoorne.nl/;;mijnuitkering.westvoorne.nl;28-11-2021;;ja;ja;;200ok;;;;
-;Gemeente;;;Westvoorne;;;https://dloket.westvoorne.nl/loket/;;dloket.westvoorne.nl;28-11-2021;;ja;ja;;200ok;;;;
 ;Gemeente;;;Westvoorne;;;https://storing.moononline.nl/gemeentewestvoorne;;storing.moononline.nl;;;ja;;;200ok;;;;uitzoeken
 ;Gemeente;;;Westvoorne;;DCMR Milieudienst Rijnmond;https://www.dcmr.nl/;;dcmr.nl;;;nee;nee;;200ok;;;;
 ;Gemeente;;;Westvoorne;;;https://www.zonatlas.nl/westvoorne/;;zonatlas.nl;;;ja;nee;zonatlas;200ok;;;;
@@ -11136,14 +11168,14 @@ x;Gemeente;;;Veldhoven;;;http://www.cjgveldhoven.nl/;;cjgveldhoven.nl;5-11-2021;
 ;Gemeente;;;Wijdemeren;;;https://www.gad.nl/mijn-gemeente/wijdemeren/;;gad.nl;6-11-2021;;ja;nee;GAD;200ok;;;;
 ;Gemeente;;;Wijdemeren;;;https://wijdemeren.archiefweb.eu/;;wijdemeren.archiefweb.eu;;;ja;ja;;200ok;;;ARCHIEF;
 ;Gemeente;;;Wijdemeren;;;http://wijdemeren.raadsinformatie.nl/;;wijdemeren.raadsinformatie.nl;;;ja;;;200ok;;;;uitzoeken
+;Gemeente;;;Wijdemeren;;;https://belastingbalie.wijdemeren.nl;;belastingbalie.wijdemeren.nl;28-11-2021;;ja;ja;;200ok;;;;
 ;Gemeente;;;Wijdemeren;;;https://www.berekenuwrechtplus.nl/wijdemeren;;berekenuwrechtplus.nl;;;ja;nee;;200ok;;;;
 ;Gemeente;;;Wijdemeren;;Vitens;https://www.vitens.nl/tarieven-en-voorwaarden/tarieven-overzicht?gemeente=wijdemeren;;vitens.nl;;;nee;ja;vitens;200ok;;1-10-2021;;
-;Gemeente;;;Wijdemeren;;;https://belastingbalie.wijdemeren.nl;;belastingbalie.wijdemeren.nl;28-11-2021;;ja;ja;;200ok;;;;
 ;Gemeente;;;Wijdemeren;;;http://wijdemeren.smartmap.nl/;;wijdemeren.smartmap.nl;;;ja;;;200ok;;;;uitzoeken
-;Gemeente;;;Wijdemeren;;;https://iburgerzaken.wijdemeren.nl/gaas-web/server/start/StartVerhuizing;;iburgerzaken.wijdemeren.nl;;;ja;ja;iburgerzaken;200ok;;;;
-;Gemeente;;;Wijdemeren;;;https://www.verlorenofgevonden.nl/;;verlorenofgevonden.nl;;;ja;nee;verlorenofgevonden;200ok;;;;
 ;Gemeente;;;Wijdemeren;;;https://afspraakmaken.wijdemeren.nl/;;afspraakmaken.wijdemeren.nl;28-11-2021;;ja;ja;;200ok;;;;
 ;Gemeente;;;Wijdemeren;;;https://formulieren.wijdemeren.nl/WaarderingMantelzorg;;formulieren.wijdemeren.nl;28-11-2021;;ja;ja;;200ok;;;;
+;Gemeente;;;Wijdemeren;;;https://iburgerzaken.wijdemeren.nl/gaas-web/server/start/StartVerhuizing;;iburgerzaken.wijdemeren.nl;;;ja;ja;iburgerzaken;200ok;;;;
+;Gemeente;;;Wijdemeren;;;https://www.verlorenofgevonden.nl/;;verlorenofgevonden.nl;;;ja;nee;verlorenofgevonden;200ok;;;;
 ;Gemeente;;;Wijdemeren;;;https://www.fixi.nl/;;fixi.nl;;;ja;nee;fixi;200ok;;;;uitzoeken
 ;Gemeente;;;Wijdemeren;;Omgevingsdienst Flevoland & Gooi en Vechtstreek (OFGV);https://www.ofgv.nl/;;ofgv.nl;;;nee;ja;;200ok;;;;
 ;Gemeente;;;Wijdemeren;;Regio Gooi en Vechtstreek;https://www.regiogv.nl/;;regiogv.nl;;;nee;nee;;200ok;;;;
@@ -11195,8 +11227,8 @@ x;Gemeente;;;Veldhoven;;;http://www.cjgveldhoven.nl/;;cjgveldhoven.nl;5-11-2021;
 ;Gemeente;;;Winterswijk;;Erfgoedcentrum Achterhoek en Liemers;https://www.ecal.nu/;;ecal.nu;;;ja;ja;;200ok;;;;
 ;Gemeente;;;Winterswijk;;;https://lokaaltotaal.nl/winterswijk;;lokaaltotaal.nl;15-10-2021;;ja;nee;lokaaltotaal;200ok;;;;
 ;Gemeente;;;Winterswijk;;;https://intranet-winterswijk.suite.green.gemnet.nl/;;intranet-winterswijk.suite.green.gemnet.nl;;;;;;tv;;;INTRANET;uitzoeken
-;Gemeente;;;Winterswijk;;;;;;;;ja;ja;;200ok;;;;
 ;Gemeente;;;Winterswijk;;;https://mijnplan.winterswijk.nl/;;mijnplan.winterswijk.nl;28-11-2021;;ja;ja;;200ok;;;;
+;Gemeente;;;Winterswijk;;;;;;;;ja;ja;;200ok;;;;
 ;Gemeente;;;Winterswijk;;;https://www.duurzaamwinterswijk.nl/;;duurzaamwinterswijk.nl;;;ja;;;200ok;;;;uitzoeken
 ;Gemeente;;;Winterswijk;;Omgevingsdienst Achterhoek;https://www.odachterhoek.nl/;;odachterhoek.nl;;;nee;ja;;200ok;;;;
 ;Gemeente;;;Winterswijk;;;https://www.zonatlas.nl/winterswijk/;;zonatlas.nl;;;ja;nee;zonatlas;200ok;;;;
@@ -11255,8 +11287,8 @@ x;Gemeente;;;Veldhoven;;;http://www.cjgveldhoven.nl/;;cjgveldhoven.nl;5-11-2021;
 ;Gemeente;;;Woerden;;;http://www.doemeermetafval.nl/;;doemeermetafval.nl;;;ja;nee;;200ok;;;;uitzoeken
 ;Gemeente;;;Woerden;;;https://woerden.archiefweb.eu/;;woerden.archiefweb.eu;;;ja;ja;;200ok;;;ARCHIEF;
 ;Gemeente;;;Woerden;;;https://gemeenteraad.woerden.nl/;;gemeenteraad.woerden.nl;28-11-2021;;ja;ja;;200ok;;;;uitzoeken
-;Gemeente;;;Woerden;;Vitens;https://www.vitens.nl/tarieven-en-voorwaarden/tarieven-overzicht?gemeente=woerden;;vitens.nl;;;nee;ja;vitens;200ok;;1-10-2021;;
 ;Gemeente;;;Woerden;;;https://belastingloket.woerden.nl/;;belastingloket.woerden.nl;28-11-2021;;ja;ja;;200ok;;;;
+;Gemeente;;;Woerden;;Vitens;https://www.vitens.nl/tarieven-en-voorwaarden/tarieven-overzicht?gemeente=woerden;;vitens.nl;;;nee;ja;vitens;200ok;;1-10-2021;;
 ;Gemeente;;;Woerden;;;https://lokaaltotaal.nl/woerden;;lokaaltotaal.nl;15-10-2021;;ja;nee;lokaaltotaal;200ok;;;;
 ;Gemeente;;;Woerden;;;https://www.verlorenofgevonden.nl/;;verlorenofgevonden.nl;;;ja;nee;verlorenofgevonden;200ok;;;;
 ;Gemeente;;;Woerden;;;;;;;;ja;;;200ok;;;;uitzoeken
@@ -11326,17 +11358,17 @@ x;Gemeente;;;Veldhoven;;;http://www.cjgveldhoven.nl/;;cjgveldhoven.nl;5-11-2021;
 ;Gemeente;;;Woudenberg;;;https://woudenberg.pleio.nl/;;woudenberg.pleio.nl;;;ja;;;200ok;;;;uitzoeken
 ;Gemeente;;;Zaanstad;;;https://www.zaanstad.nl/mozard/!suite05.scherm1239;;zaanstad.nl;;;ja;ja;;200ok;;; ALG;
 ;Gemeente;;;Zaanstad;;;https://afspraak.zaanstad.nl/afspraak-maken;;afspraak.zaanstad.nl;15-10-2021;;ja;ja;;200ok;;;;
+;Gemeente;;;Zaanstad;;;https://afvalscheiden.zaanstad.nl/;;afvalscheiden.zaanstad.nl;27-11-2021;;ja;ja;;200ok;;;;
 ;Gemeente;;;Zaanstad;;HVC Groep;https://www.hvcgroep.nl/zelf-regelen/afvalkalender;;hvcgroep.nl;;;ja;nee;;200ok;;;;
 ;Gemeente;;;Zaanstad;;Afvalschap IJmond-Zaanstreek;;;;;;nee;nee;;almanak;;;;
-;Gemeente;;;Zaanstad;;;https://afvalscheiden.zaanstad.nl/;;afvalscheiden.zaanstad.nl;27-11-2021;;ja;ja;;200ok;;;;
 ;Gemeente;;;Zaanstad;;;https://zaanstad.archiefweb.eu/;;zaanstad.archiefweb.eu;;;ja;ja;;200ok;;;ARCHIEF;
-;Gemeente;;;Zaanstad;;;https://www.gemeenteraadzaanstadjaarverslag.nl/;;gemeenteraadzaanstadjaarverslag.nl;;;;;;tv;;;;uitzoeken
-;Gemeente;;;Zaanstad;;;https://zaanstad.notubiz.nl/;;zaanstad.notubiz.nl;;;ja;ja;notubiz;200ok;;;;
-;Gemeente;;;Zaanstad;;;https://zaanstad.raadsinformatie.nl/;;zaanstad.raadsinformatie.nl;;;ja;;;200ok;;;;uitzoeken
+;Gemeente;;;Zaanstad;;;https://150dagen.zaanstad.nl/;;150dagen.zaanstad.nl;27-11-2021;;ja;ja;;200ok;;;;
 ;Gemeente;;;Zaanstad;;;https://financien.zaanstad.nl/;;financien.zaanstad.nl;27-11-2021;;ja;ja;;200ok;;;;
 ;Gemeente;;;Zaanstad;;;https://gemeenteraad.zaanstad.nl/;;gemeenteraad.zaanstad.nl;27-11-2021;;ja;ja;;200ok;;;;
-;Gemeente;;;Zaanstad;;;https://150dagen.zaanstad.nl/;;150dagen.zaanstad.nl;27-11-2021;;ja;ja;;200ok;;;;
+;Gemeente;;;Zaanstad;;;https://www.gemeenteraadzaanstadjaarverslag.nl/;;gemeenteraadzaanstadjaarverslag.nl;;;;;;tv;;;;uitzoeken
 ;Gemeente;;;Zaanstad;;;https://verkiezingen.zaanstad.nl/;;verkiezingen.zaanstad.nl;27-11-2021;;ja;ja;;200ok;;;;
+;Gemeente;;;Zaanstad;;;https://zaanstad.notubiz.nl/;;zaanstad.notubiz.nl;;;ja;ja;notubiz;200ok;;;;
+;Gemeente;;;Zaanstad;;;https://zaanstad.raadsinformatie.nl/;;zaanstad.raadsinformatie.nl;;;ja;;;200ok;;;;uitzoeken
 ;Gemeente;;;Zaanstad;;;https://huisstijl.zaanstad.nl/;;huisstijl.zaanstad.nl;27-11-2021;;ja;ja;;200ok;;;;
 ;Gemeente;;;Zaanstad;;;https://www.berekenuwrechtplus.nl/zaanstad;;berekenuwrechtplus.nl;;;ja;nee;;200ok;;;;
 ;Gemeente;;;Zaanstad;;;https://archief.zaanstad.nl/;;archief.zaanstad.nl;27-11-2021;;ja;ja;;200ok;;;;
@@ -11349,59 +11381,59 @@ x;Gemeente;;;Veldhoven;;;http://www.cjgveldhoven.nl/;;cjgveldhoven.nl;5-11-2021;
 ;Gemeente;;;Zaanstad;;;https://www.e-inwoner.nl/;;e-inwoner.nl;;;ja;nee;;200ok;;;;
 ;Gemeente;;;Zaanstad;;;https://www.verlorenofgevonden.nl/;;verlorenofgevonden.nl;;;ja;nee;verlorenofgevonden;200ok;;;;
 ;Gemeente;;;Zaanstad;;;https://zaanstad.vergunning.blitts.nl/;;zaanstad.vergunning.blitts.nl;4-11-2021;;ja;nee;blitts;200ok;;;;
+;Gemeente;;;Zaanstad;;;https://nieuwzaansklimaat.zaanstad.nl/;;nieuwzaansklimaat.zaanstad.nl;27-11-2021;;ja;ja;;200ok;;;;
 ;Gemeente;;;Zaanstad;;Omgevingsdienst Noordzeekanaalgebied (NZKG);https://odnzkg.nl/;;odnzkg.nl;;;ja;nee;;200ok;;;;
 ;Gemeente;;;Zaanstad;;;https://omgevingswet.zaanstad.nl/;;omgevingswet.zaanstad.nl;27-11-2021;;ja;ja;;200ok;;;;
-;Gemeente;;;Zaanstad;;;https://nieuwzaansklimaat.zaanstad.nl/;;nieuwzaansklimaat.zaanstad.nl;27-11-2021;;ja;ja;;200ok;;;;
 ;Gemeente;;;Zaanstad;;;https://warmtenet.zaanstad.nl/;;warmtenet.zaanstad.nl;27-11-2021;;ja;ja;;200ok;;;;
-;Gemeente;;;Zaanstad;;Centraal Nautisch Beheer Noordzeekanaalgebied;https://www.portofamsterdam.com/nl;;portofamsterdam.com;;;nee;nee;;200ok;;;;
 ;Gemeente;;;Zaanstad;;;https://hoogtij.zaanstad.nl/;;hoogtij.zaanstad.nl;27-11-2021;;ja;ja;;200ok;;;;
 ;Gemeente;;;Zaanstad;;;https://ondernemen.zaanstad.nl/;;ondernemen.zaanstad.nl;27-11-2021;;ja;ja;;200ok;;;;
+;Gemeente;;;Zaanstad;;Centraal Nautisch Beheer Noordzeekanaalgebied;https://www.portofamsterdam.com/nl;;portofamsterdam.com;;;nee;nee;;200ok;;;;
 ;Gemeente;;;Zaanstad;;;https://parkeren.zaanstad.nl/;;parkeren.zaanstad.nl;27-11-2021;;ja;ja;;200ok;;;;
 ;Gemeente;;;Zaanstad;;Recreatieschap Alkmaarder- en Uitgeestermeer;https://www.alkmaarder-enuitgeestermeer.nl/;;alkmaarder-enuitgeestermeer.nl;;;nee;nee;;200ok;;;;
 ;Gemeente;;;Zaanstad;;Recreatieschap Twiske-Waterland;https://www.twiske-waterland.nl/;;twiske-waterland.nl;;;nee;nee;;200ok;;;;
 ;Gemeente;;;Zaanstad;;;https://buitengewoon.zaanstad.nl/;;buitengewoon.zaanstad.nl;27-11-2021;;ja;ja;;200ok;;;;
-;Gemeente;;;Zaanstad;;;https://maak.zaanstad.nl/;;maak.zaanstad.nl;27-11-2021;;ja;ja;;200ok;;;;
-;Gemeente;;;Zaanstad;;;https://lintendijkenpaden.zaanstad.nl/;;lintendijkenpaden.zaanstad.nl;27-11-2021;;ja;ja;;200ok;;;;
 ;Gemeente;;;Zaanstad;;;https://hembrugterrein.zaanstad.nl/;;hembrugterrein.zaanstad.nl;27-11-2021;;ja;ja;;200ok;;;;
+;Gemeente;;;Zaanstad;;;https://lintendijkenpaden.zaanstad.nl/;;lintendijkenpaden.zaanstad.nl;27-11-2021;;ja;ja;;200ok;;;;
+;Gemeente;;;Zaanstad;;;https://maak.zaanstad.nl/;;maak.zaanstad.nl;27-11-2021;;ja;ja;;200ok;;;;
+;Gemeente;;;Zaanstad;;;https://maakkogerveldwijk.zaanstad.nl/;;maakkogerveldwijk.zaanstad.nl;27-11-2021;;ja;ja;;200ok;;;;
+;Gemeente;;;Zaanstad;;;https://maakkogerveldwijk.zaanstad.nl/;;maakkogerveldwijk.zaanstad.nl;27-11-2021;;ja;ja;;200ok;;;;
 ;Gemeente;;;Zaanstad;;;https://maaknoord.zaanstad.nl/;;maaknoord.zaanstad.nl;27-11-2021;;ja;ja;;200ok;;;;
-;Gemeente;;;Zaanstad;;;https://maakkogerveldwijk.zaanstad.nl/;;maakkogerveldwijk.zaanstad.nl;27-11-2021;;ja;ja;;200ok;;;;
-;Gemeente;;;Zaanstad;;;https://maakkogerveldwijk.zaanstad.nl/;;maakkogerveldwijk.zaanstad.nl;27-11-2021;;ja;ja;;200ok;;;;
 ;Gemeente;;;Zaanstad;;Stedennetwerk G40;https://www.g40stedennetwerk.nl/;;g40stedennetwerk.nl;;;nee;nee;;200ok;;;;
 ;Gemeente;;;Zaanstad;;Ombudsman Metropool Amsterdam;https://www.ombudsmanmetropool.nl/;;ombudsmanmetropool.nl;;;nee;nee;;200ok;;;;
-;Gemeente;;;Zaanstad;;;https://www.akj.nl/welkom/;https://www.akj.nl/;akj.nl;;;nee;nee;;200ok;;;;
-;Gemeente;;;Zaanstad;;GGD Zaanstreek-Waterland;https://www.ggdzw.nl/;;ggdzw.nl;;;ja;nee;;200ok;;;;
-;Gemeente;;;Zaanstad;;;https://langerthuiswonen.zaanstad.nl/;;langerthuiswonen.zaanstad.nl;;;ja;;;200ok;;;;uitzoeken
-;Gemeente;;;Zaanstad;;;http://www.socialekaartzaanstad.nl/;;socialekaartzaanstad.nl;;;ja;;;200ok;;;;uitzoeken
-;Gemeente;;;Zaanstad;;;https://zaanstad.socialekaartnederland.nl/;;zaanstad.socialekaartnederland.nl;15-10-2021;;ja;nee;;200ok;;;;
-;Gemeente;;;Zaanstad;;;https://geldwijzer.zaanstad.nl/;;geldwijzer.zaanstad.nl;27-11-2021;;ja;ja;;200ok;;;;
 ;Gemeente;;;Zaanstad;;;https://075aanpak.zaanstad.nl/;;075aanpak.zaanstad.nl;27-11-2021;;ja;ja;;200ok;;;;
-;Gemeente;;;Zaanstad;;;https://langerthuiswonen.zaanstad.nl/;;langerthuiswonen.zaanstad.nl;27-11-2021;;ja;ja;;200ok;;;;
-;Gemeente;;;Zaanstad;;;https://jongerenloket.zaanstad.nl/;;jongerenloket.zaanstad.nl;27-11-2021;;ja;ja;;200ok;;;;
-;Gemeente;;;Zaanstad;;;https://jogg.zaanstad.nl/;;jogg.zaanstad.nl;27-11-2021;;ja;ja;;200ok;;;;
-;Gemeente;;;Zaanstad;;;https://ikzitklem.zaanstad.nl/;;ikzitklem.zaanstad.nl;27-11-2021;;ja;ja;;200ok;;;;
+;Gemeente;;;Zaanstad;;;https://www.akj.nl/welkom/;https://www.akj.nl/;akj.nl;;;nee;nee;;200ok;;;;
+;Gemeente;;;Zaanstad;;;https://geldwijzer.zaanstad.nl/;;geldwijzer.zaanstad.nl;27-11-2021;;ja;ja;;200ok;;;;
+;Gemeente;;;Zaanstad;;GGD Zaanstreek-Waterland;https://www.ggdzw.nl/;;ggdzw.nl;;;ja;nee;;200ok;;;;
 ;Gemeente;;;Zaanstad;;;https://iedereendoetmee.zaanstad.nl/;;iedereendoetmee.zaanstad.nl;27-11-2021;;ja;ja;;200ok;;;;
-;Gemeente;;;Zaanstad;;;https://samenoverzorg.zaanstad.nl/;;samenoverzorg.zaanstad.nl;27-11-2021;;ja;ja;;200ok;;;;
-;Gemeente;;;Zaanstad;;;https://nieuwkomers.zaanstad.nl/;;nieuwkomers.zaanstad.nl;27-11-2021;;ja;ja;;200ok;;;;
-;Gemeente;;;Zaanstad;;;https://meedenker.zaanstad.nl/;;meedenker.zaanstad.nl;27-11-2021;;ja;ja;;200ok;;;;
+;Gemeente;;;Zaanstad;;;https://ikzitklem.zaanstad.nl/;;ikzitklem.zaanstad.nl;27-11-2021;;ja;ja;;200ok;;;;
+;Gemeente;;;Zaanstad;;;https://jogg.zaanstad.nl/;;jogg.zaanstad.nl;27-11-2021;;ja;ja;;200ok;;;;
+;Gemeente;;;Zaanstad;;;https://jongerenloket.zaanstad.nl/;;jongerenloket.zaanstad.nl;27-11-2021;;ja;ja;;200ok;;;;
+;Gemeente;;;Zaanstad;;;https://langerthuiswonen.zaanstad.nl/;;langerthuiswonen.zaanstad.nl;;;ja;;;200ok;;;;uitzoeken
+;Gemeente;;;Zaanstad;;;https://langerthuiswonen.zaanstad.nl/;;langerthuiswonen.zaanstad.nl;27-11-2021;;ja;ja;;200ok;;;;
 ;Gemeente;;;Zaanstad;;;https://maandtegendearmoede.zaanstad.nl/;;maandtegendearmoede.zaanstad.nl;27-11-2021;;ja;ja;;200ok;;;;
+;Gemeente;;;Zaanstad;;;https://meedenker.zaanstad.nl/;;meedenker.zaanstad.nl;27-11-2021;;ja;ja;;200ok;;;;
+;Gemeente;;;Zaanstad;;;https://nieuwkomers.zaanstad.nl/;;nieuwkomers.zaanstad.nl;27-11-2021;;ja;ja;;200ok;;;;
+;Gemeente;;;Zaanstad;;;https://samenoverzorg.zaanstad.nl/;;samenoverzorg.zaanstad.nl;27-11-2021;;ja;ja;;200ok;;;;
+;Gemeente;;;Zaanstad;;;http://www.socialekaartzaanstad.nl/;;socialekaartzaanstad.nl;;;ja;;;200ok;;;;uitzoeken
 ;Gemeente;;;Zaanstad;;;https://vve.zaanstad.nl/;;vve.zaanstad.nl;27-11-2021;;ja;ja;;200ok;;;;
+;Gemeente;;;Zaanstad;;;https://zaanstad.socialekaartnederland.nl/;;zaanstad.socialekaartnederland.nl;15-10-2021;;ja;nee;;200ok;;;;
 ;Gemeente;;;Zaanstad;;Onderwijs in Cijfers Zaanstreek;https://omz.databank.nl/;;omz.databank.nl;23-10-2021;;ja;ja;;200ok;;;;
-;Gemeente;;;Zaanstad;;;https://live.andes.nl/zaanstad/;;live.andes.nl;;;ja;;;200ok;;;;uitzoeken
-;Gemeente;;;Zaanstad;;Vervoerregio Amsterdam;https://www.vervoerregio.nl/;;vervoerregio.nl;;;nee;nee;;200ok;;;;
 ;Gemeente;;;Zaanstad;;;https://busbrugdebinding.zaanstad.nl/;;busbrugdebinding.zaanstad.nl;27-11-2021;;ja;ja;;200ok;;;;
 ;Gemeente;;;Zaanstad;;;https://guisweg.zaanstad.nl/;;guisweg.zaanstad.nl;27-11-2021;;ja;ja;;200ok;;;;
+;Gemeente;;;Zaanstad;;;https://live.andes.nl/zaanstad/;;live.andes.nl;;;ja;;;200ok;;;;uitzoeken
 ;Gemeente;;;Zaanstad;;;https://mobiliteitsplan.zaanstad.nl/;;mobiliteitsplan.zaanstad.nl;27-11-2021;;ja;ja;;200ok;;;;
-;Gemeente;;;Zaanstad;;;https://verbeterplanbrugbediening.zaanstad.nl/;;verbeterplanbrugbediening.zaanstad.nl;27-11-2021;;ja;ja;;200ok;;;;
 ;Gemeente;;;Zaanstad;;;https://www.thorbeckeweg.nl/;;thorbeckeweg.nl;27-11-2021;;ja;ja;;200ok;;;;
+;Gemeente;;;Zaanstad;;;https://verbeterplanbrugbediening.zaanstad.nl/;;verbeterplanbrugbediening.zaanstad.nl;27-11-2021;;ja;ja;;200ok;;;;
+;Gemeente;;;Zaanstad;;Vervoerregio Amsterdam;https://www.vervoerregio.nl/;;vervoerregio.nl;;;nee;nee;;200ok;;;;
 ;Gemeente;;;Zaanstad;;Veiligheidsregio Zaanstreek-Waterland;https://www.veiligheidsregiozaanstreekwaterland.nl/;;veiligheidsregiozaanstreekwaterland.nl;;;nee;ja;;200ok;;;;
 ;Gemeente;;;Zaanstad;;;https://www.gemeentebanen.nl/overheden/gemeente-zaanstad;;gemeentebanen.nl;;;nee;nee;gemeentebanen;200ok;;;;
 ;Gemeente;;;Zaanstad;;;https://werkenbij.zaanstad.nl/;;werkenbij.zaanstad.nl;27-11-2021;;ja;ja;;200ok;;;;
 ;Gemeente;;;Zaanstad;;;https://funderingen.zaanstad.nl/;;funderingen.zaanstad.nl;27-11-2021;;ja;ja;;200ok;;;;
-;Gemeente;;;Zaanstad;;;https://maakcentrumoost.zaanstad.nl/;;maakcentrumoost.zaanstad.nl;27-11-2021;;ja;ja;;200ok;;;;
-;Gemeente;;;Zaanstad;;;https://maakcentrum.zaanstad.nl/;;maakcentrum.zaanstad.nl;27-11-2021;;ja;ja;;200ok;;;;
 ;Gemeente;;;Zaanstad;;;https://maakachtersluispolder.zaanstad.nl/;;maakachtersluispolder.zaanstad.nl;27-11-2021;;ja;ja;;200ok;;;;
-;Gemeente;;;Zaanstad;;;https://wijkmanagement.zaanstad.nl/;;wijkmanagement.zaanstad.nl;27-11-2021;;ja;ja;;200ok;;;;
+;Gemeente;;;Zaanstad;;;https://maakcentrum.zaanstad.nl/;;maakcentrum.zaanstad.nl;27-11-2021;;ja;ja;;200ok;;;;
+;Gemeente;;;Zaanstad;;;https://maakcentrumoost.zaanstad.nl/;;maakcentrumoost.zaanstad.nl;27-11-2021;;ja;ja;;200ok;;;;
 ;Gemeente;;;Zaanstad;;;https://westerkoog.zaanstad.nl/;;westerkoog.zaanstad.nl;27-11-2021;;ja;ja;;200ok;;;;
+;Gemeente;;;Zaanstad;;;https://wijkmanagement.zaanstad.nl/;;wijkmanagement.zaanstad.nl;27-11-2021;;ja;ja;;200ok;;;;
 ;Gemeente;;;Zaanstad;;;https://beeldbank.zaanstad.nl/;;beeldbank.zaanstad.nl;27-11-2021;offline;ja;;;200ok;;;;
 ;Gemeente;;;Zaanstad;;;https://www.dezaanseeilanden.nl/;;dezaanseeilanden.nl;;;ja;;;200ok;;;;uitzoeken
 ;Gemeente;;;Zaanstad;;;https://www.geoview.zaanstad.nl/;;geoview.zaanstad.nl;;;ja;;;200ok;;;;uitzoeken
@@ -11450,8 +11482,8 @@ x;Gemeente;;;Veldhoven;;;http://www.cjgveldhoven.nl/;;cjgveldhoven.nl;5-11-2021;
 ;Gemeente;;;Zandvoort;;;https://ilost.co/org/gemeente-zandvoort;;ilost.co;;;nee;nee;ilost;200ok;;;;
 ;Gemeente;;;Zandvoort;;;https://www.verlorenofgevonden.nl/;;verlorenofgevonden.nl;;;ja;nee;verlorenofgevonden;200ok;;;;
 ;Gemeente;;;Zandvoort;;Omgevingsdienst IJmond;https://www.odijmond.nl/;;odijmond.nl;;;nee;ja;;200ok;;;;
-;Gemeente;;;Zandvoort;;;https://zandvoort.parkeerservice.nl/;;zandvoort.parkeerservice.nl;;;ja;;;200ok;;;;uitzoeken
 ;Gemeente;;;Zandvoort;;;https://parkeren.zandvoort.nl/;;parkeren.zandvoort.nl;26-11-2021;;ja;ja;;200ok;;;;
+;Gemeente;;;Zandvoort;;;https://zandvoort.parkeerservice.nl/;;zandvoort.parkeerservice.nl;;;ja;;;200ok;;;;uitzoeken
 ;Gemeente;;;Zandvoort;;;https://www.akj.nl/welkom/;https://www.akj.nl/;akj.nl;;;nee;nee;;200ok;;;;
 ;Gemeente;;;Zandvoort;;;https://www.axxicom.nl/huishoudelijke-hulp-zandvoort;;axxicom.nl;15-10-2021;;ja;nee;axxicom;200ok;;;;
 ;Gemeente;;;Zandvoort;;;https://cjgkennemerland.nl/;;cjgkennemerland.nl;5-11-2021;;ja;nee;;200ok;;;;
@@ -11500,7 +11532,6 @@ x;Gemeente;;;Veldhoven;;;http://www.cjgveldhoven.nl/;;cjgveldhoven.nl;5-11-2021;
 ;Gemeente;;;Zeist;;Belastingsamenwerking gemeenten en hoogheemraadschap Utrecht (BghU);https://bghu.nl/;;bghu.nl;;;nee;nee;;200ok;;;;
 ;Gemeente;;;Zeist;;Vitens;https://www.vitens.nl/tarieven-en-voorwaarden/tarieven-overzicht?gemeente=zeist;;vitens.nl;;;nee;ja;vitens;200ok;;1-10-2021;;
 ;Gemeente;;;Zeist;;;https://www.verlorenofgevonden.nl/;;verlorenofgevonden.nl;;;ja;nee;verlorenofgevonden;200ok;;;;
-;Gemeente;;;Zeist;;;;;;;;;;;tv;;;;
 ;Gemeente;;;Zeist;;;https://www.krommerijnlandschap.nl/;;krommerijnlandschap.nl;;;ja;;;200ok;;;;uitzoeken
 ;Gemeente;;;Zeist;;Omgevingsdienst Regio Utrecht (ODRU);https://www.odru.nl/;;odru.nl;;;nee;ja;;200ok;;;;
 ;Gemeente;;;Zeist;;;https://mijn.gemeenteportaal.nl/;;mijn.gemeenteportaal.nl;;;ja;;;200ok;;;;uitzoeken
@@ -11578,22 +11609,22 @@ x;Gemeente;;;Veldhoven;;;http://www.cjgveldhoven.nl/;;cjgveldhoven.nl;5-11-2021;
 ;Gemeente;;;Zoetermeer;;;https://www.mijnafvalwijzer.nl/;;mijnafvalwijzer.nl;;;nee;nee;mijnafvalwijzer;200ok;;;;uitzoeken
 ;Gemeente;;;Zoetermeer;;;https://zoetermeer.archiefweb.eu/;;zoetermeer.archiefweb.eu;;;ja;ja;;200ok;;;ARCHIEF;
 ;Gemeente;;;Zoetermeer;;;https://channel.royalcast.com/gemeentezoetermeer/;;channel.royalcast.com;15-10-2021;;ja;ja;;200ok;;;;
+;Gemeente;;;Zoetermeer;;;https://raad.zoetermeer.nl/;;raad.zoetermeer.nl;26-11-2021;;ja;ja;;200ok;;;;
 ;Gemeente;;;Zoetermeer;;;http://zoetermeer.gemeenteoplossingen.nl/;;zoetermeer.gemeenteoplossingen.nl;;;ja;;;200ok;;;;uitzoeken
 ;Gemeente;;;Zoetermeer;;;https://www.zoetermeer.nl/gemeenteraad;;zoetermeer.nl;;;ja;;;200ok;;;;uitzoeken
 ;Gemeente;;;Zoetermeer;;;http://zoetermeer.raadsinformatie.nl/;;zoetermeer.raadsinformatie.nl;;;ja;;;200ok;;;;uitzoeken
-;Gemeente;;;Zoetermeer;;;https://raad.zoetermeer.nl/;;raad.zoetermeer.nl;26-11-2021;;ja;ja;;200ok;;;;
 ;Gemeente;;;Zoetermeer;;;https://opendata.zoetermeer.nl/;;opendata.zoetermeer.nl;26-11-2021;;ja;ja;;200ok;;;;
 ;Gemeente;;;Zoetermeer;;;https://opendata-contrast.zoetermeer.nl/;;opendata-contrast.zoetermeer.nl;26-11-2021;;ja;ja;;200ok;;;;
+;Gemeente;;;Zoetermeer;;;https://belastingen.zoetermeer.nl/;;belastingen.zoetermeer.nl;26-11-2021;;ja;ja;;200ok;;;;
 ;Gemeente;;;Zoetermeer;;;https://www.berekenuwrechtplus.nl/zoetermeer;;berekenuwrechtplus.nl;;;ja;nee;;200ok;;;;
-;Gemeente;;;Zoetermeer;;;https://belastingen.zoetermeer.nl/;;;26-11-2021;;ja;ja;;200ok;;;;
 ;Gemeente;;;Zoetermeer;;;https://stadsarchief.zoetermeer.nl/;;stadsarchief.zoetermeer.nl;26-11-2021;;ja;ja;;200ok;;;;
 ;Gemeente;;;Zoetermeer;;;https://gis.zoetermeer.nl/ztminternet/indexsonderingen.html;;gis.zoetermeer.nl;;;ja;;;200ok;;;;uitzoeken
 ;Gemeente;;;Zoetermeer;;;https://stadsatlas.zoetermeer.nl/;;stadsatlas.zoetermeer.nl;26-11-2021;;ja;ja;;200ok;;;;
 ;Gemeente;;;Zoetermeer;;;https://stadsatlas-contrast.zoetermeer.nl/;;stadsatlas-contrast.zoetermeer.nl;26-11-2021;;ja;ja;;200ok;;;;
 ;Gemeente;;;Zoetermeer;;;https://lokaaltotaal.nl/zoetermeer;;lokaaltotaal.nl;15-10-2021;;ja;nee;lokaaltotaal;200ok;;;;
-;Gemeente;;;Zoetermeer;;;https://www.verlorenofgevonden.nl/;;verlorenofgevonden.nl;;;ja;nee;verlorenofgevonden;200ok;;;;
-;Gemeente;;;Zoetermeer;;;https://mijn.zoetermeer.nl/;;mijn.zoetermeer.nl;26-11-2021;;ja;ja;;200ok;;;;
 ;Gemeente;;;Zoetermeer;;;https://loket.zoetermeer.nl/;;loket.zoetermeer.nl;26-11-2021;;ja;ja;;200ok;;;;
+;Gemeente;;;Zoetermeer;;;https://mijn.zoetermeer.nl/;;mijn.zoetermeer.nl;26-11-2021;;ja;ja;;200ok;;;;
+;Gemeente;;;Zoetermeer;;;https://www.verlorenofgevonden.nl/;;verlorenofgevonden.nl;;;ja;nee;verlorenofgevonden;200ok;;;;
 ;Gemeente;;;Zoetermeer;;;https://www.burgerklacht.nl/zoetermeer/webform/melding.php;;burgerklacht.nl;;;ja;ja;burgerklacht;200ok;;;;
 ;Gemeente;;;Zoetermeer;;Omgevingsdienst Haaglanden (ODH);https://www.omgevingsdiensthaaglanden.nl/;;omgevingsdiensthaaglanden.nl;;;nee;ja;;200ok;;;;
 ;Gemeente;;;Zoetermeer;;Bedrijvenschap Hoefweg;https://hoefweg.nl/;;hoefweg.nl;;;ja;nee;;200ok;;;;
@@ -11621,15 +11652,14 @@ x;Gemeente;;;Veldhoven;;;http://www.cjgveldhoven.nl/;;cjgveldhoven.nl;5-11-2021;
 ;Gemeente;;;Zoeterwoude;;;https://zoeterwoudeloket.gemeenteopafspraak.nl/rsvp;;zoeterwoudeloket.gemeenteopafspraak.nl;15-10-2021;;ja;nee;;200ok;;;;
 ;Gemeente;;;Zoeterwoude;;;https://www.afvalscheidingswijzer.nl/;;afvalscheidingswijzer.nl;;;ja;;;200ok;;;;uitzoeken
 ;Gemeente;;;Zoeterwoude;;;https://zoeterwoude.archiefweb.eu/;;zoeterwoude.archiefweb.eu;;;ja;ja;;200ok;;;ARCHIEF;
+;Gemeente;;;Zoeterwoude;;;https://begroting.zoeterwoude.nl/;;begroting.zoeterwoude.nl;26-11-2021;;ja;ja;;200ok;;;;
 ;Gemeente;;;Zoeterwoude;;;https://ris2.ibabs.eu/zoeterwoude;;ris2.ibabs.eu;15-10-2021;;ja;deel;ibabs;200ok;;;;
 ;Gemeente;;;Zoeterwoude;;;https://www.zoeterwoudelive.nl/;;zoeterwoudelive.nl;;;ja;;;200ok;;;;uitzoeken
-;Gemeente;;;Zoeterwoude;;;https://begroting.zoeterwoude.nl/;;begroting.zoeterwoude.nl;26-11-2021;;ja;ja;;200ok;;;;
 ;Gemeente;;;Zoeterwoude;;Belastingsamenwerking Gouwe-Rijnland (BSGR);https://www.bsgr.nl/belastingen/tarieven/zoeterwoude/;;bsgr.nl;;;ja;nee;;200ok;;;;
 ;Gemeente;;;Zoeterwoude;;;http://zoeterwoude.smartmap.nl/;;zoeterwoude.smartmap.nl;;;ja;;;200ok;;;;uitzoeken
-;Gemeente;;;Zoeterwoude;;;http://intranet.zoeterwoude.nl/;;intranet.zoeterwoude.nl;26-11-2021;;ja;ja;;200ok;;;INTRANET;
 ;Gemeente;;;Zoeterwoude;;;https://dali.zoeterwoude.nl/;;dali.zoeterwoude.nl;26-11-2021;;ja;ja;;200ok;;;INTRANET;
+;Gemeente;;;Zoeterwoude;;;http://intranet.zoeterwoude.nl/;;intranet.zoeterwoude.nl;26-11-2021;;ja;ja;;200ok;;;INTRANET;
 ;Gemeente;;;Zoeterwoude;;;https://www.verlorenofgevonden.nl/;;verlorenofgevonden.nl;;;ja;nee;verlorenofgevonden;200ok;;;;
-;Gemeente;;;Zoeterwoude;;;;;;;;ja;ja;;200ok;;;;
 ;Gemeente;;;Zoeterwoude;;Omgevingsdienst West-Holland;https://www.odwh.nl/;;odwh.nl;;;nee;ja;;200ok;;;;
 ;Gemeente;;;Zoeterwoude;;Holland Rijnland;https://hollandrijnland.nl/;;hollandrijnland.nl;;;ja;nee;;200ok;;;;
 ;Gemeente;;;Zoeterwoude;;;https://www.akj.nl/welkom/;https://www.akj.nl/;akj.nl;;;nee;nee;;200ok;;;;
@@ -11650,7 +11680,6 @@ x;Gemeente;;;Veldhoven;;;http://www.cjgveldhoven.nl/;;cjgveldhoven.nl;5-11-2021;
 ;Gemeente;;;Zuidplas;;;http://zuidplas.smartmap.nl/;;zuidplas.smartmap.nl;;;ja;;;200ok;;;;uitzoeken
 ;Gemeente;;;Zuidplas;;;https://intranet.zuidplas.nl/;;intranet.zuidplas.nl;;;ja;;;200ok;;;INTRANET;uitzoeken
 ;Gemeente;;;Zuidplas;;;https://www.verlorenofgevonden.nl/;;verlorenofgevonden.nl;;;ja;nee;verlorenofgevonden;200ok;;;;
-;Gemeente;;;Zuidplas;;;;;;;;ja;;;200ok;;;;uitzoeken
 ;Gemeente;;;Zuidplas;;;https://www.burgerklacht.nl/zuidplas_geo/viewer.php;;burgerklacht.nl;;;ja;ja;burgerklacht;200ok;;;;
 ;Gemeente;;;Zuidplas;;Omgevingsdienst Midden-Holland (ODMH);https://www.odmh.nl/;;odmh.nl;;;nee;ja;;200ok;;;;
 ;Gemeente;;;Zuidplas;;Bedrijvenschap Regio Gouda (BRG);https://www.gouwepark.nl/;;gouwepark.nl;;;ja;nee;;200ok;;;;
@@ -11713,14 +11742,14 @@ x;Gemeente;;;Veldhoven;;;http://www.cjgveldhoven.nl/;;cjgveldhoven.nl;5-11-2021;
 ;Gemeente;;;Zutphen;;Tribuut belastingsamenwerking;https://www.tribuut.nl/;;tribuut.nl;;;ja;;;200ok;;;;uitzoeken
 ;Gemeente;;;Zutphen;;Vitens;https://www.vitens.nl/tarieven-en-voorwaarden/tarieven-overzicht?gemeente=zutphen;;vitens.nl;;;nee;ja;vitens;200ok;;1-10-2021;;
 ;Gemeente;;;Zutphen;;;http://zutphen.smartmap.nl/;;zutphen.smartmap.nl;;;ja;;;200ok;;;;uitzoeken
+;Gemeente;;;Zutphen;;;https://formulieren.zutphen.nl/;;formulieren.zutphen.nl;25-11-2021;;ja;ja;;200ok;;;;
 ;Gemeente;;;Zutphen;;;https://ilost.co/nl/org/gemeente-zutphen;;ilost.co;;;nee;nee;ilost;200ok;;;;
 ;Gemeente;;;Zutphen;;;https://www.verlorenofgevonden.nl/;;verlorenofgevonden.nl;;;ja;nee;verlorenofgevonden;200ok;;;;
-;Gemeente;;;Zutphen;;;https://formulieren.zutphen.nl/;;formulieren.zutphen.nl;25-11-2021;;ja;ja;;200ok;;;;
 ;Gemeente;;;Zutphen;;;https://lms.nederlandslicht.nl/zutphen/outages/report;;lms.nederlandslicht.nl;27-11-2021;;ja;nee;LMS;200ok;;;;
 ;Gemeente;;;Zutphen;;Omgevingsdienst Achterhoek;https://www.odachterhoek.nl/;;odachterhoek.nl;;;nee;ja;;200ok;;;;
 ;Gemeente;;;Zutphen;;;https://www.zonatlas.nl/zutphen/;;zonatlas.nl;;;ja;nee;zonatlas;200ok;;;;
-;Gemeente;;;Zutphen;;;https://plo.zutphen.nl/;;;25-11-2021;;ja;ja;;200ok;;;;
-;Gemeente;;;Zutphen;;;https://parkeren.zutphen.nl/;;;25-11-2021;;ja;ja;;200ok;;;;
+;Gemeente;;;Zutphen;;;https://plo.zutphen.nl/;;plo.zutphen.nl;25-11-2021;;ja;ja;;200ok;;;;
+;Gemeente;;;Zutphen;;;https://parkeren.zutphen.nl/;;parkeren.zutphen.nl;25-11-2021;;ja;ja;;200ok;;;;
 ;Gemeente;;;Zutphen;;;https://www.akj.nl/welkom/;https://www.akj.nl/;akj.nl;;;nee;nee;;200ok;;;;
 ;Gemeente;;;Zutphen;;;https://gezondverzekerd.nl/gemeente/zutphen;;gezondverzekerd.nl;15-10-2021;;ja;nee;gezondverzekerd;200ok;;;;
 ;Gemeente;;;Zutphen;;GGD Noord- en Oost-Gelderland;https://www.ggdnog.nl/;;ggdnog.nl;;;ja;nee;;200ok;;;;
@@ -11759,18 +11788,18 @@ x;Gemeente;;;Veldhoven;;;http://www.cjgveldhoven.nl/;;cjgveldhoven.nl;5-11-2021;
 ;Gemeente;;;Zwijndrecht;;;https://webdiensten.drechtsteden.nl/internetafspraken_zwijndrecht/Product;;webdiensten.drechtsteden.nl;15-10-2021;;ja;;;200ok;;;;
 ;Gemeente;;;Zwijndrecht;;HVC Groep;https://www.hvcgroep.nl/zelf-regelen/afvalkalender;;hvcgroep.nl;;;ja;nee;;200ok;;;;
 ;Gemeente;;;Zwijndrecht;;;https://zwijndrecht.archiefweb.eu/;;zwijndrecht.archiefweb.eu;;;ja;ja;;200ok;;;ARCHIEF;
+;Gemeente;;;Zwijndrecht;;;https://college.zwijndrecht.nl/;;college.zwijndrecht.nl;25-11-2021;;ja;ja;;200ok;;;;
 ;Gemeente;;;Zwijndrecht;;;https://drechtsteden.notubiz.nl/;;drechtsteden.notubiz.nl;;;ja;nee;notubiz;200ok;;;;
 ;Gemeente;;;Zwijndrecht;;;https://ris2.ibabs.eu/zwijndrecht;;ris2.ibabs.eu;15-10-2021;;ja;deel;ibabs;200ok;;;;
 ;Gemeente;;;Zwijndrecht;;;https://zwijndrecht.bestuurlijkeinformatie.nl/;;zwijndrecht.bestuurlijkeinformatie.nl;;;ja;ja;ibabs ris;200ok;;;;
 ;Gemeente;;;Zwijndrecht;;;https://zwijndrecht.notubiz.nl/;;zwijndrecht.notubiz.nl;;;ja;ja;notubiz;200ok;;;;
 ;Gemeente;;;Zwijndrecht;;;https://zwijndrecht.raadsinformatie.nl/;;zwijndrecht.raadsinformatie.nl;;;ja;;;200ok;;;;uitzoeken
-;Gemeente;;;Zwijndrecht;;;https://college.zwijndrecht.nl/;;;25-11-2021;;ja;ja;;200ok;;;;
 ;Gemeente;;;Zwijndrecht;;;https://www.berekenuwrechtplus.nl/zwijndrecht;;berekenuwrechtplus.nl;;;ja;nee;;200ok;;;;
 ;Gemeente;;;Zwijndrecht;;;https://zwijndrecht.smartmap.nl/;;zwijndrecht.smartmap.nl;;;ja;;;200ok;;;;uitzoeken
 ;Gemeente;;;Zwijndrecht;;;https://www.servicecentrumdrechtsteden.nl/;;servicecentrumdrechtsteden.nl;;;ja;;;200ok;;;;uitzoeken
 ;Gemeente;;;Zwijndrecht;;;https://edienstenburgerzaken.zwijndrecht.nl/verhuizen/Login/;;edienstenburgerzaken.zwijndrecht.nl;;;ja;;;200ok;;;;uitzoeken
+;Gemeente;;;Zwijndrecht;;;https://loket.zwijndrecht.nl/;;loket.zwijndrecht.nl;25-11-2021;;ja;ja;;200ok;;;;
 ;Gemeente;;;Zwijndrecht;;;https://www.verlorenofgevonden.nl/;;verlorenofgevonden.nl;;;ja;nee;verlorenofgevonden;200ok;;;;
-;Gemeente;;;Zwijndrecht;;;https://loket.zwijndrecht.nl/;;;25-11-2021;;ja;ja;;200ok;;;;
 ;Gemeente;;;Zwijndrecht;;;https://www.fixi.nl/drechtsteden;;fixi.nl;;;ja;nee;fixi;200ok;;;;
 ;Gemeente;;;Zwijndrecht;;Omgevingsdienst Zuid-Holland Zuid (OZHZ);https://www.ozhz.nl/;;ozhz.nl;;;nee;ja;;200ok;;;;
 ;Gemeente;;;Zwijndrecht;;;https://www.dealdrechtcities.nl/;;dealdrechtcities.nl;;;ja;;;200ok;;;;uitzoeken
@@ -11818,15 +11847,15 @@ x;Gemeente;;;Veldhoven;;;http://www.cjgveldhoven.nl/;;cjgveldhoven.nl;5-11-2021;
 ;Gemeente;;;Zwolle;;Vitens;https://www.vitens.nl/tarieven-en-voorwaarden/tarieven-overzicht?gemeente=zwolle;;vitens.nl;;;nee;ja;vitens;200ok;;1-10-2021;;
 ;Gemeente;;;Zwolle;;;http://rova-zwolle.custhelp.com/app/ask?;;rova-zwolle.custhelp.com;;;ja;;;200ok;;;;uitzoeken
 ;Gemeente;;;Zwolle;;Historisch Centrum Overijssel;https://historischcentrumoverijssel.nl/;;historischcentrumoverijssel.nl;;;nee;nee;;200ok;;;;
-;Gemeente;;;Zwolle;;;https://zwolle.maps.arcgis.com/home/index.html;;zwolle.maps.arcgis.com;12-11-2021;;ja;ja;;200ok;;;;
 ;Gemeente;;;Zwolle;;;https://gisservices.zwolle.nl/;;gisservices.zwolle.nl;25-11-2021;;ja;ja;;200ok;;;;
+;Gemeente;;;Zwolle;;;https://zwolle.maps.arcgis.com/home/index.html;;zwolle.maps.arcgis.com;12-11-2021;;ja;ja;;200ok;;;;
 ;Gemeente;;;Zwolle;;;https://lokaaltotaal.nl/zwolle;;lokaaltotaal.nl;15-10-2021;;ja;nee;lokaaltotaal;200ok;;;;
 ;Gemeente;;;Zwolle;;Shared Service Centrum ONS;https://www.ssc-ons.nl/;;ssc-ons.nl;;;nee;nee;;200ok;;;;
 ;Gemeente;;;Zwolle;;;https://asp3.lvp.nl/amisweb/zwolle/amis1/amis.php?action=index;;asp3.lvp.nl;;;ja;ja;;200ok;;;;
 ;Gemeente;;;Zwolle;;;https://dloket.zwolle.nl/;;dloket.zwolle.nl;;;ja;;;200ok;;;;uitzoeken
 ;Gemeente;;;Zwolle;;;https://iburgerzaken.zwolle.nl/gaas-web/server/start/StartVerhuizing;;iburgerzaken.zwolle.nl;;;ja;ja;iburgerzaken;200ok;;;;
-;Gemeente;;;Zwolle;;;https://www.verlorenofgevonden.nl/;;verlorenofgevonden.nl;;;ja;nee;verlorenofgevonden;200ok;;;;
 ;Gemeente;;;Zwolle;;;https://mijnsdv.zwolle.nl/;;mijnsdv.zwolle.nl;25-11-2021;;ja;ja;;200ok;;;;
+;Gemeente;;;Zwolle;;;https://www.verlorenofgevonden.nl/;;verlorenofgevonden.nl;;;ja;nee;verlorenofgevonden;200ok;;;;
 ;Gemeente;;;Zwolle;;;https://meldingen.rova.nl/app/ask?;;meldingen.rova.nl;27-11-2021;;ja;ja;;200ok;;;;
 ;Gemeente;;;Zwolle;;Omgevingsdienst IJsselland;https://www.odijsselland.nl/;;odijsselland.nl;;;nee;ja;;200ok;;;;
 ;Gemeente;;;Zwolle;;;https://www.zonatlas.nl/zwolle/;;zonatlas.nl;;;ja;nee;zonatlas;200ok;;;;
@@ -11837,10 +11866,10 @@ x;Gemeente;;;Veldhoven;;;http://www.cjgveldhoven.nl/;;cjgveldhoven.nl;5-11-2021;
 ;Gemeente;;;Zwolle;;;https://www.akj.nl/welkom/;https://www.akj.nl/;akj.nl;;;nee;nee;;200ok;;;;
 ;Gemeente;;;Zwolle;;;https://gezondverzekerd.nl/gemeente/zwolle;;gezondverzekerd.nl;15-10-2021;;ja;nee;gezondverzekerd;200ok;;;;
 ;Gemeente;;;Zwolle;;GGD IJsselland;https://ggdijsselland.nl/;;ggdijsselland.nl;;;ja;nee;;200ok;;;;
-;Gemeente;;;Zwolle;;;https://www.startpuntgeldzaken.nl/zwolle;;startpuntgeldzaken.nl;;;ja;;;200ok;;;;
-;Gemeente;;;Zwolle;;;http://www.swtzwolle.nl/;;swtzwolle.nl;;;ja;;;200ok;;;;uitzoeken
 ;Gemeente;;;Zwolle;;;https://jouwstukjezwolle.nl/;;jouwstukjezwolle.nl;25-11-2021;;ja;ja;;200ok;;;;
 ;Gemeente;;;Zwolle;;;https://mijnwijk.zwolle.nl/;;mijnwijk.zwolle.nl;25-11-2021;;ja;ja;;200ok;;;;
+;Gemeente;;;Zwolle;;;https://www.startpuntgeldzaken.nl/zwolle;;startpuntgeldzaken.nl;;;ja;;;200ok;;;;
+;Gemeente;;;Zwolle;;;http://www.swtzwolle.nl/;;swtzwolle.nl;;;ja;;;200ok;;;;uitzoeken
 ;Gemeente;;;Zwolle;;;https://cijfersoverzwolle.nl/;https://zwolle.buurtmonitor.nl/;cijfersoverzwolle.nl;;;ja;;;200ok;;;;
 ;Gemeente;;;Zwolle;;;https://www.ijssellandscan.nl/;;ijssellandscan.nl;;;ja;;;200ok;;;;uitzoeken
 ;Gemeente;;;Zwolle;;;http://wegwerkmeldingen.nl/?regio=3&zoomTo=200000-506500-205000-498500;;wegwerkmeldingen.nl;;;ja;;;200ok;;;;uitzoeken
@@ -11867,8 +11896,6 @@ x;Gemeente;;;Veldhoven;;;http://www.cjgveldhoven.nl/;;cjgveldhoven.nl;5-11-2021;
 ;Generiek;;;DeAfvalApp;;;http://www.deafvalapp.nl/calendar/kalender_start.jsp;;deafvalapp.nl;5-11-2021;;ja;ja;;200ok;;;;
 ;Generiek;;;Decos;;;https://www.burgerberichten.nl/;;burgerberichten.nl;5-11-2021;;ja;ja;Burgerberichten!;200ok;;;;
 ;Generiek;;;Fixi;;;https://www.fixi.nl/;;fixi.nl;;;ja;ja;fixi;200ok;;;;uitzoeken
-;Generiek;;;GAD;;;https://www.gad.nl/;;gad.nl;6-11-2021;;ja;ja;GAD Inzamelkalender;200ok;;;;
-;Generiek;;;GAD;;;https://inzamelkalender.gad.nl/;;inzamelkalender.gad.nl;6-11-2021;;ja;ja;GAD Inzamelkalender;200ok;;;;
 ;Generiek;;;ibabs;;;https://ris2.ibabs.eu/;;ris2.ibabs.eu;15-10-2021;;ja;ja;ibabs;200ok;;;;
 ;Generiek;;;Lokaal Totaal;;;https://lokaaltotaal.nl/;;lokaaltotaal.nl;15-10-2021;;ja;ja;lokaaltotaal;200ok;;;;
 ;Generiek;;;Medipoint;;;https://www.medipoint.nl/service/wmo-vestigingen;;medipoint.nl;5-11-2021;;ja;ja;medipoint;200ok;;;;
@@ -11895,7 +11922,6 @@ x;Gemeente;;;Veldhoven;;;http://www.cjgveldhoven.nl/;;cjgveldhoven.nl;5-11-2021;
 ;Generiek;;;Stichting Zet Brabant;;;https://www.wijzijnzet.nl/;;wijzijnzet.nl;14-11-2021;;;;;tv;;;;
 ;Generiek;;;Stimulansz;;;https://www.stimulansz.nl/niet-gevonden-zoek-en-filter/;https://www.stimulansz.nl/producten/productpaginas/video%20publieksinformatie%20sociaal%20domein;stimulansz.nl;;;ja;;;200ok;;;;uitzoeken
 ;Generiek;;;Studielink;;;https://www.studielink.nl/;;studielink.nl;1-10-2021;;;;;rijksreg;http://www.studielink.nl;21-8-2021;;uitzoeken
-;Generiek;;;Talentenregio;;;https://www.talentenregio.nl/deelnemende-organisaties;;talentenregio.nl;6-11-2021;;ja;ja;;200ok;;;;uitzoeken
 ;Generiek;;;Vereniging Humanitas;;;https://geschiedenis.humanitas.nl/;;geschiedenis.humanitas.nl;14-11-2021;;;;;;;;;
 ;Generiek;;;Vereniging Humanitas;;;https://gripopjemoney.nl/;;gripopjemoney.nl;14-11-2021;;;;;;;;;
 ;Generiek;;;Vereniging Humanitas;;;https://home-start.nl/;;home-start.nl;14-11-2021;;;;;;;;;
@@ -11981,12 +12007,10 @@ x;Gemeente;;;Veldhoven;;;http://www.cjgveldhoven.nl/;;cjgveldhoven.nl;5-11-2021;
 ;GR;;;Afeer;;Afeer;https://afeer.nl/;;afeer.nl;1-11-2021;;ja;ja;;almanak;;;GR;
 ;GR;;;Afvalbeheer Regio Centraal Groningen;;Afvalbeheer Regio Centraal Groningen;https://milieudienst.groningen.nl/;;milieudienst.groningen.nl;;;ja;ja;;almanak;;;GR;
 ;GR;;;Afvalinzameling Land van Cuijk en Boekel;;Afvalinzameling Land van Cuijk en Boekel;https://www.afvalaanbieden.nl/;;afvalaanbieden.nl;1-11-2021;;ja;ja;;200ok;;;GR;
-;GR;;;Afvalschap IJmond-Zaanstreek;;Afvalschap IJmond-Zaanstreek;;;;;;ja;ja;;almanak;;;GR;
 ;GR;;;Afvalverwijdering Utrecht;;Afvalverwijdering Utrecht;https://www.avu.nl/cms/;https://www.avu.nl/;avu.nl;;;ja;ja;;almanak;;;GR;
 ;GR;;;Amstelland-Meerlandenoverleg;;Amstelland-Meerlandenoverleg;https://www.amstelland-meerlanden.nl/;;amstelland-meerlanden.nl;;;ja;ja;;almanak;;;GR;
 ;GR;;;Aqualysis;;Aqualysis;https://www.aqualysis.nl/;;aqualysis.nl;5-11-2021;;ja;ja;;almanak;;;GR;
 ;GR;;;AQUON;;AQUON;https://www.aquon.nl/;;aquon.nl;;;ja;ja;;almanak;;;GR;
-;GR;;;Archeologie Hellevoetsluis-Rotterdam;;Archeologie Hellevoetsluis-Rotterdam;;;;;;ja;ja;;almanak;;;GR;
 ;GR;;;Archief Eemland;;;https://www.amersfoortopdekaart.nl/;;amersfoortopdekaart.nl;;;ja;;;tv;;;;
 ;GR;;;Archief Eemland;;;https://archiefeemland.courant.nu;;archiefeemland.courant.nu;;;ja;;;tv;;;;
 ;GR;;;Archief Eemland;;;https://www.archiefeemland.nl/;;archiefeemland.nl;;;ja;;;tv;;;;
@@ -12010,7 +12034,7 @@ x;Gemeente;;;Veldhoven;;;http://www.cjgveldhoven.nl/;;cjgveldhoven.nl;5-11-2021;
 ;GR;;BWB;Bedrijfsvoeringsorganisatie West-Betuwe;;;https://www.gemeentebanen.nl/overheden/bedrijfsvoeringsorganisatie-west-betuwe;;gemeentebanen.nl;;;nee;nee;gemeentebanen;200ok;;;;
 ;GR;;;Bedrijvenpark Meel;;Bedrijvenpark Meel;https://bedrijvenparkmedel.nl/;;bedrijvenparkmedel.nl;;;ja;ja;;200ok;;;GR;
 ;GR;;;Bedrijvenparken A7;;Bedrijvenparken A7;;;;;;ja;ja;;almanak;;;GR;
-;GR;;;Bedrijvenschap Harnaschpolder;;Bedrijvenschap Harnaschpolder;;https://www.businessparkhaaglanden.nl/harnaschpolder;;1-11-2021;offline;ja;ja;;almanak;;;GR;
+;GR;;;Bedrijvenschap Harnaschpolder;;Bedrijvenschap Harnaschpolder;https://www.businessparkhaaglanden.nl/harnaschpolder;;;1-11-2021;offline;ja;ja;;almanak;;;GR;
 ;GR;;;Bedrijvenschap Hoefweg;;Bedrijvenschap Hoefweg;https://hoefweg.nl/;;hoefweg.nl;;;ja;ja;;almanak;;;GR;
 ;GR;;;BEL Combinatie;;BEL Combinatie;https://belcombinatie.nl/;;belcombinatie.nl;;;ja;ja;;200ok;;;GR;
 ;GR;;BghU;Belastingsamenwerking gemeenten en hoogheemraadschap Utrecht;;Belastingsamenwerking gemeenten en hoogheemraadschap Utrecht (BghU);https://bghu.nl/;;bghu.nl;;;ja;ja;;200ok;;;GR;
@@ -12396,13 +12420,14 @@ x;Gemeente;;;Veldhoven;;;http://www.cjgveldhoven.nl/;;cjgveldhoven.nl;5-11-2021;
 ;GR;;;Zeeuws Archief;;Zeeuws archief;https://www.zeeuwsarchief.nl/;;zeeuwsarchief.nl;;;ja;ja;;almanak;;;GR;uitzoeken
 ;GR;;;Zeeuws Archief;;;https://www.archieven.nl/;;archieven.nl;;;ja;;;tv;;;;
 ;GR;;;Zeeuwse Muziekschool;;Zeeuwse Muziekschool;https://muziekschoolzeeland.nl/;;muziekschoolzeeland.nl;;;ja;ja;;200ok;;;GR;
-;Hoge college van staat;;AR;Algemene Rekenkamer;;;https://english.rekenkamer.nl/;;english.rekenkamer.nl;1-10-2021;;ja;;;rijksreg;http://english.rekenkamer.nl;20-8-2021;;
-;Hoge college van staat;;AR;Algemene Rekenkamer;;;https://fileshare.rekenkamer.nl/Start?0;https://fileshare.rekenkamer.nl/;fileshare.rekenkamer.nl;1-10-2021;;ja;;;rijksreg;http://fileshare.rekenkamer.nl;21-8-2021;;
-;Hoge college van staat;;AR;Algemene Rekenkamer;;;https://magazines.algemenerekenkamer.nl/rekenmaar;;magazines.algemenerekenkamer.nl;1-10-2021;;ja;;;rijksreg;http://magazines.algemenerekenkamer.nl/rekenmaar;20-8-2021;;
-;Hoge college van staat;;AR;Algemene Rekenkamer;;;https://www.rekenkamer.nl/;;rekenkamer.nl;;;ja;;;200ok;;;;uitzoeken
+;Hoge college van staat;;AR;Algemene Rekenkamer;;;https://www.rekenkamer.nl/;;rekenkamer.nl;30-11-2021;;ja;ja;;200ok;;; ALG;
+;Hoge college van staat;;AR;Algemene Rekenkamer;;;https://magazines.algemenerekenkamer.nl/rekenmaar;;magazines.algemenerekenkamer.nl;30-11-2021;;ja;ja;;200ok;;;;
+;Hoge college van staat;;AR;Algemene Rekenkamer;;;http://coronarekening.rekenkamer.nl;;coronarekening.rekenkamer.nl;30-11-2021;;ja;ja;;200ok;;;;
+;Hoge college van staat;;AR;Algemene Rekenkamer;;;https://english.rekenkamer.nl/;;english.rekenkamer.nl;30-11-2021;;ja;ja;;200ok;;;;
+;Hoge college van staat;;AR;Algemene Rekenkamer;;;https://fileshare.rekenkamer.nl/Start?0;https://fileshare.rekenkamer.nl/;fileshare.rekenkamer.nl;30-11-2021;;ja;ja;;200ok;;;;
 ;Hoge college van staat;;;de Kinderombudsman;;;http://www.dekinderombudsman.nl/;;dekinderombudsman.nl;;;ja;;;almanak;;; ALG;
 ;Hoge college van staat;;EK;Eerste Kamer der Staten-Generaal;;;https://eerstekamer.nl/;;eerstekamer.nl;;;ja;;;200ok;;;;uitzoeken
-;Hoge college van staat;;EK;Eerste Kamer der Staten-Generaal;;;https://onderwijs.eerstekamer.nl/;;onderwijs.eerstekamer.nl;;;ja;;;200ok;;;;uitzoeken
+;Hoge college van staat;;EK;Eerste Kamer der Staten-Generaal;;;https://onderwijs.eerstekamer.nl/;;onderwijs.eerstekamer.nl;30-11-2021;;ja;ja;;200ok;;;;uitzoeken
 ;Hoge college van staat;;KdNO;Kanselarij der Nederlandse Orden;;;https://www.lintjes.nl/;;lintjes.nl;1-10-2021;;ja;;;rijksreg;http://www.lintjes.nl;21-8-2021;;
 ;Hoge college van staat;;KdNO;Kanselarij der Nederlandse Orden;;;https://www.royalhonoursanddecorations.nl/;;royalhonoursanddecorations.nl;1-10-2021;;ja;;;rijksreg;http://www.royalhonoursanddecorations.nl;22-8-2021;;
 ;Hoge college van staat;;;Nationale Ombudsman;;;https://www.dekinderombudsman.nl/;;dekinderombudsman.nl;1-10-2021;;ja;;;rijksreg;http://www.dekinderombudsman.nl;21-8-2021;;
@@ -12549,6 +12574,7 @@ x;Gemeente;;;Veldhoven;;;http://www.cjgveldhoven.nl/;;cjgveldhoven.nl;5-11-2021;
 ;Overheid;;;ICTU;;;https://www.ictu.nl/;;ictu.nl;;;ja;;;200ok;;;;uitzoeken
 ;Overheid;;;ICTU;;;https://inclusie.gebruikercentraal.nl/;;inclusie.gebruikercentraal.nl;16-10-2021;;ja;ja;;200ok;;;;
 ;Overheid;;;ICTU;;;https://inclusiekader.gebruikercentraal.nl/;;inclusiekader.gebruikercentraal.nl;16-10-2021;;ja;ja;;200ok;;;;
+;Overheid;;;ICTU;;;https://inclusievedienstverlening.gebruikercentraal.nl/;;inclusievedienstverlening.gebruikercentraal.nl;30-11-2021;;ja;ja;;200ok;;;;
 ;Overheid;;;ICTU;;;https://www.internetspiegel.nl/;;internetspiegel.nl;16-10-2021;;ja;ja;;200ok;;;;
 ;Overheid;;;ICTU;;;https://login.vensters.net/login;;login.vensters.net;;;ja;;;200ok;;;;uitzoeken
 ;Overheid;;;ICTU;;;https://maturityscan.gebruikercentraal.nl/;;maturityscan.gebruikercentraal.nl;14-11-2021;;ja;ja;;200ok;;;;
@@ -12814,6 +12840,7 @@ x;Gemeente;;;Veldhoven;;;http://www.cjgveldhoven.nl/;;cjgveldhoven.nl;5-11-2021;
 ;Provincie;;;Provincie Limburg;;;https://www.nationaallandschapzuidlimburg.nl/;;nationaallandschapzuidlimburg.nl;;;ja;;;200ok;;;;uitzoeken
 ;Provincie;;;Provincie Limburg;;;https://nl.crossborder-housing.eu/;;nl.crossborder-housing.eu;;;ja;;;200ok;;;;uitzoeken
 ;Provincie;;;Provincie Limburg;;;https://www.ooijen-wanssum.nl/;;ooijen-wanssum.nl;;;ja;;;200ok;;;;uitzoeken
+;Provincie;;;Provincie Limburg;;Kennispunt Twente;https://portal.prvlimburg.nl;;portal.prvlimburg.nl;30-11-2021;;ja;ja;;200ok;;;;
 ;Provincie;;;Provincie Limburg;;RichtingZuid;https://www.richtingzuid.nl/ik-ben-starter/richtingzuid/;;richtingzuid.nl;;;ja;;;200ok;;;;uitzoeken
 ;Provincie;;;Provincie Limburg;;;https://www.rovl.nl/;;rovl.nl;;;ja;;;tv;;;;
 ;Provincie;;;Provincie Limburg;;;https://www.viabelgica.nl/;;viabelgica.nl;23-10-2021;;;;;200ok;;;;uitzoeken
@@ -12870,7 +12897,6 @@ x;Gemeente;;;Veldhoven;;;http://www.cjgveldhoven.nl/;;cjgveldhoven.nl;5-11-2021;
 ;Provincie;;;Provincie Noord-Holland;;Waddenfonds;https://waddenfonds.nl/;;waddenfonds.nl;;;nee;nee;;200ok;;;;
 ;Provincie;;;Provincie Noord-Holland;;Groengebied Amstelland;https://www.groengebied-amstelland.nl/;;groengebied-amstelland.nl;;;ja;nee;;200ok;;;;
 ;Provincie;;;Provincie Noord-Holland;;Zeestad;https://zeestad.nl/;;zeestad.nl;;;nee;nee;;200ok;;;;
-;Provincie;;;Provincie Noord-Holland;;;https://financien.noord-holland.nl/;;financien.noord-holland.nl;23-10-2021;;ja;;;200ok;;;;uitzoeken
 ;Provincie;;;Provincie Noord-Holland;;DNA (De Nieuwe Afsluitdijk);https://www.deafsluitdijk.nl/;;deafsluitdijk.nl;15-10-2021;;ja;nee;;200ok;;;;
 ;Provincie;;;Provincie Noord-Holland;;;https://functiehuis.noord-holland.nl/;;functiehuis.noord-holland.nl;23-10-2021;offline;ja;;;200ok;;;;uitzoeken
 ;Provincie;;;Provincie Noord-Holland;;;https://geoapps.noord-holland.nl/kaartenportaal/apps/MapSeries/index.html?appid=e85fc52939f240ba9ef5164b5e203fb2&entry=6;https://data.noord-holland.nl;geoapps.noord-holland.nl;;;ja;;;200ok;;;;uitzoeken
@@ -13041,6 +13067,7 @@ x;Gemeente;;;Veldhoven;;;http://www.cjgveldhoven.nl/;;cjgveldhoven.nl;5-11-2021;
 ;Rijksoverheid;OCW;CITO;Centraal Instituut voor Toetsontwikkeling;;;https://www.cito.nl/;;cito.nl;1-10-2021;;ja;;;rijksreg;http://www.cito.nl;21-8-2021;;
 ;Rijksoverheid;EZK;CPB;Centraal Planbureau;;;https://www.cpb.nl/;;cpb.nl;5-11-2021;;ja;ja;;200ok;;;;
 ;Rijksoverheid;VWS;CEG;Centrum voor Ethiek & Gezondheid;;;https://www.ceg.nl/;;ceg.nl;1-10-2021;;ja;;;rijksreg;http://www.ceg.nl;21-8-2021;;
+;Rijksoverheid;VWS;CIBG;CIBG;;;https://www.ncpeh.nl/;;ncpeh.nl;30-11-2021;;ja;ja;;200ok;;;;
 ;Rijksoverheid;BZK;;CIO-Rijk;;;https://www.rijksictdashboard.nl/;;rijksictdashboard.nl;;;ja;;;tv;;;;
 ;Rijksoverheid;VWS;CBZ;College Bouw Zorginstellingen;;;https://www.bouwcollege.nl/;;bouwcollege.nl;1-10-2021;;ja;;;rijksreg;http://www.bouwcollege.nl;21-8-2021;;
 ;Rijksoverheid;OCW;CBHO;College van hoger beroep voor het hoger onderwijs;;;https://www.cbho.nl/;;cbho.nl;1-10-2021;;ja;;;rijksreg;http://www.cbho.nl;21-8-2021;;
@@ -13086,7 +13113,9 @@ x;Gemeente;;;Veldhoven;;;http://www.cjgveldhoven.nl/;;cjgveldhoven.nl;5-11-2021;
 ;Rijksoverheid;FIN;;Douane;;;https://mijndouane.belastingdienst.nl/;;mijndouane.belastingdienst.nl;16-10-2021;;ja;;;200ok;;;;uitzoeken
 ;Rijksoverheid;FIN;;Douane;;;https://nh.douane.nl/;;nh.douane.nl;5-11-2021;;ja;ja;;200ok;;;;
 ;Rijksoverheid;FIN;;Douane;;;https://tarief.douane.nl/arctictariff-public-web/#!/home;;tarief.douane.nl;16-10-2021;;ja;;;tv;;;;
+;Rijksoverheid;EZK;;ECP;;;http://commit2data.nl;;commit2data.nl;30-11-2021;;ja;ja;;200ok;;;;
 ;Rijksoverheid;EZK;;ECP;;;https://dutchdigitaldelta.nl/;;dutchdigitaldelta.nl;1-10-2021;;ja;;;rijksreg;http://dutchdigitaldelta.nl;20-8-2021;;
+;Rijksoverheid;EZK;;ECP;;;http://hcaict.nl;;hcaict.nl;30-11-2021;;ja;ja;;200ok;;;;
 ;Rijksoverheid;EZK;;ECP;;;https://www.nederlanddigitaal.nl/;;nederlanddigitaal.nl;5-11-2021;;ja;ja;;200ok;;;;
 ;Rijksoverheid;EZK;;Edelmetaal Waarborg Nederland;;;https://www.ewnederland.nl/;;ewnederland.nl;1-10-2021;;ja;;;rijksreg;http://www.ewnederland.nl;21-8-2021;;
 ;Rijksoverheid;DEF;FMW;Faculteit Militaire Wetenschappen;;;https://faculteitmilitairewetenschappen.nl/;;faculteitmilitairewetenschappen.nl;;;ja;;;tv;;;;
@@ -13115,6 +13144,11 @@ x;Gemeente;;;Veldhoven;;;http://www.cjgveldhoven.nl/;;cjgveldhoven.nl;5-11-2021;
 ;Rijksoverheid;VWS;IGJ;Inspectie Gezondheidszorg en Jeugd;;;https://toezichtopzorgnetwerken.igj.nl/;;toezichtopzorgnetwerken.igj.nl;5-11-2021;;ja;ja;;200ok;;;;
 ;Rijksoverheid;VWS;IGJ;Inspectie Gezondheidszorg en Jeugd;;;https://www.toezichtsociaaldomein.nl/;;toezichtsociaaldomein.nl;5-11-2021;;ja;ja;;200ok;;;;
 ;Rijksoverheid;JenV;Inspectie JenV;Inspectie Justitie en Veiligheid;;;https://www.inspectie-jenv.nl/;;inspectie-jenv.nl;5-11-2021;;ja;ja;;200ok;;;;
+;Rijksoverheid;IenW;ILT;Inspectie Leefomgeving en Transport;;;https://inspectielandschap.nl/;;inspectielandschap.nl;30-11-2021;;ja;ja;;200ok;;;;
+;Rijksoverheid;IenW;ILT;Inspectie Leefomgeving en Transport;;;https://regelhulpenvoorbedrijven.nl/afval/;;regelhulpenvoorbedrijven.nl;23-10-2021;;ja;ja;;200ok;;;;
+;Rijksoverheid;IenW;ILT;Inspectie Leefomgeving en Transport;;;https://regelhulpenvoorbedrijven.nl/borgtool/;;regelhulpenvoorbedrijven.nl;23-10-2021;;ja;ja;;200ok;;;;
+;Rijksoverheid;IenW;ILT;Inspectie Leefomgeving en Transport;;;https://regelhulpenvoorbedrijven.nl/dna/;;regelhulpenvoorbedrijven.nl;23-10-2021;;ja;ja;;200ok;;;;
+;Rijksoverheid;IenW;ILT;Inspectie Leefomgeving en Transport;;;https://www.toezichtfestival.nl/;;toezichtfestival.nl;30-11-2021;;ja;ja;;200ok;;;;
 ;Rijksoverheid;OCW;;Inspectie Overheidsinformatie en Erfgoed;;;https://english.inspectie-oe.nl/;;english.inspectie-oe.nl;;;ja;;;200ok;;;;uitzoeken
 ;Rijksoverheid;OCW;;Inspectie Overheidsinformatie en Erfgoed;;;https://inspectie-oe.nl/;;inspectie-oe.nl;5-11-2021;;ja;ja;;200ok;;;;
 ;Rijksoverheid;SZW;;Inspectie SZW;;;https://asbestovertredingen.inspectieszw.nl/;;asbestovertredingen.inspectieszw.nl;5-11-2021;;ja;ja;;200ok;;;;
@@ -13132,9 +13166,6 @@ x;Gemeente;;;Veldhoven;;;http://www.cjgveldhoven.nl/;;cjgveldhoven.nl;5-11-2021;
 ;Rijksoverheid;OCW;;Inspectie van het Onderwijs;;;https://isd.owinsp.nl/;;isd.owinsp.nl;;;ja;;;200ok;;;;uitzoeken
 ;Rijksoverheid;OCW;;Inspectie van het Onderwijs;;;https://www.onderwijsinspectie.nl/;;onderwijsinspectie.nl;10-10-2021;;ja;;;200ok;;;;
 ;Rijksoverheid;OCW;;Inspectie van het Onderwijs;;;https://toezichtresultaten.onderwijsinspectie.nl/;;toezichtresultaten.onderwijsinspectie.nl;10-10-2021;;ja;;;200ok;;;;
-;Rijksoverheid;IenW;ILT;Inspectie van Leefomgeving en Transport;;;https://regelhulpenvoorbedrijven.nl/afval/;;regelhulpenvoorbedrijven.nl;23-10-2021;;ja;ja;;200ok;;;;
-;Rijksoverheid;IenW;ILT;Inspectie van Leefomgeving en Transport;;;https://regelhulpenvoorbedrijven.nl/borgtool/;;regelhulpenvoorbedrijven.nl;23-10-2021;;ja;ja;;200ok;;;;
-;Rijksoverheid;IenW;ILT;Inspectie van Leefomgeving en Transport;;;https://regelhulpenvoorbedrijven.nl/dna/;;regelhulpenvoorbedrijven.nl;23-10-2021;;ja;ja;;200ok;;;;
 ;Rijksoverheid;interdepartementaal;;Inspectieraad;;;https://magazines.rijksinspecties.nl/magazine-rijksinspecties;;magazines.rijksinspecties.nl;;;ja;;;200ok;;;;uitzoeken
 ;Rijksoverheid;interdepartementaal;;Inspectieraad;;;https://netwerk.publiektoezicht.nl/;;netwerk.publiektoezicht.nl;5-11-2021;;ja;ja;;200ok;;;;
 ;Rijksoverheid;interdepartementaal;;Inspectieraad;;;http://www.rijksinspecties.nl/;;rijksinspecties.nl;;;ja;;;200ok;;;;uitzoeken
@@ -13160,6 +13191,7 @@ x;Gemeente;;;Veldhoven;;;http://www.cjgveldhoven.nl/;;cjgveldhoven.nl;5-11-2021;
 ;Rijksoverheid;BZK;KOOP;Kennis- en Exploitatiecentrum Officiële Overheidspublicaties;;;https://wettenpocket.overheid.nl/portal/;;wettenpocket.overheid.nl;5-11-2021;;ja;ja;;200ok;;;;
 ;Rijksoverheid;IenW;KiM;Kennisinstituut voor Mobiliteitsbeleid;;;https://english.kimnet.nl/;;english.kimnet.nl;;;ja;;;200ok;;;;
 ;Rijksoverheid;IenW;KiM;Kennisinstituut voor Mobiliteitsbeleid;;;https://www.kimnet.nl/;;kimnet.nl;5-11-2021;;ja;ja;;200ok;;;;
+;Rijksoverheid;VWS;;Kerndepartement/Zorgverzekeringen;;;https://www.zorgverzekeringslijn.nl/;;zorgverzekeringslijn.nl;30-11-2021;;ja;ja;;200ok;;;;
 ;Rijksoverheid;IenW;KNMI;Koninklijk Nederlands Meteorologisch Instituut;;;https://magazines.rijksoverheid.nl/knmi;;magazines.rijksoverheid.nl;1-10-2021;;ja;;;rijksreg;http://magazines.rijksoverheid.nl/knmi;20-8-2021;;
 ;Rijksoverheid;IenW;LVO;Landelijk Verbeterprogramma Overwegen;;;https://www.aimonline.nl/;;aimonline.nl;;;ja;;;tv;;;;
 ;Rijksoverheid;IenW;LVO;Landelijk Verbeterprogramma Overwegen;;;https://www.doortrappen.nl/default.aspx;;doortrappen.nl;5-11-2021;;ja;ja;;200ok;;;;
@@ -13182,25 +13214,31 @@ x;Gemeente;;;Veldhoven;;;http://www.cjgveldhoven.nl/;;cjgveldhoven.nl;5-11-2021;
 ;Rijksoverheid;AZ;AZ;Ministerie van Algemene Zaken;;;https://www.maison-royale.nl/;;maison-royale.nl;5-11-2021;;ja;ja;;200ok;;;;
 ;Rijksoverheid;AZ;AZ;Ministerie van Algemene Zaken;;;https://www.programmamenscentraal.nl/;;programmamenscentraal.nl;1-10-2021;;ja;;;rijksreg;http://www.programmamenscentraal.nl;21-8-2021;;
 ;Rijksoverheid;AZ;AZ;Ministerie van Algemene Zaken;;;https://www.royal-house.nl/;;royal-house.nl;5-11-2021;;ja;ja;;200ok;;;;
+;Rijksoverheid;BZK;BZK;Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;;;https://55plus.datawonen.nl/dashboard/dashboard/ouderenhuisvesting/;;55plus.datawonen.nl;30-11-2021;;ja;nee;Swing Mosaic;200ok;;;;
 ;Rijksoverheid;BZK;BZK;Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;;;https://aandeslagmetdeomgevingswet.nl/;;aandeslagmetdeomgevingswet.nl;16-10-2021;;ja;ja;;200ok;;;;
 ;Rijksoverheid;BZK;BZK;Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;;;https://aandeslagmetdeomgevingswet.nl/ontwikkelaarsportaal;;aandeslagmetdeomgevingswet.nl;16-10-2021;;ja;ja;;200ok;;;;
 ;Rijksoverheid;BZK;BZK;Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;;;https://www.acc-bezoekhetrijk.nl/;;acc-bezoekhetrijk.nl;;;ja;;;tv;;;;
 ;Rijksoverheid;BZK;BZK;Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;;;https://agendastad.nl/;;agendastad.nl;;;ja;;;tv;;;;
+;Rijksoverheid;BZK;BZK;Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;;;http://agendastadenregio.nl;;agendastadenregio.nl;30-11-2021;offline;ja;ja;;200ok;;;;
 ;Rijksoverheid;BZK;BZK;Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;;;https://www.agressievrijwerk.nl/;;agressievrijwerk.nl;;;ja;;;200ok;;;;uitzoeken
 ;Rijksoverheid;BZK;BZK;Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;;;https://www.atgb.nl/;;atgb.nl;1-10-2021;;ja;;;rijksreg;http://www.atgb.nl;21-8-2021;;
 ;Rijksoverheid;BZK;BZK;Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;;;https://basisregistratieondergrond.nl/;;basisregistratieondergrond.nl;1-10-2021;;ja;;;rijksreg;http://basisregistratieondergrond.nl;20-8-2021;;
+;Rijksoverheid;BZK;BZK;Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;;;https://bbsh.datawonen.nl/;;bbsh.datawonen.nl;30-11-2021;;ja;nee;Swing Mosaic;200ok;;;;
 ;Rijksoverheid;BZK;BZK;Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;;;https://beeldbieb.gebruikercentraal.nl/;;beeldbieb.gebruikercentraal.nl;16-10-2021;;ja;ja;;rijksreg;http://beeldbieb.gebruikercentraal.nl;21-8-2021;;
 ;Rijksoverheid;BZK;BZK;Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;;;https://www.bezoekhetrijk.nl/;;bezoekhetrijk.nl;;;ja;;;tv;;;;
+;Rijksoverheid;BZK;BZK;Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;;;http://www.binnenhofrenovatie.nl;;binnenhofrenovatie.nl;30-11-2021;;ja;ja;;200ok;;;;
 ;Rijksoverheid;BZK;BZK;Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;;;https://brexitimpactscan.europadecentraal.nl/;;brexitimpactscan.europadecentraal.nl;23-10-2021;;ja;ja;;200ok;;;;
 ;Rijksoverheid;BZK;BZK;Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;;;https://www.bronhouderportaal-bro.nl/login;https://www.bronhouderportaal-bro.nl/;bronhouderportaal-bro.nl;1-10-2021;;ja;;;rijksreg;http://www.bronhouderportaal-bro.nl;21-8-2021;;
+;Rijksoverheid;BZK;BZK;Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;;;https://btiv.datawonen.nl/;;btiv.datawonen.nl;30-11-2021;;ja;nee;Swing Mosaic;200ok;;;;
 ;Rijksoverheid;BZK;BZK;Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;;;https://bzksocialmedia.nl/;;bzksocialmedia.nl;1-10-2021;;ja;;;rijksreg;http://bzksocialmedia.nl;20-8-2021;;
 ;Rijksoverheid;BZK;BZK;Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;;;https://www.caorijk.nl/;;caorijk.nl;1-10-2021;;ja;;;rijksreg;http://www.caorijk.nl;21-8-2021;;
 ;Rijksoverheid;BZK;BZK;Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;;;https://chw.aandeslagmetdeomgevingswet.nl/;;chw.aandeslagmetdeomgevingswet.nl;1-10-2021;;ja;;;rijksreg;http://chw.aandeslagmetdeomgevingswet.nl;21-8-2021;;
 ;Rijksoverheid;BZK;BZK;Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;;;https://comcms.logius.nl/user/login;https://beslisboom.forumstandaardisatie.nl/;comcms.logius.nl;1-10-2021;;ja;ja;;rijksreg;http://beslisboom.forumstandaardisatie.nl;21-8-2021;;
 ;Rijksoverheid;BZK;BZK;Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;;;https://www.commissiebbv.nl/;;commissiebbv.nl;1-10-2021;;ja;;;rijksreg;http://www.commissiebbv.nl;21-8-2021;;
 ;Rijksoverheid;BZK;BZK;Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;;;https://www.contactpuntbouwproducten.nl/default.aspx;https://www.contactpuntbouwproducten.nl/;contactpuntbouwproducten.nl;1-10-2021;;ja;;;rijksreg;http://www.contactpuntbouwproducten.nl;21-8-2021;;
+;Rijksoverheid;BZK;BZK;Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;;;https://corporaties.datawonen.nl/;;corporaties.datawonen.nl;30-11-2021;;ja;ja;;200ok;;;;
 ;Rijksoverheid;BZK;BZK;Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;;;https://cs-portaal.procesinfrastructuur.nl/;;cs-portaal.procesinfrastructuur.nl;1-10-2021;;ja;;;rijksreg;http://cs-portaal.procesinfrastructuur.nl;21-8-2021;;
-;Rijksoverheid;BZK;BZK;Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;;;https://datawonen.nl/;;datawonen.nl;1-10-2021;;ja;;;rijksreg;http://datawonen.nl;20-8-2021;;
+;Rijksoverheid;BZK;BZK;Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;;;https://datawonen.nl/;;datawonen.nl;30-11-2021;;ja;nee;Swing Mosaic;200ok;;;;
 ;Rijksoverheid;BZK;BZK;Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;;;https://www.denationaleomgevingsvisie.nl/default.aspx;https://www.denationaleomgevingsvisie.nl/;denationaleomgevingsvisie.nl;1-10-2021;;ja;;;rijksreg;http://www.denationaleomgevingsvisie.nl;21-8-2021;;
 ;Rijksoverheid;BZK;BZK;Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;;;https://www.denkdoeduurzaam.nl/;;denkdoeduurzaam.nl;1-10-2021;;ja;;;rijksreg;http://www.denkdoeduurzaam.nl;21-8-2021;;
 ;Rijksoverheid;BZK;BZK;Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;;;https://www.derijkscampus.nl/;;derijkscampus.nl;1-10-2021;;ja;;;rijksreg;http://www.derijkscampus.nl;21-8-2021;;
@@ -13208,6 +13246,7 @@ x;Gemeente;;;Veldhoven;;;http://www.cjgveldhoven.nl/;;cjgveldhoven.nl;5-11-2021;
 ;Rijksoverheid;BZK;BZK;Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;;;https://www.digitaleoverheid.nl/;;digitaleoverheid.nl;1-10-2021;;ja;;;rijksreg;http://www.digitaleoverheid.nl;21-8-2021;;
 ;Rijksoverheid;BZK;BZK;Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;;;https://www.digitaletoegang.nl/;;digitaletoegang.nl;1-10-2021;;ja;;;rijksreg;http://www.digitaletoegang.nl;21-8-2021;;
 ;Rijksoverheid;BZK;BZK;Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;;;https://www.directduidelijk.nl/;;directduidelijk.nl;1-10-2021;;ja;;;rijksreg;http://www.directduidelijk.nl;21-8-2021;;
+;Rijksoverheid;BZK;BZK;Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;;;https://disco.datawonen.nl/;;disco.datawonen.nl;30-11-2021;;ja;ja;;200ok;;;;
 ;Rijksoverheid;BZK;BZK;Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;;;https://doc.leefbaarometer.nl/;;doc.leefbaarometer.nl;;;ja;;;tv;;;;
 ;Rijksoverheid;BZK;BZK;Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;;;https://www.dutchhousingpolicy.nl/;;dutchhousingpolicy.nl;1-10-2021;;ja;;;rijksreg;http://www.dutchhousingpolicy.nl;21-8-2021;;
 ;Rijksoverheid;BZK;BZK;Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;;;https://www.earonline.nl/;;earonline.nl;;;ja;;;tv;;;;
@@ -13221,6 +13260,7 @@ x;Gemeente;;;Veldhoven;;;http://www.cjgveldhoven.nl/;;cjgveldhoven.nl;5-11-2021;
 ;Rijksoverheid;BZK;BZK;Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;;;https://www.gobiernodireino.nl/;;gobiernodireino.nl;1-10-2021;;ja;;;rijksreg;http://www.gobiernodireino.nl;21-8-2021;;
 ;Rijksoverheid;BZK;BZK;Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;;;https://www.gobiernudireino.nl/;;gobiernudireino.nl;1-10-2021;;ja;;;rijksreg;http://www.gobiernudireino.nl;21-8-2021;;
 ;Rijksoverheid;BZK;BZK;Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;;;https://grenzeloossamenwerken.pleio.nl/;;grenzeloossamenwerken.pleio.nl;1-10-2021;;ja;;;rijksreg;http://grenzeloossamenwerken.pleio.nl;21-8-2021;;
+;Rijksoverheid;BZK;BZK;Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;;;https://hcib.datawonen.nl/;;hcib.datawonen.nl;30-11-2021;;ja;nee;Swing Mosaic;200ok;;;;
 ;Rijksoverheid;BZK;BZK;Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;;;https://helpdeskbouwregels.nl/;;helpdeskbouwregels.nl;1-10-2021;;ja;;;rijksreg;http://helpdeskbouwregels.nl;20-8-2021;;
 ;Rijksoverheid;BZK;BZK;Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;;;https://www.helpdesk-efactureren.nl/;;helpdesk-efactureren.nl;1-10-2021;;ja;;;rijksreg;http://www.helpdesk-efactureren.nl;21-8-2021;;
 ;Rijksoverheid;BZK;BZK;Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;;;https://www.iinterimrijk.nl/;;iinterimrijk.nl;1-10-2021;;ja;;;rijksreg;http://www.iinterimrijk.nl;21-8-2021;;
@@ -13229,13 +13269,12 @@ x;Gemeente;;;Veldhoven;;;http://www.cjgveldhoven.nl/;;cjgveldhoven.nl;5-11-2021;
 ;Rijksoverheid;BZK;BZK;Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;;;https://inspireaanmerking.nl/;;inspireaanmerking.nl;1-10-2021;;ja;;;rijksreg;http://inspireaanmerking.nl;20-8-2021;;
 ;Rijksoverheid;BZK;BZK;Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;;;https://www.it-academieoverheid.nl/;;it-academieoverheid.nl;1-10-2021;;ja;;;rijksreg;http://www.it-academieoverheid.nl;21-8-2021;;
 ;Rijksoverheid;BZK;BZK;Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;;;https://jobs.werkenvoornederland.nl/;;jobs.werkenvoornederland.nl;1-10-2021;;ja;;;rijksreg;http://jobs.werkenvoornederland.nl;21-8-2021;;
+;Rijksoverheid;BZK;BZK;Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;;;https://kaarten.datawonen.nl/;;kaarten.datawonen.nl;30-11-2021;;ja;nee;Swing Mosaic;200ok;;;;
 ;Rijksoverheid;BZK;BZK;Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;;;http://www.kaartenvannederland.nl/;;kaartenvannederland.nl;;;ja;;;tv;;;;
 ;Rijksoverheid;BZK;BZK;Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;;;http://www.kabga.aw/WP/;http://www.kabga.aw;kabga.aw;1-10-2021;;ja;;;rijksreg;http://www.kabga.aw;21-8-2021;;
-;Rijksoverheid;BZK;BZK;Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;;;https://kennisbank.logius.nl/;;kennisbank.logius.nl;1-10-2021;;ja;ja;;rijksreg;http://kennisbank.logius.nl;21-8-2021;;
 ;Rijksoverheid;BZK;BZK;Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;;;https://www.kennisopenbaarbestuur.nl/;;kennisopenbaarbestuur.nl;1-10-2021;;ja;;;rijksreg;http://www.kennisopenbaarbestuur.nl;21-8-2021;;
 ;Rijksoverheid;BZK;BZK;Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;;;https://www.kijkenoverdegrens.nl/;;kijkenoverdegrens.nl;1-10-2021;;ja;;;rijksreg;http://www.kijkenoverdegrens.nl;21-8-2021;;
 ;Rijksoverheid;BZK;BZK;Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;;;https://kwartslag.aandeslagmetdeomgevingswet.nl/kwartslag-10-maart-2020;https://kwartslag.aandeslagmetdeomgevingswet.nl/;kwartslag.aandeslagmetdeomgevingswet.nl;1-10-2021;;ja;;;rijksreg;http://kwartslag.aandeslagmetdeomgevingswet.nl;21-8-2021;;
-;Rijksoverheid;BZK;BZK;Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;;;https://leads.rijksconsultants.nl/inloggen;https://leads.rijksconsultants.nl/;leads.rijksconsultants.nl;1-10-2021;;ja;;;rijksreg;http://leads.rijksconsultants.nl;21-8-2021;;
 ;Rijksoverheid;BZK;BZK;Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;;;https://www.leefbaarometer.nl/home.php;https://www.leefbaarometer.nl/;leefbaarometer.nl;1-10-2021;;ja;;;rijksreg;http://www.leefbaarometer.nl;21-8-2021;;
 ;Rijksoverheid;BZK;BZK;Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;;;https://www.lokale-democratie.nl/;;lokale-democratie.nl;1-10-2021;;ja;;;rijksreg;http://www.lokale-democratie.nl;21-8-2021;;
 ;Rijksoverheid;BZK;BZK;Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;;;https://magazines.aandeslagmetdeomgevingswet.nl/kwartslag/;;magazines.aandeslagmetdeomgevingswet.nl;;;ja;;;tv;;;;
@@ -13266,7 +13305,11 @@ x;Gemeente;;;Veldhoven;;;http://www.cjgveldhoven.nl/;;cjgveldhoven.nl;5-11-2021;
 ;Rijksoverheid;BZK;BZK;Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;;;https://www.pmkmodellen.nl/;;pmkmodellen.nl;1-10-2021;;ja;;;rijksreg;http://www.pmkmodellen.nl;21-8-2021;;
 ;Rijksoverheid;BZK;BZK;Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;;;https://www.politiekeambtsdragers.nl/;;politiekeambtsdragers.nl;1-10-2021;;ja;;;rijksreg;http://www.politiekeambtsdragers.nl;21-8-2021;;
 ;Rijksoverheid;BZK;BZK;Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;;;https://prestatie.opkaart.nl/;;prestatie.opkaart.nl;1-10-2021;;ja;;;rijksreg;http://prestatie.opkaart.nl;21-8-2021;;
+;Rijksoverheid;BZK;BZK;Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;;;https://prestatieafspraken.datawonen.nl/;;prestatieafspraken.datawonen.nl;30-11-2021;;ja;nee;Swing Mosaic;200ok;;;;
+;Rijksoverheid;BZK;BZK;Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;;;https://prestatie-opkaart.cijfersoverwonen.nl/dashboard/dashboardpa/selecteer-een-prestatieafspraak/;;prestatie-opkaart.cijfersoverwonen.nl;30-11-2021;;ja;nee;Swing Mosaic;200ok;;;;
+;Rijksoverheid;BZK;BZK;Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;;;https://prestatie-opkaart.datawonen.nl/;;prestatie-opkaart.datawonen.nl;30-11-2021;;ja;ja;;200ok;;;;
 ;Rijksoverheid;BZK;BZK;Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;;;https://www.prettigcontactmetdeoverheid.nl/;;prettigcontactmetdeoverheid.nl;1-10-2021;;ja;;;rijksreg;http://www.prettigcontactmetdeoverheid.nl;21-8-2021;;
+;Rijksoverheid;BZK;BZK;Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;;;https://primos.datawonen.nl/;;primos.datawonen.nl;30-11-2021;;ja;nee;Swing Mosaic;200ok;;;;
 ;Rijksoverheid;BZK;BZK;Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;;;https://www.programmasociaaldomein.nl/;;programmasociaaldomein.nl;1-10-2021;;ja;;;rijksreg;http://www.programmasociaaldomein.nl;21-8-2021;;
 ;Rijksoverheid;BZK;BZK;Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;;;https://programmeringsraadlogius.pleio.nl/;;programmeringsraadlogius.pleio.nl;1-10-2021;;ja;;;rijksreg;http://programmeringsraadlogius.pleio.nl;21-8-2021;;
 ;Rijksoverheid;BZK;BZK;Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;;;https://redactie.gebruikercentraal.nl/;;redactie.gebruikercentraal.nl;16-10-2021;;ja;ja;;rijksreg;http://redactie.gebruikercentraal.nl;21-8-2021;;
@@ -13279,11 +13322,12 @@ x;Gemeente;;;Veldhoven;;;http://www.cjgveldhoven.nl/;;cjgveldhoven.nl;5-11-2021;
 ;Rijksoverheid;BZK;BZK;Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;;;https://rijksoverheid.bouwbesluit.com/;;rijksoverheid.bouwbesluit.com;1-10-2021;;ja;;;rijksreg;http://rijksoverheid.bouwbesluit.com;20-8-2021;;
 ;Rijksoverheid;BZK;BZK;Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;;;https://samenwerkenaanontwerpkracht.nl/;;samenwerkenaanontwerpkracht.nl;;;ja;;;tv;;;;
 ;Rijksoverheid;BZK;BZK;Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;;;https://www.staatscommissieparlementairstelsel.nl/;;staatscommissieparlementairstelsel.nl;;;ja;;;tv;;;;
-;Rijksoverheid;BZK;BZK;Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;;;https://startenopdewoningmarkt.nl/;;startenopdewoningmarkt.nl;;;ja;;;tv;;;;
+;Rijksoverheid;BZK;BZK;Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;;;https://startenopdewoningmarkt.nl/;;startenopdewoningmarkt.nl;30-11-2021;;ja;ja;;200ok;;;;
 ;Rijksoverheid;BZK;BZK;Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;;;https://www.statiagovernment.com;;statiagovernment.com;;;ja;;;tv;;;;
 ;Rijksoverheid;BZK;BZK;Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;;;https://www.stembureauinstructie.nl/;;stembureauinstructie.nl;1-10-2021;;ja;;;rijksreg;http://www.stembureauinstructie.nl;22-8-2021;;
 ;Rijksoverheid;BZK;BZK;Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;;;http://storybook.nldesignsystem.nl/?path=/story/nl-design-system-introductie--page;https://storybook.nldesignsystem.nl/;storybook.nldesignsystem.nl;1-10-2021;;ja;;;rijksreg;http://storybook.nldesignsystem.nl;21-8-2021;;
 ;Rijksoverheid;BZK;BZK;Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;;;https://studiegroep.overheidvannu.nl/default.aspx;https://studiegroep.overheidvannu.nl/;studiegroep.overheidvannu.nl;1-10-2021;;ja;;;rijksreg;http://studiegroep.overheidvannu.nl;21-8-2021;;
+;Rijksoverheid;BZK;BZK;Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;;;https://syswov.datawonen.nl/;;syswov.datawonen.nl;30-11-2021;;ja;nee;Swing Mosaic;200ok;;;;
 ;Rijksoverheid;BZK;BZK;Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;;;https://talent.rijksbeveiliging.nl/nl/ClassLogin?return=%2fnl%2fHome%2fHomepage;https://talent.rijksbeveiliging.nl/;talent.rijksbeveiliging.nl;1-10-2021;;ja;;;rijksreg;http://talent.rijksbeveiliging.nl;21-8-2021;;
 ;Rijksoverheid;BZK;BZK;Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;;;https://techfocus.pleio.nl/;;techfocus.pleio.nl;1-10-2021;;ja;;;rijksreg;http://techfocus.pleio.nl;21-8-2021;;
 ;Rijksoverheid;BZK;BZK;Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;;;https://teverantwoordenregelingen.rijksoverheid.nl/;;teverantwoordenregelingen.rijksoverheid.nl;1-10-2021;;ja;;;rijksreg;http://teverantwoordenregelingen.rijksoverheid.nl;20-8-2021;;
@@ -13300,14 +13344,16 @@ x;Gemeente;;;Veldhoven;;;http://www.cjgveldhoven.nl/;;cjgveldhoven.nl;5-11-2021;
 ;Rijksoverheid;BZK;BZK;Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;;;https://www.weerbaarbestuur.nl/;;weerbaarbestuur.nl;1-10-2021;;ja;;;rijksreg;http://www.weerbaarbestuur.nl;21-8-2021;;
 ;Rijksoverheid;BZK;BZK;Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;;;https://www.weerbaar-bestuur.nl/;;weerbaar-bestuur.nl;;;ja;;;200ok;;;;uitzoeken
 ;Rijksoverheid;BZK;BZK;Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;;;https://weerbareoverheid.pleio.nl/;;weerbareoverheid.pleio.nl;1-10-2021;;ja;;;rijksreg;http://weerbareoverheid.pleio.nl;21-8-2021;;
+;Rijksoverheid;BZK;BZK;Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;;;http://www.werkaanuitvoering.nl;;werkaanuitvoering.nl;30-11-2021;;ja;ja;;200ok;;;;
 ;Rijksoverheid;BZK;BZK;Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;;;https://www.werkenbijdeoverheid.nl/;;werkenbijdeoverheid.nl;1-10-2021;;ja;;;rijksreg;http://www.werkenbijdeoverheid.nl;21-8-2021;;
 ;Rijksoverheid;BZK;BZK;Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;;;https://www.werkenvoornederland.nl/;;werkenvoornederland.nl;1-10-2021;;ja;;;rijksreg;http://www.werkenvoornederland.nl;21-8-2021;;
 ;Rijksoverheid;BZK;BZK;Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;;;https://www.wetbeschermingklokkenluiders.nl/;;wetbeschermingklokkenluiders.nl;1-10-2021;;ja;;;rijksreg;http://www.wetbeschermingklokkenluiders.nl;21-8-2021;;
-;Rijksoverheid;BZK;BZK;Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;;;https://www.woningmarktbeleid.nl/;;woningmarktbeleid.nl;1-10-2021;;ja;;;rijksreg;http://www.woningmarktbeleid.nl;21-8-2021;;
+;Rijksoverheid;BZK;BZK;Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;;;https://www.woningmarktbeleid.nl/;;woningmarktbeleid.nl;30-11-2021;;ja;ja;;200ok;;;;
 ;Rijksoverheid;BZK;BZK;Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;;;https://www.zeteenstreepdoordiscriminatie.nl/;;zeteenstreepdoordiscriminatie.nl;;;ja;;;tv;;;;
 ;Rijksoverheid;BZK;BZK;Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;;;https://zoek.officielebekendmakingen.nl/uitgebreidzoeken;https://zoek.officielebekendmakingen.nl/;zoek.officielebekendmakingen.nl;1-10-2021;;ja;;;rijksreg;http://zoek.officielebekendmakingen.nl;21-8-2021;;
-;Rijksoverheid;BZK;BZK;Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;;;https://maturityscan.gebruikercentraal.nl/;;;16-10-2021;;ja;ja;;rijksreg;http://maturityscan.gebruikercentraal.nl;21-8-2021;;
 ;Rijksoverheid;BZ;BZ;Ministerie van Buitenlandse Zaken;;;https://www.academieinternationalebetrekkingen.nl/nl/app#/home;https://www.academieinternationalebetrekkingen.nl/;academieinternationalebetrekkingen.nl;1-10-2021;;ja;;;rijksreg;http://www.academieinternationalebetrekkingen.nl;21-8-2021;;
+;Rijksoverheid;BZ;BZ;Ministerie van Buitenlandse Zaken;;;https://www.academievoorinternationalebetrekkingen.nl/;http://www.academievoorinternationalebetrekkingen.nl;academievoorinternationalebetrekkingen.nl;30-11-2021;;ja;ja;;200ok;;;;
+;Rijksoverheid;BZ;BZ;Ministerie van Buitenlandse Zaken;;;https://www.academyforinternationalrelations.nl/;http://www.academyforinternationalrelations.nl;academyforinternationalrelations.nl;30-11-2021;;ja;ja;;200ok;;;;
 ;Rijksoverheid;BZ;BZ;Ministerie van Buitenlandse Zaken;;;https://www.academyinternationalrelations.nl/en/app#/home;https://www.academyinternationalrelations.nl/;academyinternationalrelations.nl;1-10-2021;;ja;;;rijksreg;http://www.academyinternationalrelations.nl;21-8-2021;;
 ;Rijksoverheid;BZ;BZ;Ministerie van Buitenlandse Zaken;;;http://www.agima.nl/minbuza1;;agima.nl;1-10-2021;;ja;;;rijksreg;http://www.agima.nl/minbuza1;21-8-2021;;
 ;Rijksoverheid;BZ;BZ;Ministerie van Buitenlandse Zaken;;;https://www.belandadananda.nl/;;belandadananda.nl;1-10-2021;;ja;;;rijksreg;http://www.belandadananda.nl;21-8-2021;;
@@ -13424,7 +13470,6 @@ x;Gemeente;;;Veldhoven;;;http://www.cjgveldhoven.nl/;;cjgveldhoven.nl;5-11-2021;
 ;Rijksoverheid;EZK;EZK;Ministerie van Economische Zaken en Klimaat;;;https://scanaardwarmte.nl/;;scanaardwarmte.nl;5-11-2021;;ja;ja;;200ok;;;;
 ;Rijksoverheid;EZK;EZK;Ministerie van Economische Zaken en Klimaat;;;https://serviceinfoapp.nl/;;serviceinfoapp.nl;1-10-2021;;ja;;;rijksreg;http://serviceinfoapp.nl;20-8-2021;;
 ;Rijksoverheid;EZK;EZK;Ministerie van Economische Zaken en Klimaat;;;https://www.spaceoffice.nl/nl/;https://www.spaceoffice.nl/;spaceoffice.nl;1-10-2021;;ja;;;rijksreg;http://www.spaceoffice.nl;21-8-2021;;
-;Rijksoverheid;EZK;EZK;Ministerie van Economische Zaken en Klimaat;;;https://www.techleap.nl/;;techleap.nl;1-10-2021;;ja;;;rijksreg;http://www.techleap.nl;21-8-2021;;
 ;Rijksoverheid;EZK;EZK;Ministerie van Economische Zaken en Klimaat;;;https://tools.digitaltrustcenter.nl/;;tools.digitaltrustcenter.nl;23-10-2021;;ja;ja;;200ok;;;;
 ;Rijksoverheid;EZK;EZK;Ministerie van Economische Zaken en Klimaat;;;https://www.topsectoren.nl/;;topsectoren.nl;1-10-2021;;ja;;;rijksreg;http://www.topsectoren.nl;21-8-2021;;
 ;Rijksoverheid;EZK;EZK;Ministerie van Economische Zaken en Klimaat;;;https://www.veiliginternetten.nl/;;veiliginternetten.nl;5-11-2021;;ja;ja;;200ok;;;;
@@ -13465,6 +13510,7 @@ x;Gemeente;;;Veldhoven;;;http://www.cjgveldhoven.nl/;;cjgveldhoven.nl;5-11-2021;
 ;Rijksoverheid;FIN;FIN;Ministerie van Financiën;;;https://www.rijksacademie.nl/;;rijksacademie.nl;1-10-2021;;ja;;;rijksreg;http://www.rijksacademie.nl;22-8-2021;;
 ;Rijksoverheid;FIN;FIN;Ministerie van Financiën;;;https://www.rijksfinancien.nl/;;rijksfinancien.nl;1-10-2021;;ja;;;rijksreg;http://www.rijksfinancien.nl;21-8-2021;;
 ;Rijksoverheid;FIN;FIN;Ministerie van Financiën;;;https://www.toolboxbeleidsevaluaties.nl/;;toolboxbeleidsevaluaties.nl;1-10-2021;;ja;;;rijksreg;http://www.toolboxbeleidsevaluaties.nl;21-8-2021;;
+;Rijksoverheid;FIN;FIN;Ministerie van Financiën;;;https://tools.wijzeringeldzaken.nl/t/wbdvm/;;tools.wijzeringeldzaken.nl;30-11-2021;;ja;ja;;200ok;;;;
 ;Rijksoverheid;FIN;FIN;Ministerie van Financiën;;;;https://portaal.belastingdienst.nl/;;1-10-2021;;ja;;;rijksreg;http://portaal.belastingdienst.nl;21-8-2021;;
 ;Rijksoverheid;FIN;FIN;Ministerie van Financiën;;;;https://portaal.belastingdienst.nl/wps/portal/knw/home/kennisnetwerk;;1-10-2021;;ja;;;rijksreg;http://portaal.belastingdienst.nl/wps/portal/knw/home/kennisnetwerk;21-8-2021;;
 ;Rijksoverheid;FIN;FIN;Ministerie van Financiën;;;;https://rbv.minfin.nl/;;1-10-2021;offline;ja;;;rijksreg;http://rbv.minfin.nl;20-8-2021;;
@@ -13491,7 +13537,7 @@ x;Gemeente;;;Veldhoven;;;http://www.cjgveldhoven.nl/;;cjgveldhoven.nl;5-11-2021;
 ;Rijksoverheid;IenW;IenW;Ministerie van Infrastructuur en Waterstaat;;;https://www.emaddc.com/default.aspx;https://www.emaddc.com;emaddc.com;1-10-2021;;ja;;;rijksreg;http://www.emaddc.com;21-8-2021;;
 ;Rijksoverheid;IenW;IenW;Ministerie van Infrastructuur en Waterstaat;;;https://english.knmidata.nl/;;english.knmidata.nl;1-10-2021;;ja;;;rijksreg;http://english.knmidata.nl;21-8-2021;;
 ;Rijksoverheid;IenW;IenW;Ministerie van Infrastructuur en Waterstaat;;;https://english.ndw.nu/;;english.ndw.nu;1-10-2021;;ja;;;rijksreg;http://english.ndw.nu;21-8-2021;;
-;Rijksoverheid;IenW;IenW;Ministerie van Infrastructuur en Waterstaat;;;https://www.ertms-nl.nl/default.aspx;https://www.ertms-nl.nl/;ertms-nl.nl;1-10-2021;;ja;;;rijksreg;http://www.ertms-nl.nl;21-8-2021;;
+;Rijksoverheid;IenW;IenW;Ministerie van Infrastructuur en Waterstaat;;;https://www.ertms.nl/default.aspx;http://www.ertms.nl/;ertms.nl;30-11-2021;;ja;;;rijksreg;http://www.ertms-nl.nl;21-8-2021;;
 ;Rijksoverheid;IenW;IenW;Ministerie van Infrastructuur en Waterstaat;;;https://financiering.versnellingshuisce.nl/;;financiering.versnellingshuisce.nl;1-10-2021;;ja;;;rijksreg;http://financiering.versnellingshuisce.nl;21-8-2021;;
 ;Rijksoverheid;IenW;IenW;Ministerie van Infrastructuur en Waterstaat;;;https://www.gezondeleefomgeving.nl/;;gezondeleefomgeving.nl;1-10-2021;;ja;;;rijksreg;http://www.gezondeleefomgeving.nl;21-8-2021;;
 ;Rijksoverheid;IenW;IenW;Ministerie van Infrastructuur en Waterstaat;;;https://www.globemission.eu/;;globemission.eu;1-10-2021;;ja;;;rijksreg;http://www.globemission.eu;21-8-2021;;
@@ -13535,6 +13581,7 @@ x;Gemeente;;;Veldhoven;;;http://www.cjgveldhoven.nl/;;cjgveldhoven.nl;5-11-2021;
 ;Rijksoverheid;IenW;IenW;Ministerie van Infrastructuur en Waterstaat;;;https://www.stimva.nl/;;stimva.nl;1-10-2021;;ja;;;rijksreg;http://www.stimva.nl;21-8-2021;;
 ;Rijksoverheid;IenW;IenW;Ministerie van Infrastructuur en Waterstaat;;;https://www.tcbodem.nl/;;tcbodem.nl;1-10-2021;;ja;;;rijksreg;http://www.tcbodem.nl;21-8-2021;;
 ;Rijksoverheid;IenW;IenW;Ministerie van Infrastructuur en Waterstaat;;;https://www.temis.nl/index.php;https://www.temis.nl/;temis.nl;1-10-2021;;ja;;;rijksreg;http://www.temis.nl;21-8-2021;;
+;Rijksoverheid;IenW;IenW;Ministerie van Infrastructuur en Waterstaat;;;https://www.toegangspuntmobiliteit.nl/;;toegangspuntmobiliteit.nl;30-11-2021;;ja;ja;;200ok;;;;
 ;Rijksoverheid;IenW;IenW;Ministerie van Infrastructuur en Waterstaat;;;https://toolkit.kiesdefiets.nl/;;toolkit.kiesdefiets.nl;1-10-2021;;ja;;;rijksreg;http://toolkit.kiesdefiets.nl;21-8-2021;;
 ;Rijksoverheid;IenW;IenW;Ministerie van Infrastructuur en Waterstaat;;;https://www.topshuis.nl/;;topshuis.nl;1-10-2021;;ja;;;rijksreg;http://www.topshuis.nl;21-8-2021;;
 ;Rijksoverheid;IenW;IenW;Ministerie van Infrastructuur en Waterstaat;;;https://valuingwaterinitiative.org/;;valuingwaterinitiative.org;1-10-2021;;ja;;;rijksreg;http://valuingwaterinitiative.org;21-8-2021;;
@@ -13550,6 +13597,7 @@ x;Gemeente;;;Veldhoven;;;http://www.cjgveldhoven.nl/;;cjgveldhoven.nl;5-11-2021;
 ;Rijksoverheid;IenW;IenW;Ministerie van Infrastructuur en Waterstaat;;;;https://itsoverzicht.connectingmobility.nl/;;1-10-2021;offline;ja;;;rijksreg;http://itsoverzicht.connectingmobility.nl;20-8-2021;;
 ;Rijksoverheid;IenW;IenW;Ministerie van Infrastructuur en Waterstaat;;;;https://www.lancewadplan.nl/;;1-10-2021;offline;ja;;;rijksreg;http://www.lancewadplan.nl;21-8-2021;;
 ;Rijksoverheid;IenW;IenW;Ministerie van Infrastructuur en Waterstaat;;;;https://projects.knmi.nl/;;1-10-2021;offline;ja;;;rijksreg;http://projects.knmi.nl;21-8-2021;;
+;Rijksoverheid;JenV;JenV;Ministerie van Justitie en Veiligheid;;;https://magazines.wodc.nl/wodcmagazine/;;magazines.wodc.nl;5-11-2021;;ja;ja;;200ok;;;;
 ;Rijksoverheid;JenV;JenV;Ministerie van Justitie en Veiligheid;;;https://www.boa-expertisecentrum.nl/;;boa-expertisecentrum.nl;1-10-2021;;ja;;;rijksreg;http://www.boa-expertisecentrum.nl;21-8-2021;;
 ;Rijksoverheid;JenV;JenV;Ministerie van Justitie en Veiligheid;;;https://www.c2000.nl/?menuitemID[]=104;https://www.c2000.nl/;c2000.nl;16-10-2021;;ja;ja;;200ok;;;;
 ;Rijksoverheid;JenV;JenV;Ministerie van Justitie en Veiligheid;;;https://cbpbes.com/;;cbpbes.com;1-10-2021;;ja;;;rijksreg;http://cbpbes.com;21-8-2021;;
@@ -13565,6 +13613,7 @@ x;Gemeente;;;Veldhoven;;;http://www.cjgveldhoven.nl/;;cjgveldhoven.nl;5-11-2021;
 ;Rijksoverheid;JenV;JenV;Ministerie van Justitie en Veiligheid;;;http://www.festivalforensischezorg.nl/;;festivalforensischezorg.nl;1-10-2021;;ja;;;rijksreg;http://www.festivalforensischezorg.nl;21-8-2021;;
 ;Rijksoverheid;JenV;JenV;Ministerie van Justitie en Veiligheid;;;https://www.forensischezorg.nl/;;forensischezorg.nl;1-10-2021;;ja;;;rijksreg;http://www.forensischezorg.nl;21-8-2021;;
 ;Rijksoverheid;JenV;JenV;Ministerie van Justitie en Veiligheid;;;https://www.hansken.nl/;;hansken.nl;;;ja;;;rijksreg;http://hansken.org;30-9-2021;;
+;Rijksoverheid;JenV;JenV;Ministerie van Justitie en Veiligheid;;;http://iacs-kennisevenement.minjenv-events.nl;;iacs-kennisevenement.minjenv-events.nl;30-11-2021;;ja;ja;;200ok;;;;
 ;Rijksoverheid;JenV;JenV;Ministerie van Justitie en Veiligheid;;;http://www.identiteitsdocumenten.nl/;;identiteitsdocumenten.nl;1-10-2021;;ja;;;rijksreg;http://www.identiteitsdocumenten.nl;21-8-2021;;
 ;Rijksoverheid;JenV;JenV;Ministerie van Justitie en Veiligheid;;;http://ikgrijpin.nederlandveilig.nl/;;ikgrijpin.nederlandveilig.nl;1-10-2021;;ja;;;rijksreg;http://ikgrijpin.nederlandveilig.nl;21-8-2021;;
 ;Rijksoverheid;JenV;JenV;Ministerie van Justitie en Veiligheid;;;http://www.indjaarverslag.nl/indjaarverslag2016;http://www.indjaarverslag.nl/;indjaarverslag.nl;1-10-2021;;ja;;;rijksreg;http://www.indjaarverslag.nl;21-8-2021;;
@@ -13583,7 +13632,6 @@ x;Gemeente;;;Veldhoven;;;http://www.cjgveldhoven.nl/;;cjgveldhoven.nl;5-11-2021;
 ;Rijksoverheid;JenV;JenV;Ministerie van Justitie en Veiligheid;;;https://www.maakhetzeniettemakkelijk.nl/;;maakhetzeniettemakkelijk.nl;1-10-2021;;ja;;;rijksreg;http://www.maakhetzeniettemakkelijk.nl;21-8-2021;;
 ;Rijksoverheid;JenV;JenV;Ministerie van Justitie en Veiligheid;;;https://magazines.nctv.nl/nctvmagazine/2021/01/index;https://magazines.nctv.nl/;magazines.nctv.nl;1-10-2021;;ja;;;rijksreg;http://magazines.nctv.nl;21-8-2021;;
 ;Rijksoverheid;JenV;JenV;Ministerie van Justitie en Veiligheid;;;https://magazines.rijksoverheid.nl/jenv;;magazines.rijksoverheid.nl;1-10-2021;;ja;;;rijksreg;http://magazines.rijksoverheid.nl/jenv;20-8-2021;;
-;Rijksoverheid;JenV;JenV;Ministerie van Justitie en Veiligheid;;;https://magazines.wodc.nl/wodcmagazine/;;magazines.wodc.nl;5-11-2021;;ja;ja;;200ok;;;;
 ;Rijksoverheid;JenV;JenV;Ministerie van Justitie en Veiligheid;;;https://magazinesintern.kinderbescherming.nl/wijvandervdk;;magazinesintern.kinderbescherming.nl;1-10-2021;;ja;;;rijksreg;http://magazinesintern.kinderbescherming.nl/wijvandervdk;21-8-2021;;
 ;Rijksoverheid;JenV;JenV;Ministerie van Justitie en Veiligheid;;;https://www.mijnontwikkelhuis.nl/nl/Home/Homepage;https://www.mijnontwikkelhuis.nl/;mijnontwikkelhuis.nl;1-10-2021;;ja;;;rijksreg;http://www.mijnontwikkelhuis.nl;21-8-2021;;
 ;Rijksoverheid;JenV;JenV;Ministerie van Justitie en Veiligheid;;;https://www.mijnslachtofferzaak.nl/kbsp/home;https://www.mijnslachtofferzaak.nl/;mijnslachtofferzaak.nl;1-10-2021;;ja;;;rijksreg;http://www.mijnslachtofferzaak.nl;21-8-2021;;
@@ -13598,7 +13646,6 @@ x;Gemeente;;;Veldhoven;;;http://www.cjgveldhoven.nl/;;cjgveldhoven.nl;5-11-2021;
 ;Rijksoverheid;JenV;JenV;Ministerie van Justitie en Veiligheid;;;http://www.ssci.nl/;;ssci.nl;1-10-2021;certverlopen;ja;;;rijksreg;http://www.ssci.nl;21-8-2021;;
 ;Rijksoverheid;JenV;JenV;Ministerie van Justitie en Veiligheid;;;https://www.ssc-i.nl/;;ssc-i.nl;;;ja;;;tv;;;;
 ;Rijksoverheid;JenV;JenV;Ministerie van Justitie en Veiligheid;;;https://www.strafrechtketen.nl/;;strafrechtketen.nl;1-10-2021;;ja;;;rijksreg;http://www.strafrechtketen.nl;21-8-2021;;
-;Rijksoverheid;JenV;JenV;Ministerie van Justitie en Veiligheid;;;https://thegfce.org/;;thegfce.org;1-10-2021;;ja;;;rijksreg;http://thegfce.org;21-8-2021;;
 ;Rijksoverheid;JenV;JenV;Ministerie van Justitie en Veiligheid;;;https://toegangtotdeoverheid.nl/;;toegangtotdeoverheid.nl;1-10-2021;;ja;;;rijksreg;http://toegangtotdeoverheid.nl;20-8-2021;;
 ;Rijksoverheid;JenV;JenV;Ministerie van Justitie en Veiligheid;;;https://www.usar.nl/;;usar.nl;1-10-2021;;ja;;;rijksreg;http://www.usar.nl;21-8-2021;;
 ;Rijksoverheid;JenV;JenV;Ministerie van Justitie en Veiligheid;;;https://www.validatie.nl/;;validatie.nl;1-10-2021;;ja;;;rijksreg;http://www.validatie.nl;21-8-2021;;
@@ -13615,6 +13662,7 @@ x;Gemeente;;;Veldhoven;;;http://www.cjgveldhoven.nl/;;cjgveldhoven.nl;5-11-2021;
 ;Rijksoverheid;LNV;LNV;Ministerie van Landbouw, Natuur en Voedselkwaliteit;;;https://www.codexalimentarius.nl/;;codexalimentarius.nl;1-10-2021;;ja;;;rijksreg;http://www.codexalimentarius.nl;21-8-2021;;
 ;Rijksoverheid;LNV;LNV;Ministerie van Landbouw, Natuur en Voedselkwaliteit;;;http://en.biodiversiteit.nl/;;en.biodiversiteit.nl;1-10-2021;;ja;;;rijksreg;http://en.biodiversiteit.nl;21-8-2021;;
 ;Rijksoverheid;LNV;LNV;Ministerie van Landbouw, Natuur en Voedselkwaliteit;;;https://eurlplanthealth.nl/;https://eurlplanthealth.pleio.nl/;eurlplanthealth.nl;1-10-2021;;ja;;;rijksreg;http://eurlplanthealth.pleio.nl;21-8-2021;;
+;Rijksoverheid;LNV;LNV;Ministerie van Landbouw, Natuur en Voedselkwaliteit;;;https://www.inspiratiedagduurzameveehouderij.nl/;;inspiratiedagduurzameveehouderij.nl;30-11-2021;;ja;ja;;200ok;;;;
 ;Rijksoverheid;LNV;LNV;Ministerie van Landbouw, Natuur en Voedselkwaliteit;;;https://www.jonglereneten.nl/;;jonglereneten.nl;1-10-2021;;ja;;;rijksreg;http://www.jonglereneten.nl;21-8-2021;;
 ;Rijksoverheid;LNV;LNV;Ministerie van Landbouw, Natuur en Voedselkwaliteit;;;https://magazines.government.nl/anf/anf-specials/2018/01/index;https://magazines.government.nl/anf;magazines.government.nl;1-10-2021;;ja;;;rijksreg;http://magazines.government.nl/anf;20-8-2021;;
 ;Rijksoverheid;LNV;LNV;Ministerie van Landbouw, Natuur en Voedselkwaliteit;;;https://magazines.rijksoverheid.nl/lnv;;magazines.rijksoverheid.nl;5-11-2021;;ja;ja;;200ok;;;;
@@ -13636,6 +13684,7 @@ x;Gemeente;;;Veldhoven;;;http://www.cjgveldhoven.nl/;;cjgveldhoven.nl;5-11-2021;
 ;Rijksoverheid;LNV;LNV;Ministerie van Landbouw, Natuur en Voedselkwaliteit;;;https://www.verantwoordmestvervoer.nl/default.aspx;https://www.verantwoordmestvervoer.nl/;verantwoordmestvervoer.nl;1-10-2021;;ja;;;rijksreg;http://www.verantwoordmestvervoer.nl;21-8-2021;;
 ;Rijksoverheid;LNV;LNV;Ministerie van Landbouw, Natuur en Voedselkwaliteit;;;https://www.veterinairberoepscollege.nl/;;veterinairberoepscollege.nl;1-10-2021;;ja;;;rijksreg;http://www.veterinairberoepscollege.nl;21-8-2021;;
 ;Rijksoverheid;LNV;LNV;Ministerie van Landbouw, Natuur en Voedselkwaliteit;;;https://www.veterinairtuchtcollege.nl/;;veterinairtuchtcollege.nl;1-10-2021;;ja;;;rijksreg;http://www.veterinairtuchtcollege.nl;21-8-2021;;
+;Rijksoverheid;LNV;LNV;Ministerie van Landbouw, Natuur en Voedselkwaliteit;;;https://www.werkconferentie-lnv.nl/;;werkconferentie-lnv.nl;30-11-2021;;ja;ja;;200ok;;;;
 ;Rijksoverheid;LNV;LNV;Ministerie van Landbouw, Natuur en Voedselkwaliteit;;;;https://www.clinicaltrialregister.nl/;;1-10-2021;offline;ja;;;rijksreg;http://www.clinicaltrialregister.nl;21-8-2021;;
 ;Rijksoverheid;OCW;OCW;Ministerie van Onderwijs, Cultuur en Wetenschap;;;https://www.aanpaklerarentekort.nl/;;aanpaklerarentekort.nl;;;ja;;;tv;;;;
 ;Rijksoverheid;OCW;OCW;Ministerie van Onderwijs, Cultuur en Wetenschap;;;http://congres.destaatvanhetonderwijs.nl/;;congres.destaatvanhetonderwijs.nl;1-10-2021;;ja;;;rijksreg;http://congres.destaatvanhetonderwijs.nl;20-8-2021;;
@@ -13661,6 +13710,7 @@ x;Gemeente;;;Veldhoven;;;http://www.cjgveldhoven.nl/;;cjgveldhoven.nl;5-11-2021;
 ;Rijksoverheid;OCW;OCW;Ministerie van Onderwijs, Cultuur en Wetenschap;;;https://www.nponderwijs.nl/;;nponderwijs.nl;5-11-2021;;ja;ja;;200ok;;;;
 ;Rijksoverheid;OCW;OCW;Ministerie van Onderwijs, Cultuur en Wetenschap;;;https://ocw.cultuursubsidie.nl/;;ocw.cultuursubsidie.nl;1-10-2021;;ja;;;rijksreg;http://ocw.cultuursubsidie.nl;21-8-2021;;
 ;Rijksoverheid;OCW;OCW;Ministerie van Onderwijs, Cultuur en Wetenschap;;;https://www.ocwincijfers.nl/;;ocwincijfers.nl;1-10-2021;;ja;;;rijksreg;http://www.ocwincijfers.nl;21-8-2021;;
+;Rijksoverheid;OCW;OCW;Ministerie van Onderwijs, Cultuur en Wetenschap;;;https://www.ocw-verhalen.nl/;;ocw-verhalen.nl;30-11-2021;;ja;ja;;200ok;;;;
 ;Rijksoverheid;OCW;OCW;Ministerie van Onderwijs, Cultuur en Wetenschap;;;https://www.onderwijsincijfers.nl/;;onderwijsincijfers.nl;;;ja;;;tv;;;;
 ;Rijksoverheid;OCW;OCW;Ministerie van Onderwijs, Cultuur en Wetenschap;;;https://www.onderwijsinderegioincijfers.nl/;;onderwijsinderegioincijfers.nl;1-10-2021;;ja;;;rijksreg;http://www.onderwijsinderegioincijfers.nl;21-8-2021;;
 ;Rijksoverheid;OCW;OCW;Ministerie van Onderwijs, Cultuur en Wetenschap;;;https://www.poraad.nl/;;poraad.nl;1-10-2021;;ja;;;rijksreg;http://www.poraad.nl;21-8-2021;;
@@ -13678,6 +13728,7 @@ x;Gemeente;;;Veldhoven;;;http://www.cjgveldhoven.nl/;;cjgveldhoven.nl;5-11-2021;
 ;Rijksoverheid;SZW;SZW;Ministerie van Sociale Zaken en Werkgelegenheid;;;https://1ratio.nl/bkr/#/;https://www.1ratio.nl/;1ratio.nl;;;ja;;;200ok;;;;
 ;Rijksoverheid;SZW;SZW;Ministerie van Sociale Zaken en Werkgelegenheid;;;https://1ratio.nl/rpb/#/;;1ratio.nl;;;ja;;;200ok;;;;
 ;Rijksoverheid;SZW;SZW;Ministerie van Sociale Zaken en Werkgelegenheid;;;https://www.arboportaal.nl/;;arboportaal.nl;1-10-2021;;ja;;;rijksreg;http://www.arboportaal.nl;21-8-2021;;
+;Rijksoverheid;SZW;SZW;Ministerie van Sociale Zaken en Werkgelegenheid;;;https://bereken.uwbeslagvrijevoet.nl/;;bereken.uwbeslagvrijevoet.nl;26-11-2021;;ja;ja;;200ok;;;;
 ;Rijksoverheid;SZW;SZW;Ministerie van Sociale Zaken en Werkgelegenheid;;;https://www.beschutaandebak.nl/;;beschutaandebak.nl;1-10-2021;;ja;;;rijksreg;http://www.beschutaandebak.nl;21-8-2021;;
 ;Rijksoverheid;SZW;SZW;Ministerie van Sociale Zaken en Werkgelegenheid;;;https://deutsch.postedworkers.nl/;;deutsch.postedworkers.nl;1-10-2021;;ja;;;rijksreg;http://deutsch.postedworkers.nl;20-8-2021;;
 ;Rijksoverheid;SZW;SZW;Ministerie van Sociale Zaken en Werkgelegenheid;;;https://www.duurzameinzetbaarheid.nl/;;duurzameinzetbaarheid.nl;1-10-2021;;ja;;;rijksreg;http://www.duurzameinzetbaarheid.nl;21-8-2021;;
@@ -13695,7 +13746,6 @@ x;Gemeente;;;Veldhoven;;;http://www.cjgveldhoven.nl/;;cjgveldhoven.nl;5-11-2021;
 ;Rijksoverheid;SZW;SZW;Ministerie van Sociale Zaken en Werkgelegenheid;;;https://meldloket.postedworkers.nl/;;meldloket.postedworkers.nl;1-10-2021;;ja;;;rijksreg;http://meldloket.postedworkers.nl;21-8-2021;;
 ;Rijksoverheid;SZW;SZW;Ministerie van Sociale Zaken en Werkgelegenheid;;;https://www.naarnederland.nl/;;naarnederland.nl;1-10-2021;;ja;;;rijksreg;http://www.naarnederland.nl;21-8-2021;;
 ;Rijksoverheid;SZW;SZW;Ministerie van Sociale Zaken en Werkgelegenheid;;;https://www.nieuwsszw.nl/;;nieuwsszw.nl;1-10-2021;;ja;;;rijksreg;http://www.nieuwsszw.nl;21-8-2021;;
-;Rijksoverheid;SZW;SZW;Ministerie van Sociale Zaken en Werkgelegenheid;;;https://www.pilotnudging.nl/default.aspx;https://www.pilotnudging.nl/;pilotnudging.nl;1-10-2021;certverlopen;ja;;;rijksreg;http://www.pilotnudging.nl;21-8-2021;;
 ;Rijksoverheid;SZW;SZW;Ministerie van Sociale Zaken en Werkgelegenheid;;;https://www.platformjep.nl/;;platformjep.nl;1-10-2021;;ja;;;rijksreg;http://www.platformjep.nl;21-8-2021;;
 ;Rijksoverheid;SZW;SZW;Ministerie van Sociale Zaken en Werkgelegenheid;;;https://www.postedworkers.nl/;;postedworkers.nl;1-10-2021;;ja;;;rijksreg;http://www.postedworkers.nl;21-8-2021;;
 ;Rijksoverheid;SZW;SZW;Ministerie van Sociale Zaken en Werkgelegenheid;;;https://poster.verderkijkers.nl/;;poster.verderkijkers.nl;1-10-2021;;ja;;;rijksreg;http://poster.verderkijkers.nl;21-8-2021;;
@@ -13712,16 +13762,15 @@ x;Gemeente;;;Veldhoven;;;http://www.cjgveldhoven.nl/;;cjgveldhoven.nl;5-11-2021;
 ;Rijksoverheid;SZW;SZW;Ministerie van Sociale Zaken en Werkgelegenheid;;;https://www.uitvoeringarbeidsvoorwaardenwetgeving.nl/mozard/!suite05.scherm1496?mNch=5yjc0c7zyr;https://www.uitvoeringarbeidsvoorwaardenwetgeving.nl/;uitvoeringarbeidsvoorwaardenwetgeving.nl;1-10-2021;;ja;;;rijksreg;http://www.uitvoeringarbeidsvoorwaardenwetgeving.nl;21-8-2021;;
 ;Rijksoverheid;SZW;SZW;Ministerie van Sociale Zaken en Werkgelegenheid;;;https://www.uitvoeringvanbeleidszw.nl/;;uitvoeringvanbeleidszw.nl;1-10-2021;;ja;;;rijksreg;http://www.uitvoeringvanbeleidszw.nl;21-8-2021;;
 ;Rijksoverheid;SZW;SZW;Ministerie van Sociale Zaken en Werkgelegenheid;;;https://uwbeslagvrijevoet.nl/;;uwbeslagvrijevoet.nl;5-11-2021;;ja;ja;;200ok;;;;
-;Rijksoverheid;SZW;SZW;Ministerie van Sociale Zaken en Werkgelegenheid;;;https://www.veranderingenkinderopvang.nl/;;veranderingenkinderopvang.nl;1-10-2021;;ja;;;rijksreg;http://www.veranderingenkinderopvang.nl;21-8-2021;;
 ;Rijksoverheid;SZW;SZW;Ministerie van Sociale Zaken en Werkgelegenheid;;;https://www.verderkijkers.nl/;;verderkijkers.nl;1-10-2021;;ja;;;rijksreg;http://www.verderkijkers.nl;21-8-2021;;
 ;Rijksoverheid;SZW;SZW;Ministerie van Sociale Zaken en Werkgelegenheid;;;https://verlofregelaar.nl/;;verlofregelaar.nl;1-10-2021;;ja;;;rijksreg;http://verlofregelaar.nl;21-8-2021;;
 ;Rijksoverheid;SZW;SZW;Ministerie van Sociale Zaken en Werkgelegenheid;;;https://werkgever.mijnwerkenzekerheid.nl/;;werkgever.mijnwerkenzekerheid.nl;1-10-2021;;ja;;;rijksreg;http://werkgever.mijnwerkenzekerheid.nl;21-8-2021;;
 ;Rijksoverheid;SZW;SZW;Ministerie van Sociale Zaken en Werkgelegenheid;;;https://werknemer.mijnwerkenzekerheid.nl/;;werknemer.mijnwerkenzekerheid.nl;1-10-2021;;ja;;;rijksreg;http://werknemer.mijnwerkenzekerheid.nl;21-8-2021;;
 ;Rijksoverheid;SZW;SZW;Ministerie van Sociale Zaken en Werkgelegenheid;;;https://www.workinnl.nl/default.aspx;https://www.workinnl.nl/;workinnl.nl;1-10-2021;;ja;;;rijksreg;http://www.workinnl.nl;21-8-2021;;
-;Rijksoverheid;SZW;SZW;Ministerie van Sociale Zaken en Werkgelegenheid;;;https://www.zijnjullieeraluit.nl/;;zijnjullieeraluit.nl;1-10-2021;;ja;;;rijksreg;http://www.zijnjullieeraluit.nl;21-8-2021;;
 ;Rijksoverheid;SZW;SZW;Ministerie van Sociale Zaken en Werkgelegenheid;;;https://www.1ratio.nl/;;www.1ratio.nl;1-10-2021;redirect;ja;;;rijksreg;http://www.1ratio.nl;21-8-2021;;
 ;Rijksoverheid;SZW;SZW;Ministerie van Sociale Zaken en Werkgelegenheid;;;https://www.inspectie-publicaties.nl/;;www.inspectie-publicaties.nl;1-10-2021;offline;ja;;;rijksreg;http://www.inspectie-publicaties.nl;21-8-2021;;
-;Rijksoverheid;SZW;SZW;Ministerie van Sociale Zaken en Werkgelegenheid;;;https://bereken.uwbeslagvrijevoet.nl/;;bereken.uwbeslagvrijevoet.nl;26-11-2021;;ja;ja;;200ok;;;;
+;Rijksoverheid;SZW;SZW;Ministerie van Sociale Zaken en Werkgelegenheid;;;https://www.zijnjullieeraluit.nl/;;zijnjullieeraluit.nl;1-10-2021;;ja;;;rijksreg;http://www.zijnjullieeraluit.nl;21-8-2021;;
+;Rijksoverheid;VWS;VWS;Ministerie van Volksgezondheid, Welzijn en Sport;;;https://magazines.voordejeugd.nl/het-belang-van-veilig-opgroeien/cover/;;magazines.voordejeugd.nl;31-11-2021;;ja;ja;;200ok;;;;
 ;Rijksoverheid;VWS;VWS;Ministerie van Volksgezondheid, Welzijn en Sport;;;https://aanmelden.brba.nl/;;aanmelden.brba.nl;1-10-2021;;ja;;;rijksreg;http://aanmelden.brba.nl;21-8-2021;;
 ;Rijksoverheid;VWS;VWS;Ministerie van Volksgezondheid, Welzijn en Sport;;;https://www.aanmelder.nl/evenementenbureauvws;;aanmelder.nl;1-10-2021;;ja;;;rijksreg;http://www.aanmelder.nl/evenementenbureauvws;21-8-2021;;
 ;Rijksoverheid;VWS;VWS;Ministerie van Volksgezondheid, Welzijn en Sport;;;https://www.actiemonitoringce.nl/;;actiemonitoringce.nl;1-10-2021;;ja;;;rijksreg;http://www.actiemonitoringce.nl;21-8-2021;;
@@ -13816,7 +13865,6 @@ x;Gemeente;;;Veldhoven;;;http://www.cjgveldhoven.nl/;;cjgveldhoven.nl;5-11-2021;
 ;Rijksoverheid;VWS;VWS;Ministerie van Volksgezondheid, Welzijn en Sport;;;https://menukaart.kansrijkestartnl.nl/;;menukaart.kansrijkestartnl.nl;1-10-2021;;ja;;;rijksreg;http://menukaart.kansrijkestartnl.nl;21-8-2021;;
 ;Rijksoverheid;VWS;VWS;Ministerie van Volksgezondheid, Welzijn en Sport;;;https://www.metenvanduurzaamheid.nl/;;metenvanduurzaamheid.nl;1-10-2021;;ja;;;rijksreg;http://www.metenvanduurzaamheid.nl;21-8-2021;;
 ;Rijksoverheid;VWS;VWS;Ministerie van Volksgezondheid, Welzijn en Sport;;;https://www.mijnpgb.nl/;;mijnpgb.nl;1-10-2021;;ja;;;rijksreg;http://www.mijnpgb.nl;21-8-2021;;
-;Rijksoverheid;VWS;VWS;Ministerie van Volksgezondheid, Welzijn en Sport;;;http://minvws.pr.co/;;minvws.pr.co;1-10-2021;;ja;;;rijksreg;http://minvws.pr.co;20-8-2021;;
 ;Rijksoverheid;VWS;VWS;Ministerie van Volksgezondheid, Welzijn en Sport;;;https://mlzopendata.cbs.nl/#/MLZ/nl/;https://mlzopendata.cbs.nl/;mlzopendata.cbs.nl;1-10-2021;;ja;;;rijksreg;http://mlzopendata.cbs.nl;21-8-2021;;
 ;Rijksoverheid;VWS;VWS;Ministerie van Volksgezondheid, Welzijn en Sport;;;https://www.monitorgezondheid.nl/;;monitorgezondheid.nl;1-10-2021;;ja;;;rijksreg;http://www.monitorgezondheid.nl;21-8-2021;;
 ;Rijksoverheid;VWS;VWS;Ministerie van Volksgezondheid, Welzijn en Sport;;;https://www.monitorlangdurigezorg.nl/;;monitorlangdurigezorg.nl;1-10-2021;;ja;;;rijksreg;http://www.monitorlangdurigezorg.nl;21-8-2021;;
@@ -13830,6 +13878,7 @@ x;Gemeente;;;Veldhoven;;;http://www.cjgveldhoven.nl/;;cjgveldhoven.nl;5-11-2021;
 ;Rijksoverheid;VWS;VWS;Ministerie van Volksgezondheid, Welzijn en Sport;;;https://www.onehealth.nl/;;onehealth.nl;1-10-2021;;ja;;;rijksreg;http://www.onehealth.nl;21-8-2021;;
 ;Rijksoverheid;VWS;VWS;Ministerie van Volksgezondheid, Welzijn en Sport;;;https://ontdek.zorgvannu.nl/;;ontdek.zorgvannu.nl;1-10-2021;;ja;;;rijksreg;http://ontdek.zorgvannu.nl;21-8-2021;;
 ;Rijksoverheid;VWS;VWS;Ministerie van Volksgezondheid, Welzijn en Sport;;;https://www.ontdekdezorg.nl/;;ontdekdezorg.nl;1-10-2021;;ja;;;rijksreg;http://www.ontdekdezorg.nl;21-8-2021;;
+;Rijksoverheid;VWS;VWS;Ministerie van Volksgezondheid, Welzijn en Sport;;;https://openkat.nl/;;openkat.nl;30-11-2021;;ja;ja;;200ok;;;;
 ;Rijksoverheid;VWS;VWS;Ministerie van Volksgezondheid, Welzijn en Sport;;;https://www.ordz.nl/;;ordz.nl;1-10-2021;;ja;;;rijksreg;http://www.ordz.nl;21-8-2021;;
 ;Rijksoverheid;VWS;VWS;Ministerie van Volksgezondheid, Welzijn en Sport;;;http://www.outilevaluationbiosecurite.nl/;;outilevaluationbiosecurite.nl;1-10-2021;;ja;;;rijksreg;http://www.outilevaluationbiosecurite.nl;21-8-2021;;
 ;Rijksoverheid;VWS;VWS;Ministerie van Volksgezondheid, Welzijn en Sport;;;https://www.perined.nl/;;perined.nl;1-10-2021;;ja;;;rijksreg;http://www.perined.nl;21-8-2021;;
@@ -13860,6 +13909,7 @@ x;Gemeente;;;Veldhoven;;;http://www.cjgveldhoven.nl/;;cjgveldhoven.nl;5-11-2021;
 ;Rijksoverheid;VWS;VWS;Ministerie van Volksgezondheid, Welzijn en Sport;;;https://www.signalenleefomgeving.nl/;;signalenleefomgeving.nl;1-10-2021;;ja;;;rijksreg;http://www.signalenleefomgeving.nl;21-8-2021;;
 ;Rijksoverheid;VWS;VWS;Ministerie van Volksgezondheid, Welzijn en Sport;;;https://signaleringleefomgevingengezondheid.nl/;;signaleringleefomgevingengezondheid.nl;1-10-2021;;ja;;;rijksreg;http://signaleringleefomgevingengezondheid.nl;21-8-2021;;
 ;Rijksoverheid;VWS;VWS;Ministerie van Volksgezondheid, Welzijn en Sport;;;https://slimmezorgestafette.nl/;;slimmezorgestafette.nl;1-10-2021;;ja;;;rijksreg;http://slimmezorgestafette.nl;21-8-2021;;
+;Rijksoverheid;VWS;VWS;Ministerie van Volksgezondheid, Welzijn en Sport;;;https://www.slimmezorgestafette2022.nl/;;slimmezorgestafette2022.nl;30-11-2021;;ja;ja;;200ok;;;;
 ;Rijksoverheid;VWS;VWS;Ministerie van Volksgezondheid, Welzijn en Sport;;;https://www.snuffle.org/;;snuffle.org;1-10-2021;;ja;;;rijksreg;http://www.snuffle.org;21-8-2021;;
 ;Rijksoverheid;VWS;VWS;Ministerie van Volksgezondheid, Welzijn en Sport;;;https://www.sportakkoord.nl/;;sportakkoord.nl;1-10-2021;;ja;;;rijksreg;http://www.sportakkoord.nl;21-8-2021;;
 ;Rijksoverheid;VWS;VWS;Ministerie van Volksgezondheid, Welzijn en Sport;;;https://www.sportenbewegenincijfers.nl/;;sportenbewegenincijfers.nl;1-10-2021;;ja;;;rijksreg;http://www.sportenbewegenincijfers.nl;21-8-2021;;
@@ -13891,7 +13941,7 @@ x;Gemeente;;;Veldhoven;;;http://www.cjgveldhoven.nl/;;cjgveldhoven.nl;5-11-2021;
 ;Rijksoverheid;VWS;VWS;Ministerie van Volksgezondheid, Welzijn en Sport;;;https://www.vtv2018.nl/;;vtv2018.nl;1-10-2021;;ja;;;rijksreg;http://www.vtv2018.nl;21-8-2021;;
 ;Rijksoverheid;VWS;VWS;Ministerie van Volksgezondheid, Welzijn en Sport;;;https://www.vwscongresmagazine.nl/nieuwe-bewindslieden;https://www.vwscongresmagazine.nl/;vwscongresmagazine.nl;1-10-2021;;ja;;;rijksreg;http://www.vwscongresmagazine.nl;21-8-2021;;
 ;Rijksoverheid;VWS;VWS;Ministerie van Volksgezondheid, Welzijn en Sport;;;https://www.waardigheidentrots.nl/;;waardigheidentrots.nl;1-10-2021;;ja;;;rijksreg;http://www.waardigheidentrots.nl;21-8-2021;;
-;Rijksoverheid;VWS;VWS;Ministerie van Volksgezondheid, Welzijn en Sport;;;https://waarzitwatin.nl/;;waarzitwatin.nl;1-10-2021;;ja;;;rijksreg;http://waarzitwatin.nl;20-8-2021;;
+;Rijksoverheid;VWS;VWS;Ministerie van Volksgezondheid, Welzijn en Sport;;;https://waarzitwatin.nl/;;waarzitwatin.nl;30-11-2021;;ja;ja;;rijksreg;http://waarzitwatin.nl;2-11-2021;;
 ;Rijksoverheid;VWS;VWS;Ministerie van Volksgezondheid, Welzijn en Sport;;;https://www.wateetnederland.nl/;;wateetnederland.nl;1-10-2021;;ja;;;rijksreg;http://www.wateetnederland.nl;21-8-2021;;
 ;Rijksoverheid;VWS;VWS;Ministerie van Volksgezondheid, Welzijn en Sport;;;https://www.wegtotdewetenschap.nl/;;wegtotdewetenschap.nl;1-10-2021;;ja;;;rijksreg;http://www.wegtotdewetenschap.nl;21-8-2021;;
 ;Rijksoverheid;VWS;VWS;Ministerie van Volksgezondheid, Welzijn en Sport;;;https://www.werkplaatsensociaaldomein.nl/;;werkplaatsensociaaldomein.nl;;;ja;;;200ok;;;;
@@ -13908,6 +13958,7 @@ x;Gemeente;;;Veldhoven;;;http://www.cjgveldhoven.nl/;;cjgveldhoven.nl;5-11-2021;
 ;Rijksoverheid;VWS;VWS;Ministerie van Volksgezondheid, Welzijn en Sport;;;;https://patientendialoog.plusvws.nl/;;1-10-2021;;ja;;;rijksreg;http://patientendialoog.plusvws.nl;21-8-2021;;
 ;Rijksoverheid;VWS;VWS;Ministerie van Volksgezondheid, Welzijn en Sport;;;;https://zorgaanbiedersopkaart.igj.nl/;;1-10-2021;offline;ja;;;rijksreg;http://zorgaanbiedersopkaart.igj.nl;21-8-2021;;
 ;Rijksoverheid;EZK;NCG;Nationaal Coördinator Groningen;;;https://www.nationaalcoordinatorgroningen.nl/;;nationaalcoordinatorgroningen.nl;5-11-2021;;ja;ja;;tv;;;;
+;Rijksoverheid;BZK;NCDR;Nationaal Coördinator tegen Discriminatie en Racisme;;;https://www.bureauncdr.nl/;http://www.bureauncdr.nl;bureauncdr.nl;30-11-2021;;ja;ja;;200ok;;;;
 ;Rijksoverheid;JenV;NCTV;Nationaal Coördinator Terrorismebestrijding en Veiligheid;;;https://www.aandachtvoorelkaar.nl/;;aandachtvoorelkaar.nl;;;ja;;;tv;;;;
 ;Rijksoverheid;JenV;NCTV;Nationaal Coördinator Terrorismebestrijding en Veiligheid;;;http://www.crisis.nl/;;crisis.nl;5-11-2021;;ja;ja;;200ok;;;;
 ;Rijksoverheid;JenV;NCTV;Nationaal Coördinator Terrorismebestrijding en Veiligheid;;;https://www.cybersecurityalliantie.nl/;;cybersecurityalliantie.nl;10-10-2021;;ja;;;200ok;;;;
@@ -13945,7 +13996,7 @@ x;Gemeente;;;Veldhoven;;;http://www.cjgveldhoven.nl/;;cjgveldhoven.nl;5-11-2021;
 ;Rijksoverheid;JenV;;Opleidingsinstituut Dienst Justitiële Inrichtingen;;;https://www.tegengaanradicalisering.nl/;;tegengaanradicalisering.nl;;;ja;;;tv;;;;
 ;Rijksoverheid;IenW;PBL;Planbureau voor de Leefomgeving;;;https://www.clo.nl/;;clo.nl;22-10-2021;;ja;ja;;tv;;;;
 ;Rijksoverheid;IenW;PBL;Planbureau voor de Leefomgeving;;;https://www.globio.info/;;globio.info;22-10-2021;;ja;ja;;200ok;;;;
-;Rijksoverheid;IenW;PBL;Planbureau voor de Leefomgeving;;;https://models.pbl.nl/image;;models.pbl.nl;;;ja;;;tv;;;;
+;Rijksoverheid;IenW;PBL;Planbureau voor de Leefomgeving;;;https://models.pbl.nl/image;;models.pbl.nl;30-11-2021;;ja;ja;;200ok;;;;
 ;Rijksoverheid;IenW;PBL;Planbureau voor de Leefomgeving;;;https://www.pbl.nl/;;pbl.nl;;;ja;;;tv;;;;
 ;Rijksoverheid;IenW;PBL;Planbureau voor de Leefomgeving;;;https://themasites.pbl.nl/atlas-regio;;themasites.pbl.nl;5-11-2021;;ja;ja;;200ok;;;;
 ;Rijksoverheid;IenW;PBL;Planbureau voor de Leefomgeving;;;https://themasites.pbl.nl/balans-leefomgeving;;themasites.pbl.nl;5-11-2021;;ja;ja;;200ok;;;;
@@ -14033,6 +14084,7 @@ x;Gemeente;;;Veldhoven;;;http://www.cjgveldhoven.nl/;;cjgveldhoven.nl;5-11-2021;
 ;Rijksoverheid;JenV;;Taskforce overvallen;;;https://www.alleenjijbepaalt.nl/;;alleenjijbepaalt.nl;1-10-2021;;ja;;;rijksreg;http://www.alleenjijbepaalt.nl;21-8-2021;;
 ;Rijksoverheid;AZ;TIB-IVD;Toetsingscommissie Inzet Bevoegdheden;;;https://www.tib-ivd.nl/;;tib-ivd.nl;5-11-2021;;ja;ja;;200ok;;;;
 ;Rijksoverheid;VWS;;Trimbos-instituut;;;https://helderopvoeden.nl/;https://www.hoepakjijdataan.nl/;helderopvoeden.nl;1-10-2021;;nee;;;rijksreg;http://www.hoepakjijdataan.nl;21-8-2021;;
+;Rijksoverheid;BZK;UBR;Uitvoeringsorganisatie Bedrijfsvoering Rijk;;;https://leads.rijksconsultants.nl/inloggen;https://leads.rijksconsultants.nl/;leads.rijksconsultants.nl;30-11-2021;;ja;ja;;200ok;;;;
 ;Rijksoverheid;VWS;V&VN;Verpleegkundigen & Verzorgenden Nederland;;;https://www.venvn.nl/;;venvn.nl;1-10-2021;;ja;;;rijksreg;http://www.venvn.nl;21-8-2021;;
 ;Rijksoverheid;VWS;V&VN;Verpleegkundigen & Verzorgenden Nederland;;;https://www.venvn.nl/registers/verpleegkundig-specialisten-register/;https://vsregister.venvn.nl/;venvn.nl;1-10-2021;;ja;;;rijksreg;http://vsregister.venvn.nl;20-8-2021;;
 ;Rijksoverheid;OCW;VF PF;Vervangingsfonds en Participatiefonds;;;https://www.vfpf.nl/;;vfpf.nl;1-10-2021;;ja;;;rijksreg;http://www.vfpf.nl;21-8-2021;;
@@ -14049,8 +14101,9 @@ x;Gemeente;;;Veldhoven;;;http://www.cjgveldhoven.nl/;;cjgveldhoven.nl;5-11-2021;
 ;Rijksoverheid;FIN;;Wijzer in geldzaken;;;https://pensioen3daagse.nl/;;pensioen3daagse.nl;;;ja;;;tv;;;;
 ;Rijksoverheid;FIN;;Wijzer in geldzaken;;;https://www.weekvanhetgeld.nl/;;weekvanhetgeld.nl;5-11-2021;;ja;ja;;200ok;;;;
 ;Rijksoverheid;FIN;;Wijzer in geldzaken;;;https://wijzeringeldzaken.nl/;;wijzeringeldzaken.nl;5-11-2021;;ja;ja;;200ok;;;;
-;Rijksoverheid;BZK;;Woononderzoek;;;https://www.woononderzoek.nl/jive/jivereportcontents.ashx?report=homenew;;woononderzoek.nl;5-11-2021;;ja;ja;;200ok;;;;
+;Rijksoverheid;BZK;WoON;Woononderzoek Nederland;;;https://www.woononderzoek.nl/jive/jivereportcontents.ashx?report=homenew;;woononderzoek.nl;30-11-2021;;ja;ja;;200ok;;;;
 ;Rijksoverheid;;;ZZZ;;;http://webinar-windturbines.nl/;;webinar-windturbines.nl;;offline;ja;;;rijksreg;http://webinar-windturbines.nl;30-9-2021;;
+;Rijksoverheid;IenW;;;;;http://english.waterenklimaat.nl;;english.waterenklimaat.nl;30-11-2021;;ja;ja;;200ok;;;;
 ;RUD-Omgevingsdienst;;;DCMR Milieudienst Rijnmond;;DCMR Milieudienst Rijnmond;https://www.dcmr.nl/;;dcmr.nl;;;ja;ja;;200ok;;;GR;
 ;RUD-Omgevingsdienst;;FUMO;Fryske Utfieringstsjinst Miljeu en Omjouwing;;Fryske Utfieringstsjinst Miljeu en Omjouwing (FUMO);https://www.fumo.nl/;;fumo.nl;;;ja;ja;;200ok;;;GR;
 ;RUD-Omgevingsdienst;;ODA;Omgevingsdienst Achterhoek;;Omgevingsdienst Achterhoek;https://www.odachterhoek.nl/;;odachterhoek.nl;;;ja;ja;;200ok;;;GR;
@@ -14182,7 +14235,6 @@ x;Gemeente;;;Veldhoven;;;http://www.cjgveldhoven.nl/;;cjgveldhoven.nl;5-11-2021;
 ;Samenwerking;;;Gemeente Land van Cuijk;;;https://lvc.bestuurlijkeinformatie.nl/;;lvc.bestuurlijkeinformatie.nl;;;ja;ja;ibabs ris;200ok;;;;
 ;Samenwerking;;;Gemeente Land van Cuijk;;;https://gemeentelandvancuijk.nl/;;gemeentelandvancuijk.nl;17-10-2021;;ja;ja;;200ok;;;;
 ;Samenwerking;;;Gemeentebanen;;;https://www.gemeentebanen.nl/;;gemeentebanen.nl;;;ja;ja;gemeentebanen;200ok;;;;
-;Samenwerking;;GHNT;Geweld hoort nergens thuis;;;https://magazines.voordejeugd.nl/het-belang-van-veilig-opgroeien/cover/;;magazines.voordejeugd.nl;;;ja;;;rijksreg;http://magazines.voordejeugd.nl;30-9-2021;;uitzoeken
 ;Samenwerking;;GB;Gezamenlijke Brandweer voor het haven- en industriegebied van Rotterdam;;gezamenlijke brandweer voor het haven- en industriegebied van Rotterdam;https://www.gezamenlijke-brandweer.nl/;;gezamenlijke-brandweer.nl;;;ja;ja;;almanak;;;GR;uitzoeken
 ;Samenwerking;;;GGD Leefomgeving;;;https://ggdleefomgeving.nl/;https://www.rupsen.info;ggdleefomgeving.nl;;;ja;ja;;200ok;;;;
 ;Samenwerking;;;GGD Leefomgeving;;;https://www.rupsen.info;;rupsen.info;;;nee;ja;;200ok;;;;
@@ -14664,9 +14716,13 @@ x;Gemeente;;;Veldhoven;;;http://www.cjgveldhoven.nl/;;cjgveldhoven.nl;5-11-2021;
 ;ZBO;JenV;IFV;Instituut Fysieke Veiligheid;;;https://www.ifv.nl/;;ifv.nl;;;ja;ja;;200ok;;;;
 ;ZBO;;IMG;Instituut Mijnbouwschade Groningen;;;https://img.publikaan.nl/;;img.publikaan.nl;;;ja;;;tv;;;;
 ;ZBO;;IMG;Instituut Mijnbouwschade Groningen;;;https://www.schadedoormijnbouw.nl/;;schadedoormijnbouw.nl;;;ja;;;200ok;;;;
+;ZBO;BZK;;Kadaster;;;https://data.labs.kadaster.nl/;http://data.labs.kadaster.nl;data.labs.kadaster.nl;30-11-2021;;ja;ja;;200ok;;;;
+;ZBO;BZK;;Kadaster;;;http://geodata.nationaalgeoregister.nl/;;geodata.nationaalgeoregister.nl;30-11-2021;;ja;ja;;200ok;;;;
+;ZBO;BZK;;Kadaster;;;https://kaartenvannederland.kadaster.nl/;;kaartenvannederland.kadaster.nl;30-11-2021;;ja;ja;;200ok;;;;
 ;ZBO;BZK;;Kadaster;;;https://www.gemeentebanen.nl/overheden/het-kadaster;;gemeentebanen.nl;;;nee;nee;gemeentebanen;200ok;;;;
 ;ZBO;BZK;;Kadaster;;;https://bag.basisregistraties.overheid.nl/;;bag.basisregistraties.overheid.nl;;;ja;;;200ok;;;;uitzoeken
 ;ZBO;BZK;;Kadaster;;;https://bagviewer.kadaster.nl/;;bagviewer.kadaster.nl;;;ja;;;200ok;;;;uitzoeken
+;ZBO;BZK;;Kadaster;;;https://bes.kadaster.nl/;http://bes.kadaster.nl;bes.kadaster.nl;30-11-2021;;ja;ja;;200ok;;;;
 ;ZBO;BZK;;Kadaster;;;https://brk.basisregistraties.overheid.nl/;;brk.basisregistraties.overheid.nl;;;ja;;;200ok;;;;uitzoeken
 ;ZBO;BZK;;Kadaster;;;https://brt.basisregistraties.overheid.nl/;;brt.basisregistraties.overheid.nl;;;ja;;;200ok;;;;uitzoeken
 ;ZBO;BZK;;Kadaster;;;https://brt.kadaster.nl/basisvoorziening-3d/;;brt.kadaster.nl;;;ja;;;200ok;;;;uitzoeken
@@ -14695,6 +14751,7 @@ x;Gemeente;;;Veldhoven;;;http://www.cjgveldhoven.nl/;;cjgveldhoven.nl;5-11-2021;
 ;ZBO;BZK;;Kadaster;;;https://www.topotijdreis.nl/;;topotijdreis.nl;;;ja;;;200ok;;;;uitzoeken
 ;ZBO;BZK;;Kadaster;;;https://verbeterdekaart.kadaster.nl/;;verbeterdekaart.kadaster.nl;;;ja;;;200ok;;;;uitzoeken
 ;ZBO;BZK;;Kadaster;;;https://www.verbeterdekaart.nl/;;verbeterdekaart.nl;;;ja;;;200ok;;;;uitzoeken
+;ZBO;BZK;;Kadaster;;;https://viewer.dso.kadaster.nl/;;viewer.dso.kadaster.nl;30-11-2021;;ja;ja;;200ok;;;;
 ;ZBO;BZK;;Kadaster;;;https://www.werkenbijhetkadaster.nl/;;werkenbijhetkadaster.nl;;;ja;;;200ok;;;;uitzoeken
 ;ZBO;BZK;;Kadaster;;;https://www.wozwaardeloket.nl/;;wozwaardeloket.nl;;;ja;;;200ok;;;;
 ;ZBO;BZK;;Kadaster;;;https://www.woz-waardeloket.nl/;;woz-waardeloket.nl;15-10-2021;certverlopen;ja;;;200ok;;;;
@@ -14767,7 +14824,8 @@ x;Gemeente;;;Veldhoven;;;http://www.cjgveldhoven.nl/;;cjgveldhoven.nl;5-11-2021;
 ;ZBO;OCW;KNAW;Koninklijke Nederlandse Akademie van Wetenschappen;;;https://www.spinozacentre.nl/;;spinozacentre.nl;18-10-2021;;ja;ja;;200ok;;;;
 ;ZBO;OCW;KNAW;Koninklijke Nederlandse Akademie van Wetenschappen;;;https://wi.knaw.nl/;;wi.knaw.nl;;;ja;;;200ok;;;;
 ;ZBO;;ANWB;Koninklijke Nederlandse Toeristenbond ANWB;;;https://www.anwb.nl/;;anwb.nl;;;ja;;;almanak;;2-9-2020;;
-;ZBO;EZK;KCB;Kwaliteits-Controle-Bureau;;;https://kcb.nl/;;kcb.nl;1-10-2021;;ja;;;rijksreg;http://kcb.nl;20-8-2021;;
+;ZBO;LNV;KCB;Kwaliteits-Controle-Bureau;;;https://kcb.nl/;;kcb.nl;30-11-2021;;ja;ja;;200ok;;; ALG;
+;ZBO;LNV;KCB;Kwaliteits-Controle-Bureau;;;https://portaal.kcb.nl/;;portaal.kcb.nl;30-11-2021;;ja;ja;;200ok;;;;
 ;ZBO;JenV;LBIO;Landelijk Bureau Inning Onderhoudsbijdragen;;Informatiepunt Digitale Overheid;https://www.informatiepuntdigitaleoverheid.nl/;;informatiepuntdigitaleoverheid.nl;23-10-2021;;ja;nee;informatiepuntdigitaleoverheid;200ok;;;;
 ;ZBO;JenV;LBIO;Landelijk Bureau Inning Onderhoudsbijdragen;;;https://www.lbio.nl/;;lbio.nl;1-10-2021;;ja;;;rijksreg;http://www.lbio.nl;21-8-2021;;
 ;ZBO;;;Landelijke examencommissie ex art. 8 lid 5 Drank- en Horecawet;;;https://www.svh.nl/LEC-SVH;;svh.nl;;;ja;;;almanak;;1-7-2020;;
@@ -14784,37 +14842,37 @@ x;Gemeente;;;Veldhoven;;;http://www.cjgveldhoven.nl/;;cjgveldhoven.nl;5-11-2021;
 ;ZBO;;NEa;Nederlandse Emissieautoriteit;;;https://www.emissieautoriteit.nl/;;emissieautoriteit.nl;16-10-2021;;ja;ja;;200ok;;; ALG;
 ;ZBO;;NEa;Nederlandse Emissieautoriteit;;;https://www.emissionsauthority.nl/;;emissionsauthority.nl;16-10-2021;;ja;ja;;200ok;;;;
 ;ZBO;;NEa;Nederlandse Emissieautoriteit;;;https://magazines.emissieautoriteit.nl/;;magazines.emissieautoriteit.nl;16-10-2021;;ja;ja;;200ok;;;;
+;ZBO;EZK;TNO;Nederlandse Organisatie voor Toegepast Natuurwetenschappelijk Onderzoek;;;https://acc-sapphire.tno.nl/;;acc-sapphire.tno.nl;25-11-2021;;;;;200ok;;;;
+;ZBO;EZK;TNO;Nederlandse Organisatie voor Toegepast Natuurwetenschappelijk Onderzoek;;;https://app-climate01.hex.tno.nl/;;app-climate01.hex.tno.nl;25-11-2021;;;;;200ok;;;;
+;ZBO;EZK;TNO;Nederlandse Organisatie voor Toegepast Natuurwetenschappelijk Onderzoek;;;https://app-etis-benchmark.hex.tno.nl/;;app-etis-benchmark.hex.tno.nl;25-11-2021;;;;;200ok;;;;
+;ZBO;EZK;TNO;Nederlandse Organisatie voor Toegepast Natuurwetenschappelijk Onderzoek;;;https://app-recap01.tno.nl/pub/;;app-recap01.tno.nl/pub;25-11-2021;;;;;200ok;;;;
+;ZBO;EZK;TNO;Nederlandse Organisatie voor Toegepast Natuurwetenschappelijk Onderzoek;;;https://blockchain.tno.nl/;;blockchain.tno.nl;25-11-2021;;;;;200ok;;;;
 ;ZBO;EZK;TNO;Nederlandse Organisatie voor Toegepast Natuurwetenschappelijk Onderzoek;;;https://www.broloket.nl/;;broloket.nl;;;ja;;;tv;;;;
-;ZBO;EZK;TNO;Nederlandse Organisatie voor Toegepast Natuurwetenschappelijk Onderzoek;;;https://www.nlog.nl/;;nlog.nl;1-10-2021;;ja;;;rijksreg;http://www.nlog.nl;21-8-2021;;
-;ZBO;EZK;TNO;Nederlandse Organisatie voor Toegepast Natuurwetenschappelijk Onderzoek;;;https://www.tno.nl/;;tno.nl;;;ja;;;200ok;;;;
-;ZBO;EZK;TNO;Nederlandse Organisatie voor Toegepast Natuurwetenschappelijk Onderzoek;;;https://www.fysiekebelasting.tno.nl/;;fysiekebelasting.tno.nl;25-11-2021;;;;;200ok;;;;
-;ZBO;EZK;TNO;Nederlandse Organisatie voor Toegepast Natuurwetenschappelijk Onderzoek;;;https://topas.tno.nl/;;topas.tno.nl;25-11-2021;;;;;200ok;;;;
-;ZBO;EZK;TNO;Nederlandse Organisatie voor Toegepast Natuurwetenschappelijk Onderzoek;;;https://portal.tno.nl/;;portal.tno.nl;25-11-2021;;;;;200ok;;;;
-;ZBO;EZK;TNO;Nederlandse Organisatie voor Toegepast Natuurwetenschappelijk Onderzoek;;;https://japan.tno.nl/;;japan.tno.nl;25-11-2021;;;;;200ok;;;;
+;ZBO;EZK;TNO;Nederlandse Organisatie voor Toegepast Natuurwetenschappelijk Onderzoek;;;https://caribbeancoastaldynamics.tno.nl/;;caribbeancoastaldynamics.tno.nl;25-11-2021;;;;;200ok;;;;
 ;ZBO;EZK;TNO;Nederlandse Organisatie voor Toegepast Natuurwetenschappelijk Onderzoek;;;https://casta.tno.nl/;;casta.tno.nl;25-11-2021;;;;;200ok;;;;
 ;ZBO;EZK;TNO;Nederlandse Organisatie voor Toegepast Natuurwetenschappelijk Onderzoek;;;https://ci.tno.nl/;;ci.tno.nl;25-11-2021;;;;;200ok;;;;
-;ZBO;EZK;TNO;Nederlandse Organisatie voor Toegepast Natuurwetenschappelijk Onderzoek;;;https://acc-sapphire.tno.nl/;;acc-sapphire.tno.nl;25-11-2021;;;;;200ok;;;;
-;ZBO;EZK;TNO;Nederlandse Organisatie voor Toegepast Natuurwetenschappelijk Onderzoek;;;https://publications.tno.nl/;;publications.tno.nl;25-11-2021;;;;;200ok;;;;
-;ZBO;EZK;TNO;Nederlandse Organisatie voor Toegepast Natuurwetenschappelijk Onderzoek;;;https://humanstudies.tno.nl/;;humanstudies.tno.nl;25-11-2021;;;;;200ok;;;;
-;ZBO;EZK;TNO;Nederlandse Organisatie voor Toegepast Natuurwetenschappelijk Onderzoek;;;https://digitalpages.tno.nl/;;digitalpages.tno.nl;25-11-2021;;;;;200ok;;;;
-;ZBO;EZK;TNO;Nederlandse Organisatie voor Toegepast Natuurwetenschappelijk Onderzoek;;;https://sr-data.hex.tno.nl/;;sr-data.hex.tno.nl;25-11-2021;;;;;200ok;;;;
-;ZBO;EZK;TNO;Nederlandse Organisatie voor Toegepast Natuurwetenschappelijk Onderzoek;;;https://app-recap01.tno.nl/pub/;;app-recap01.tno.nl/pub;25-11-2021;;;;;200ok;;;;
-;ZBO;EZK;TNO;Nederlandse Organisatie voor Toegepast Natuurwetenschappelijk Onderzoek;;;https://lotos-euros.tno.nl/;;lotos-euros.tno.nl;25-11-2021;;;;;200ok;;;;
 ;ZBO;EZK;TNO;Nederlandse Organisatie voor Toegepast Natuurwetenschappelijk Onderzoek;;;https://diamonds.tno.nl/;;diamonds.tno.nl;25-11-2021;;;;;200ok;;;;
+;ZBO;EZK;TNO;Nederlandse Organisatie voor Toegepast Natuurwetenschappelijk Onderzoek;;;https://digitalpages.tno.nl/;;digitalpages.tno.nl;25-11-2021;;;;;200ok;;;;
 ;ZBO;EZK;TNO;Nederlandse Organisatie voor Toegepast Natuurwetenschappelijk Onderzoek;;;https://easyvll.tno.nl/;;easyvll.tno.nl;25-11-2021;;;;;200ok;;;;
-;ZBO;EZK;TNO;Nederlandse Organisatie voor Toegepast Natuurwetenschappelijk Onderzoek;;;https://monitorarbeid.tno.nl;;monitorarbeid.tno.nl;25-11-2021;;;;;200ok;;;;
-;ZBO;EZK;TNO;Nederlandse Organisatie voor Toegepast Natuurwetenschappelijk Onderzoek;;;https://experimenten.tno.nl/;;experimenten.tno.nl;25-11-2021;;;;;200ok;;;;
-;ZBO;EZK;TNO;Nederlandse Organisatie voor Toegepast Natuurwetenschappelijk Onderzoek;;;https://app-climate01.hex.tno.nl/;;app-climate01.hex.tno.nl;25-11-2021;;;;;200ok;;;;
-;ZBO;EZK;TNO;Nederlandse Organisatie voor Toegepast Natuurwetenschappelijk Onderzoek;;;https://fan-ci.sensorlab.tno.nl/;;fan-ci.sensorlab.tno.nl;25-11-2021;;;;;200ok;;;;
-;ZBO;EZK;TNO;Nederlandse Organisatie voor Toegepast Natuurwetenschappelijk Onderzoek;;;https://innovationradar.tno.nl/;;innovationradar.tno.nl;25-11-2021;;;;;200ok;;;;
-;ZBO;EZK;TNO;Nederlandse Organisatie voor Toegepast Natuurwetenschappelijk Onderzoek;;;https://monitorarbeid-data.tno.nl/;;monitorarbeid-data.tno.nl;25-11-2021;;;;;200ok;;;;
-;ZBO;EZK;TNO;Nederlandse Organisatie voor Toegepast Natuurwetenschappelijk Onderzoek;;;https://caribbeancoastaldynamics.tno.nl/;;caribbeancoastaldynamics.tno.nl;25-11-2021;;;;;200ok;;;;
-;ZBO;EZK;TNO;Nederlandse Organisatie voor Toegepast Natuurwetenschappelijk Onderzoek;;;https://app-etis-benchmark.hex.tno.nl/;;app-etis-benchmark.hex.tno.nl;25-11-2021;;;;;200ok;;;;
-;ZBO;EZK;TNO;Nederlandse Organisatie voor Toegepast Natuurwetenschappelijk Onderzoek;;;https://www.fysiekebelasting.tno.nl/;;fysiekebelasting.tno.nl;25-11-2021;;;;;200ok;;;;
 ;ZBO;EZK;TNO;Nederlandse Organisatie voor Toegepast Natuurwetenschappelijk Onderzoek;;;https://energiearmoede.tno.nl/;;energiearmoede.tno.nl;25-11-2021;;;;;200ok;;;;
+;ZBO;EZK;TNO;Nederlandse Organisatie voor Toegepast Natuurwetenschappelijk Onderzoek;;;https://experimenten.tno.nl/;;experimenten.tno.nl;25-11-2021;;;;;200ok;;;;
+;ZBO;EZK;TNO;Nederlandse Organisatie voor Toegepast Natuurwetenschappelijk Onderzoek;;;https://fan-ci.sensorlab.tno.nl/;;fan-ci.sensorlab.tno.nl;25-11-2021;;;;;200ok;;;;
+;ZBO;EZK;TNO;Nederlandse Organisatie voor Toegepast Natuurwetenschappelijk Onderzoek;;;https://www.fysiekebelasting.tno.nl/;;fysiekebelasting.tno.nl;25-11-2021;;;;;200ok;;;;
+;ZBO;EZK;TNO;Nederlandse Organisatie voor Toegepast Natuurwetenschappelijk Onderzoek;;;https://www.fysiekebelasting.tno.nl/;;fysiekebelasting.tno.nl;25-11-2021;;;;;200ok;;;;
+;ZBO;EZK;TNO;Nederlandse Organisatie voor Toegepast Natuurwetenschappelijk Onderzoek;;;https://humanstudies.tno.nl/;;humanstudies.tno.nl;25-11-2021;;;;;200ok;;;;
+;ZBO;EZK;TNO;Nederlandse Organisatie voor Toegepast Natuurwetenschappelijk Onderzoek;;;https://innovationradar.tno.nl/;;innovationradar.tno.nl;25-11-2021;;;;;200ok;;;;
+;ZBO;EZK;TNO;Nederlandse Organisatie voor Toegepast Natuurwetenschappelijk Onderzoek;;;https://japan.tno.nl/;;japan.tno.nl;25-11-2021;;;;;200ok;;;;
+;ZBO;EZK;TNO;Nederlandse Organisatie voor Toegepast Natuurwetenschappelijk Onderzoek;;;https://lotos-euros.tno.nl/;;lotos-euros.tno.nl;25-11-2021;;;;;200ok;;;;
+;ZBO;EZK;TNO;Nederlandse Organisatie voor Toegepast Natuurwetenschappelijk Onderzoek;;;https://monitorarbeid.tno.nl;;monitorarbeid.tno.nl;25-11-2021;;;;;200ok;;;;
+;ZBO;EZK;TNO;Nederlandse Organisatie voor Toegepast Natuurwetenschappelijk Onderzoek;;;https://monitorarbeid-data.tno.nl/;;monitorarbeid-data.tno.nl;25-11-2021;;;;;200ok;;;;
+;ZBO;EZK;TNO;Nederlandse Organisatie voor Toegepast Natuurwetenschappelijk Onderzoek;;;https://www.nlog.nl/;;nlog.nl;1-10-2021;;ja;;;rijksreg;http://www.nlog.nl;21-8-2021;;
+;ZBO;EZK;TNO;Nederlandse Organisatie voor Toegepast Natuurwetenschappelijk Onderzoek;;;https://portal.tno.nl/;;portal.tno.nl;25-11-2021;;;;;200ok;;;;
+;ZBO;EZK;TNO;Nederlandse Organisatie voor Toegepast Natuurwetenschappelijk Onderzoek;;;https://publications.tno.nl/;;publications.tno.nl;25-11-2021;;;;;200ok;;;;
 ;ZBO;EZK;TNO;Nederlandse Organisatie voor Toegepast Natuurwetenschappelijk Onderzoek;;;https://pulsim.tno.nl/;;pulsim.tno.nl;25-11-2021;;;;;200ok;;;;
+;ZBO;EZK;TNO;Nederlandse Organisatie voor Toegepast Natuurwetenschappelijk Onderzoek;;;https://sr-data.hex.tno.nl/;;sr-data.hex.tno.nl;25-11-2021;;;;;200ok;;;;
 ;ZBO;EZK;TNO;Nederlandse Organisatie voor Toegepast Natuurwetenschappelijk Onderzoek;;;https://www.stofvrijwerken.tno.nl/;;stofvrijwerken.tno.nl;25-11-2021;;;;;200ok;;;;
-;ZBO;EZK;TNO;Nederlandse Organisatie voor Toegepast Natuurwetenschappelijk Onderzoek;;;https://blockchain.tno.nl/;;blockchain.tno.nl;25-11-2021;;;;;200ok;;;;
+;ZBO;EZK;TNO;Nederlandse Organisatie voor Toegepast Natuurwetenschappelijk Onderzoek;;;https://www.tno.nl/;;tno.nl;;;ja;;;200ok;;;;
+;ZBO;EZK;TNO;Nederlandse Organisatie voor Toegepast Natuurwetenschappelijk Onderzoek;;;https://topas.tno.nl/;;topas.tno.nl;25-11-2021;;;;;200ok;;;;
 ;ZBO;;NWO;Nederlandse organisatie voor Wetenschappelijk Onderzoek;;;https://www.nwo.nl/;;nwo.nl;16-10-2021;;ja;ja;;200ok;;; ALG;
 ;ZBO;;NWO;Nederlandse organisatie voor Wetenschappelijk Onderzoek;;;https://www.nwo-i.nl/;;nwo-i.nl;16-10-2021;;ja;ja;;200ok;;;;
 ;ZBO;OCW;NPO;Nederlandse Publieke Omroep;;;https://www.npostart.nl/;;npostart.nl;16-10-2021;;ja;ja;;200ok;;; ALG;
@@ -14826,19 +14884,20 @@ x;Gemeente;;;Veldhoven;;;http://www.cjgveldhoven.nl/;;cjgveldhoven.nl;5-11-2021;
 ;ZBO;VWS;NZa;Nederlandse Zorgautoriteit;;;https://dbcregels.nza.nl/2020/ggz/;;dbcregels.nza.nl;5-11-2021;;ja;;;200ok;;;;
 ;ZBO;VWS;NZa;Nederlandse Zorgautoriteit;;;https://disportal.nl/;;disportal.nl;;;ja;;;tv;;;;
 ;ZBO;VWS;NZa;Nederlandse Zorgautoriteit;;;https://www.ikz.nl/;;ikz.nl;;;ja;;;tv;;;;
-;ZBO;VWS;NZa;Nederlandse Zorgautoriteit;;;https://leren.nza.nl/;;leren.nza.nl;;;ja;;;tv;;;;
 ;ZBO;VWS;NZa;Nederlandse Zorgautoriteit;;;https://login.studytube.nl/;;login.studytube.nl;;;ja;;;tv;;;;
 ;ZBO;VWS;NZa;Nederlandse Zorgautoriteit;;;https://magazines.nza.nl/;;magazines.nza.nl;15-10-2021;;ja;;;200ok;;;;
 ;ZBO;VWS;NZa;Nederlandse Zorgautoriteit;;;https://mijn.nza.nl/;;mijn.nza.nl;1-10-2021;;ja;;;200ok;;;;
 ;ZBO;VWS;NZa;Nederlandse Zorgautoriteit;;;https://monitorregulierezorg-accp.mendixcloud.com/;;monitorregulierezorg-accp.mendixcloud.com;;;ja;;;tv;;;;
 ;ZBO;VWS;NZa;Nederlandse Zorgautoriteit;;;https://www.nza.nl/;;nza.nl;1-10-2021;;ja;;;rijksreg;http://www.nza.nl;21-8-2021;;
 ;ZBO;VWS;NZa;Nederlandse Zorgautoriteit;;;https://nza-epos-accp.mendixcloud.com/;;nza-epos-accp.mendixcloud.com;;;ja;;;tv;;;;
+;ZBO;VWS;NZa;Nederlandse Zorgautoriteit;;;https://nzaextern.studytube.nl;;nzaextern.studytube.nl;30-11-2021;;ja;;studytube;200ok;;;;
 ;ZBO;VWS;NZa;Nederlandse Zorgautoriteit;;;https://www.opendisdata.nl/;;opendisdata.nl;;;ja;;;tv;;;;
 ;ZBO;VWS;NZa;Nederlandse Zorgautoriteit;;;https://praatmee.nza.nl/;;praatmee.nza.nl;;;ja;;;tv;;;;
 ;ZBO;VWS;NZa;Nederlandse Zorgautoriteit;;;http://tarievenzoekerzorgprestatiemodel.nza.nl/;;tarievenzoekerzorgprestatiemodel.nza.nl;;;ja;;;rijksreg;http://tarievenzoekerzorgprestatiemodel.nza.nl;30-9-2021;;
 ;ZBO;VWS;NZa;Nederlandse Zorgautoriteit;;;https://uitwisselportaal.nza.nl/;;uitwisselportaal.nza.nl;;;ja;ja;;200ok;;;;
 ;ZBO;VWS;NZa;Nederlandse Zorgautoriteit;;;https://werkenbijde.nza.nl/;;werkenbijde.nza.nl;;;ja;;;tv;;;;
 ;ZBO;VWS;NZa;Nederlandse Zorgautoriteit;;;https://zorgbeeld.nza.nl/;;zorgbeeld.nza.nl;;;ja;;;200ok;;;;
+;ZBO;VWS;NZa;Nederlandse Zorgautoriteit;;;https://zorgprestatiemodel.nza.nl/;;zorgprestatiemodel.nza.nl;30-11-2021;;ja;ja;;200ok;;;;
 ;ZBO;VWS;NZa;Nederlandse Zorgautoriteit;;;https://zorgproducten.nza.nl/;;zorgproducten.nza.nl;;;ja;;;tv;;;;
 ;ZBO;OCW;NVAO;Nederlands-Vlaamse Accreditatieorganisatie;;;https://www.nvao.net/nl;https://www.nvao.net;nvao.net;16-10-2021;;ja;ja;;200ok;;; ALG;
 ;ZBO;JenV;;Nidos;;;https://www.nidos.nl/;;nidos.nl;23-10-2021;;ja;ja;;200ok;;;;
@@ -14901,7 +14960,7 @@ x;Gemeente;;;Veldhoven;;;http://www.cjgveldhoven.nl/;;cjgveldhoven.nl;5-11-2021;
 ;ZBO;LNV;SBB;Staatsbosbeheer;;;https://winkel.staatsbosbeheer.nl/;;winkel.staatsbosbeheer.nl;10-10-2021;;ja;ja;;200ok;;;;
 ;ZBO;;SAIP;Stichting Administratie Indonesische Pensioenen;;;https://saip.nl/;;saip.nl;16-10-2021;;ja;ja;;200ok;;; ALG;
 ;ZBO;;SAIP;Stichting Administratie Indonesische Pensioenen;;;https://www.saipbeheer.nl/;;saipbeheer.nl;16-10-2021;;ja;ja;;200ok;;;;
-;ZBO;EZK;BKD;Stichting Bloembollenkeuringsdienst;;;https://www.bkd.eu/;;bkd.eu;23-10-2021;;ja;ja;;200ok;;;;
+;ZBO;LNV;BKD;Stichting Bloembollenkeuringsdienst;;;https://www.bkd.eu/;;bkd.eu;30-11-2021;;ja;ja;;200ok;;;;
 ;ZBO;;;Stichting Bureau Erkenningen;;;https://erkenningen.nl/;;erkenningen.nl;;;ja;;;almanak;;2-7-2021;;
 ;ZBO;LNV;COKZ;Stichting Controle Orgaan Kwaliteits Zaken;;;https://cokz.nl/;;cokz.nl;23-10-2021;;ja;ja;;200ok;;;;
 ;ZBO;OCW;FvCp;Stichting Fonds voor Cultuurparticipatie;;;https://cultuurparticipatie.nl/;;cultuurparticipatie.nl;16-10-2021;;ja;ja;;200ok;;; ALG;
