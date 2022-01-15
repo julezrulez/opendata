@@ -10,6 +10,7 @@ domeinnaam,URL,Organisatietype,Organisatie,Suborganisatie,Afdeling
 380kv-hoogspanningsverbindingen.nl,http://www.380kv-hoogspanningsverbindingen.nl,Rijksoverheid,EZK,,DGETM/TeNNeT
 380kv-verbinding.nl,http://www.380kv-verbinding.nl,Rijksoverheid,EZK,,DGETM/TeNNeT
 380kv-verbindingen.nl,http://www.380kv-verbindingen.nl,Rijksoverheid,EZK,,DGETM/TeNNeT
+55plus.datawonen.nl,http://55plus.datawonen.nl,Rijksoverheid,BZK,,
 a16rotterdam.nl,http://www.a16rotterdam.nl,Rijksoverheid,IenW,RWS,
 a1oost.nl,http://www.a1oost.nl,Rijksoverheid,IenW,RWS,
 a27a12ringutrecht.nl,http://www.a27a12ringutrecht.nl,Rijksoverheid,IenW,RWS,
@@ -35,12 +36,15 @@ aanvraag-beheer.ciz.nl,http://aanvraag-beheer.ciz.nl,Overheid,VWS,CIZ,
 aanvragen.nza.nl,http://aanvragen.nza.nl,Overheid,VWS,NZa,
 aardgasvrijewijken.nl,http://www.aardgasvrijewijken.nl,Rijksoverheid,BZK,,
 abdleerportaal.nl,http://www.abdleerportaal.nl,Rijksoverheid,BZK,ABD,
-abonneren.rsj.nl,http://abonneren.rsj.nl,Overheid,JenV,RSJ,
 academie.hetcak.nl,http://academie.hetcak.nl,Overheid,VWS,CAK,
 academieinternationalebetrekkingen.nl,http://www.academieinternationalebetrekkingen.nl,Rijksoverheid,BUZA,AIB,
+academievoorinternationalebetrekkingen.nl,http://www.academievoorinternationalebetrekkingen.nl,Rijksoverheid,BUZA,AIB,
 academy.cbs.nl,http://academy.cbs.nl,Overheid,EZK,CBS,
+academyforinternationalrelations.nl,http://www.academyforinternationalrelations.nl,Rijksoverheid,BUZA,AIB,
 academyinternationalrelations.nl,http://www.academyinternationalrelations.nl,Rijksoverheid,BUZA,AIB,
 acc.prikkenzonderafspraak.rijksoverheid.nl,http://acc.prikkenzonderafspraak.rijksoverheid.nl,Rijksoverheid,VWS,,Kerndepartement/PDC19
+accept.inclusievedienstverlening.gebruikercentraal.nl,http://accept.inclusievedienstverlening.gebruikercentraal.nl,Rijksoverheid,BZK,,
+acc-onlineform.culture.gov.nl,http://acc-onlineform.culture.gov.nl,Rijksoverheid,BUZA,,
 acm.nl,http://www.acm.nl,Overheid,EZK,ACM,
 actal.nl,http://www.actal.nl,Overheid,EZK,ATR,
 actieleernetwerk.nl,http://www.actieleernetwerk.nl,Rijksoverheid,VWS,,Kerndepartement/MEVA
@@ -113,6 +117,7 @@ bagviewer.kadaster.nl,http://bagviewer.kadaster.nl,Overheid,BZK,Kadaster,
 basisinformatie-overstromingen.nl,http://basisinformatie-overstromingen.nl,Rijksoverheid,IenW,RWS,
 basismonitoringwadden.waddenzee.nl,http://basismonitoringwadden.waddenzee.nl,Rijksoverheid,IenW,RWS,
 basisregistratieondergrond.nl,http://basisregistratieondergrond.nl,Rijksoverheid,BZK,,
+bbsh.datawonen.nl,http://bbsh.datawonen.nl,Rijksoverheid,BZK,,
 bco-portaal.nl,http://www.bco-portaal.nl,Rijksoverheid,VWS,,Kerndepartement/DI/CIO
 bdcommunicatie.pleio.nl,http://bdcommunicatie.pleio.nl,Rijksoverheid,FIN,Belastingdienst,
 bdmuseum.nl,http://www.bdmuseum.nl,Rijksoverheid,FIN,Belastingdienst,Belasting & Douanemuseum
@@ -133,6 +138,7 @@ belastingdienst-cn.nl,http://www.belastingdienst-cn.nl,Rijksoverheid,FIN,Belasti
 beleefdenationaleparken.nl,http://beleefdenationaleparken.nl,Overheid,LNV,Staatsbosbeheer,
 bentwoud.staatsbosbeheer.nl,http://bentwoud.staatsbosbeheer.nl,Overheid,LNV,Staatsbosbeheer,
 bereiknu.nl,http://bereiknu.nl,Rijksoverheid,IenW,RWS,WNZ
+bes.kadaster.nl,http://bes.kadaster.nl,Overheid,BZK,Kadaster,
 beschutaandebak.nl,http://www.beschutaandebak.nl,Rijksoverheid,SZW,,SG/C
 bestrijdingsmiddelen-omwonenden.nl,http://www.bestrijdingsmiddelen-omwonenden.nl,Rijksoverheid,VWS,RIVM,
 beterbenutten.nl,http://www.beterbenutten.nl,Rijksoverheid,IenW,,
@@ -155,7 +161,7 @@ biosecurityselfscan.nl,http://www.biosecurityselfscan.nl,Rijksoverheid,VWS,RIVM,
 biosecurityvulnerabilityscan.nl,http://www.biosecurityvulnerabilityscan.nl,Rijksoverheid,VWS,RIVM,
 biosecurityzelfscan.nl,http://www.biosecurityzelfscan.nl,Rijksoverheid,VWS,RIVM,
 biotechnologie.rivm.nl,http://biotechnologie.rivm.nl,Rijksoverheid,VWS,RIVM,
-bkd.eu,http://www.bkd.eu,Overheid,EZK,BKD,
+bkd.eu,http://www.bkd.eu,Overheid,LNV,BKD,
 bkwi.nl,http://www.bkwi.nl,Overheid,SZW,UWV,BKWI
 blankenburgverbinding.nl,http://www.blankenburgverbinding.nl,Rijksoverheid,IenW,RWS,
 blauwegolfverbindend.nl,http://www.blauwegolfverbindend.nl,Rijksoverheid,IenW,RWS,CIV
@@ -182,11 +188,13 @@ bronhouderportaal-bro.nl,http://www.bronhouderportaal-bro.nl,Rijksoverheid,BZK,,
 brt.basisregistraties.overheid.nl,http://brt.basisregistraties.overheid.nl,Overheid,BZK,Kadaster,
 brzoplus.nl,http://brzoplus.nl,Rijksoverheid,IenW,RWS,WVL
 bsv.nu,http://www.bsv.nu,Rijksoverheid,IenW,,
+btiv.datawonen.nl,http://btiv.datawonen.nl,Rijksoverheid,BZK,,
 building-with-nature.eu,http://building-with-nature.eu,Rijksoverheid,IenW,RWS,
 buitenlevenvakanties.nl,http://www.buitenlevenvakanties.nl,Overheid,LNV,Staatsbosbeheer,
 bun-k.nl,http://bun-k.nl,Rijksoverheid,IenW,RWS,
 bureaubiosecurity.nl,http://www.bureaubiosecurity.nl,Rijksoverheid,VWS,RIVM,
 bureauft.nl,http://www.bureauft.nl,Overheid,JenV,BFT,
+bureauncdr.nl,http://www.bureauncdr.nl,Rijksoverheid,BZK,,
 bureausaneringverkeerslawaai.nl,http://www.bureausaneringverkeerslawaai.nl,Rijksoverheid,IenW,RWS,
 bureautoetsinginvesteringen.nl,http://www.bureautoetsinginvesteringen.nl,Rijksoverheid,EZK,,DG B&I DE
 burgernet.nl,http://www.burgernet.nl,Overheid,JenV,Politie,
@@ -233,7 +241,6 @@ ciz.nl,http://www.ciz.nl,Overheid,VWS,CIZ,
 cjib.nl,http://www.cjib.nl,Rijksoverheid,JenV,CJIB,
 ckmbo.nl,http://ckmbo.nl,Overheid,OCW,CKMBO,
 clientondersteuning.co.nl,http://www.clientondersteuning.co.nl,Rijksoverheid,VWS,,Kerndepartement/LZ
-clinicaltrialregister.nl,http://www.clinicaltrialregister.nl,Rijksoverheid,LNV,NVWA,
 clo.nl,http://www.clo.nl,Rijksoverheid,IenW,PBL,
 co.formulierdus-i.nl,http://co.formulierdus-i.nl,Rijksoverheid,VWS,,Kerndepartement/DUS-I
 co2emissiefactoren.nl,http://www.co2emissiefactoren.nl,Rijksoverheid,IenW,RWS,WVL
@@ -268,6 +275,7 @@ coronamelder.nl,http://www.coronamelder.nl,Rijksoverheid,VWS,,Kerndepartement/DI
 coronarekening.rekenkamer.nl,http://coronarekening.rekenkamer.nl,Overheid,AR,,
 coronatest.nl,http://coronatest.nl,Rijksoverheid,VWS,,Kerndepartement/PDC19
 corpolitie.nl,http://www.corpolitie.nl,Overheid,JenV,Politie,
+corporaties.datawonen.nl,http://corporaties.datawonen.nl,Rijksoverheid,BZK,,
 corridoramsterdamhoorn.nl,http://www.corridoramsterdamhoorn.nl,Rijksoverheid,IenW,,
 cosmeticaklachten.nl,http://www.cosmeticaklachten.nl,Rijksoverheid,VWS,RIVM,
 courtmh17.com,http://www.courtmh17.com,Overheid,JenV,RvdR,
@@ -301,6 +309,7 @@ cybersecurityraad.nl,http://www.cybersecurityraad.nl,Rijksoverheid,JenV,NCTV,
 dagvandeforensischezorg.nl,http://www.dagvandeforensischezorg.nl,Rijksoverheid,JenV,DJI,
 dashboardgroningen.nl,http://dashboardgroningen.nl,Rijksoverheid,EZK,,
 data.forumstandaardisatie.nl,http://data.forumstandaardisatie.nl,Rijksoverheid,BZK,Logius,BFS
+data.labs.kadaster.nl,http://data.labs.kadaster.nl,Overheid,BZK,Kadaster,
 data.overheid.nl,http://data.overheid.nl,Overheid,BZK,UBR,KOOP
 databronnencovid19.nl,http://www.databronnencovid19.nl,Rijksoverheid,VWS,RIVM,
 datachallenge.nl,http://www.datachallenge.nl,Rijksoverheid,IenW,RWS,
@@ -313,6 +322,7 @@ dcc-ienw.nl,http://www.dcc-ienw.nl,Rijksoverheid,IenW,RWS,
 dcp-time-slot.cbg-meb.nl,http://dcp-time-slot.cbg-meb.nl,Overheid,VWS,CBG,
 dcypher.nl,http://dcypher.nl,Rijksoverheid,EZK,RVO,
 deafsluitdijk.nl,http://deafsluitdijk.nl,Rijksoverheid,IenW,RWS,
+deaftrapop.nl,http://www.deaftrapop.nl,Rijksoverheid,OCW,,
 debaanvanhetleven.nl,http://debaanvanhetleven.nl,Rijksoverheid,OCW,,
 debatdirect.tweedekamer.nl,http://debatdirect.tweedekamer.nl,Overheid,TK,,
 debatgemist.tweedekamer.nl,http://debatgemist.tweedekamer.nl,Overheid,TK,,
@@ -357,6 +367,7 @@ diergeneeskunderegister.nl,http://www.diergeneeskunderegister.nl,Rijksoverheid,V
 diergeneesmiddeleninformatiebank.nl,http://www.diergeneesmiddeleninformatiebank.nl,Overheid,VWS,CBG,
 digicampus.tech,http://digicampus.tech,Rijksoverheid,BZK,Logius,
 digid.nl,http://www.digid.nl,Rijksoverheid,BZK,Logius,DigiD
+digikoppeling.com,http://www.digikoppeling.com,Rijksoverheid,BZK,AW,
 digistandaarden.pleio.nl,http://digistandaarden.pleio.nl,Rijksoverheid,BZK,,
 digitaal.scp.nl,http://digitaal.scp.nl,Rijksoverheid,VWS,SCP,
 digitaalloket.raadvanstate.nl,http://digitaalloket.raadvanstate.nl,Overheid,RvS,,
@@ -365,18 +376,19 @@ digitaleoverheid.nl,http://www.digitaleoverheid.nl,Rijksoverheid,BZK,,
 digitaletoegang.nl,http://www.digitaletoegang.nl,Rijksoverheid,BZK,,
 digitalezorgzandbak.nl,http://www.digitalezorgzandbak.nl,Rijksoverheid,VWS,ZIN,
 digitaltrustcenter.nl,http://www.digitaltrustcenter.nl,Rijksoverheid,EZK,,DG B&I DE-DTC
-digitoegankelijk.nl,http://www.digitoegankelijk.nl,Rijksoverheid,BZK,Logius,DigiToegankelijk
+digitoegankelijk.nl,http://www.digitoegankelijk.nl,Rijksoverheid,BZK,Logius,Informatievoorzieningen
 dihoo.eu,http://www.dihoo.eu,Overheid,OCW,,
 dihoo.nl,http://www.dihoo.nl,Overheid,OCW,,
 directduidelijk.gebruikercentraal.nl,http://directduidelijk.gebruikercentraal.nl,Rijksoverheid,BZK,,
 directduidelijk.nl,http://www.directduidelijk.nl,Rijksoverheid,BZK,,DGOO
 dischargetest.com,http://www.dischargetest.com,Rijksoverheid,IenW,RWS,
+disco.datawonen.nl,http://disco.datawonen.nl,Rijksoverheid,BZK,,
 disportal.nl,http://www.disportal.nl,Overheid,VWS,NZa,
 dji.nl,http://www.dji.nl,Rijksoverheid,JenV,DJI,
 dnadatabank.forensischinstituut.nl,http://dnadatabank.forensischinstituut.nl,Rijksoverheid,JenV,NFI,
 dnb.nl,http://www.dnb.nl,Overheid,FIN,DNB,
 doc-direkt.nl,http://www.doc-direkt.nl,Rijksoverheid,BZK,,
-docs.brba.eu/handleidingen,http://docs.brba.eu/handleidingen/,Rijksoverheid,VWS,,Kerndepartement/DI/CIO
+docs.brba.eu/handleidingen/,http://docs.brba.eu/handleidingen/,Rijksoverheid,VWS,,Kerndepartement/DI/CIO
 doemeemetmdt.nl,http://www.doemeemetmdt.nl,Rijksoverheid,VWS,,Kerndepartement/MDT
 domeinenrz.nl,http://www.domeinenrz.nl,Rijksoverheid,FIN,,DRZ
 donorgegevens.nl,http://www.donorgegevens.nl,Rijksoverheid,VWS,CIBG,
@@ -423,8 +435,9 @@ eentegeneenzaamheid.nl,http://www.eentegeneenzaamheid.nl,Rijksoverheid,VWS,,Kern
 eenzaam.nl,http://www.eenzaam.nl,Rijksoverheid,VWS,,Kerndepartement/DMO
 eerstekamer.nl,http://www.eerstekamer.nl,Overheid,EK,,
 efeat.org,http://www.efeat.org,Rijksoverheid,VWS,RIVM,
-eherkenning.nl,http://www.eherkenning.nl,Rijksoverheid,BZK,Logius,eHerkenning/idensys
+eherkenning.nl,http://www.eherkenning.nl,Rijksoverheid,BZK,Logius,Informatievoorzieningen
 eigenkracht.nl,http://www.eigenkracht.nl,Overheid,VWS,DA,
+eiti.nl,http://www.eiti.nl,Rijksoverheid,EZK,RVO,
 elearning.dopingautoriteit.nl,http://elearning.dopingautoriteit.nl,Overheid,VWS,DA,
 elo.oidji.nl,http://elo.oidji.nl,Rijksoverheid,JenV,DJI,Opleidingsinstituut DJI
 emaddc.com,http://www.emaddc.com,Rijksoverheid,IenW,KNMI,
@@ -484,6 +497,7 @@ english.rda.nl,http://english.rda.nl,Overheid,LNV,RDA,
 english.rekenkamer.nl,http://english.rekenkamer.nl,Overheid,AR,,
 english.rijksdienstcn.com,http://english.rijksdienstcn.com,Overheid,BZK,RCN,
 english.rijksvastgoedbedrijf.nl,http://english.rijksvastgoedbedrijf.nl,Rijksoverheid,BZK,RVB,
+english.rivmmagazines.nl,http://english.rivmmagazines.nl,Rijksoverheid,VWS,RIVM,
 english.rvo.nl,http://english.rvo.nl,Rijksoverheid,EZK,RVO,
 english.rvomagazines.nl,http://english.rvomagazines.nl,Rijksoverheid,EZK,RVO,
 english.scp.nl,http://english.scp.nl,Rijksoverheid,VWS,SCP,
@@ -503,7 +517,7 @@ erelijst.nl,http://www.erelijst.nl,Overheid,TK,,
 erfgoeddeal.nl,http://www.erfgoeddeal.nl,Rijksoverheid,OCW,RCE,
 erfgoedmonitor.nl,http://www.erfgoedmonitor.nl,Rijksoverheid,OCW,RCE,
 e-rihs.nl,http://e-rihs.nl,Rijksoverheid,OCW,RCE,
-ertms-nl.nl,http://www.ertms-nl.nl,Rijksoverheid,IenW,BSK,DGMo
+ertms.nl,http://www.ertms.nl,Rijksoverheid,IenW,BSK,DGMo
 eucaris.net,http://www.eucaris.net,Overheid,IenW,RDW,
 eumetcal.eu,http://www.eumetcal.eu,Rijksoverheid,VWS,RIVM,
 eunethta.eu,http://www.eunethta.eu,Rijksoverheid,VWS,ZIN,
@@ -577,9 +591,10 @@ gemhofvanjustitie.org,http://www.gemhofvanjustitie.org,Overheid,JenV,GHvJ,
 geneesmiddeleninformatiebank.nl,http://www.geneesmiddeleninformatiebank.nl,Overheid,VWS,CBG,
 geobasisregistraties.nl,http://www.geobasisregistraties.nl,Rijksoverheid,BZK,,
 geodata.basisinformatie-overstromingen.nl,http://geodata.basisinformatie-overstromingen.nl,Rijksoverheid,IenW,RWS,
+geodata.nationaalgeoregister.nl,http://geodata.nationaalgeoregister.nl,Overheid,BZK,Kadaster,
 geoforum.nl,http://geoforum.nl,Overheid,BZK,Kadaster,
 geotool.watermarkt.nl,http://geotool.watermarkt.nl,Rijksoverheid,IenW,RWS,
-geozet.koop.overheid.nl/overuwbuurt/onl,http://geozet.koop.overheid.nl/overuwbuurt/onl/,Overheid,BZK,UBR,KOOP
+geozet.koop.overheid.nl/overuwbuurt/onl/,http://geozet.koop.overheid.nl/overuwbuurt/onl/,Overheid,BZK,UBR,KOOP
 gerechtelijkebrief.nl,http://www.gerechtelijkebrief.nl,Rijksoverheid,BZK,UBR,
 gerned380.nl,http://www.gerned380.nl,Rijksoverheid,EZK,,DGETM/TeNNeT
 gerned380kv.nl,http://www.gerned380kv.nl,Rijksoverheid,EZK,,DGETM/TeNNeT
@@ -616,6 +631,7 @@ handelingenbank.info,http://www.handelingenbank.info,Rijksoverheid,BZK,,
 hansken.nl,http://www.hansken.nl,Rijksoverheid,JenV,NFI,
 hansken.org,http://hansken.org,Rijksoverheid,JenV,NFI,
 hcaict.nl,http://hcaict.nl,Overheid,EZK,ECP,
+hcib.datawonen.nl,http://hcib.datawonen.nl,Rijksoverheid,BZK,,
 healthcouncil.nl,http://www.healthcouncil.nl,Overheid,VWS,,Kerndepartement/GR
 helpdeskbouwregels.nl,http://helpdeskbouwregels.nl,Rijksoverheid,BZK,,
 helpdesk-efactureren.nl,http://www.helpdesk-efactureren.nl,Rijksoverheid,BZK,,DGOO/DS
@@ -699,12 +715,14 @@ innoveermeemetjenv.nl,http://www.innoveermeemetjenv.nl,Rijksoverheid,JenV,,
 innovember.nl,http://www.innovember.nl,Rijksoverheid,BZK,Rijks Innovatie Community ,
 inspectie-checklist.nl,http://www.inspectie-checklist.nl,Rijksoverheid,SZW,Inspectie SZW,
 inspectie-jenv.nl,http://www.inspectie-jenv.nl,Rijksoverheid,JenV,Inspectie JenV,
+inspectielandschap.nl,http://inspectielandschap.nl,Rijksoverheid,IenW,ILT,
 inspectie-oe.nl,http://www.inspectie-oe.nl,Rijksoverheid,OCW,I-OE,
 inspectie-publicaties.nl,http://www.inspectie-publicaties.nl,Rijksoverheid,SZW,Inspectie SZW,
 inspectieresultatenszw.nl,http://www.inspectieresultatenszw.nl,Rijksoverheid,SZW,Inspectie SZW,
 inspectieszw.nl,http://www.inspectieszw.nl,Rijksoverheid,SZW,Inspectie SZW,
 inspectiewerkt.nl,http://www.inspectiewerkt.nl,Rijksoverheid,SZW,Inspectie SZW,
 inspectorateszw.nl,http://www.inspectorateszw.nl,Rijksoverheid,SZW,Inspectie SZW,
+inspiratiedagduurzameveehouderij.nl,http://www.inspiratiedagduurzameveehouderij.nl,Overheid,LNV,,
 inspireaanmerking.nl,http://inspireaanmerking.nl,Rijksoverheid,BZK,,
 instellingsinformatie.duo.nl,http://instellingsinformatie.duo.nl,Rijksoverheid,OCW,DUO,
 intermediairdagen.belastingdienst.nl,http://intermediairdagen.belastingdienst.nl,Rijksoverheid,FIN,Belastingdienst,CAP
@@ -714,6 +732,7 @@ internationalstudy.nl,http://www.internationalstudy.nl,Overheid,OCW,DUO,GHO
 internetconsultatie.nl,http://www.internetconsultatie.nl,Rijksoverheid,JenV,,
 internetspiegel.nl,http://www.internetspiegel.nl,Rijksoverheid,BZK,,
 interspeciesinfo.com,http://www.interspeciesinfo.com,Rijksoverheid,VWS,RIVM,
+investinholland.com,http://investinholland.com,Rijksoverheid,EZK,RVO,
 iob-evaluatie.nl,http://www.iob-evaluatie.nl,Rijksoverheid,BUZA,IOB,
 iplo.nl,http://iplo.nl,Rijksoverheid,IenW,RWS,WVL
 isd.acc.owinsp.nl,http://isd.acc.owinsp.nl,Rijksoverheid,OCW,OI,
@@ -746,7 +765,9 @@ justis.nl,http://www.justis.nl,Rijksoverheid,JenV,Justis,
 justitieconnect.nl,http://www.justitieconnect.nl,Rijksoverheid,JenV,Justid,
 justitieleictorganisatie.nl,http://www.justitieleictorganisatie.nl,Rijksoverheid,JenV,DJI,
 justitieleinterventies.nl,http://www.justitieleinterventies.nl,Overheid,JenV,NJI,Erkenningscommissie Interventies
-kaart.pdok.nl,http://kaart.pdok.nl,Overheid,BZK,Kadaster,
+kaart.pdok.nl,http://kaart.pdok.nl,Overheid,BZK,Kadaster,Materiebeleid (PDOK)
+kaarten.datawonen.nl,http://kaarten.datawonen.nl,Rijksoverheid,BZK,,
+kaartenvannederland.kadaster.nl,http://kaartenvannederland.kadaster.nl,Overheid,BZK,Kadaster,
 kabga.aw,http://www.kabga.aw,Rijksoverheid,BZK,,
 kabinetsformatie2021.nl,http://www.kabinetsformatie2021.nl,Overheid,AZ,RVD,
 kabinetvandekoning.nl,http://www.kabinetvandekoning.nl,Overheid,AZ,RVD,KvdK
@@ -760,11 +781,10 @@ kansspelautoriteit.nl,http://kansspelautoriteit.nl,Rijksoverheid,JenV,Ksa,
 kasteelgroeneveld.nl,http://kasteelgroeneveld.nl,Overheid,LNV,Staatsbosbeheer,
 kb.nl,http://www.kb.nl,Overheid,OCW,KB,
 kbvg.nl,http://www.kbvg.nl,Overheid,JenV,KBvG,
-kcb.nl,http://kcb.nl,Overheid,EZK,KCB,
+kcb.nl,http://kcb.nl,Overheid,LNV,KCB,
 kcwj.nl,http://www.kcwj.nl,Rijksoverheid,JenV,,Directie Wetgeving
 kemprogramma.nl,http://kemprogramma.nl,Rijksoverheid,EZK,RVO,
 kennis.cultureelerfgoed.nl,http://kennis.cultureelerfgoed.nl,Rijksoverheid,OCW,RCE,
-kennisbank.logius.nl,http://kennisbank.logius.nl,Rijksoverheid,BZK,Logius,
 kenniscentrum-oo.nl,http://kenniscentrum-oo.nl,Rijksoverheid,IenW,RWS,WVL
 kennisknooppuntparticipatie.nl,http://www.kennisknooppuntparticipatie.nl,Rijksoverheid,IenW,BSK,DP
 kennisnetwerkbiociden.nl,http://www.kennisnetwerkbiociden.nl,Rijksoverheid,VWS,RIVM,
@@ -826,7 +846,6 @@ lbio.nl,http://www.lbio.nl,Overheid,JenV,LBIO,
 lchulpmiddelen.nl,http://www.lchulpmiddelen.nl,Rijksoverheid,VWS,,
 lci.rivm.nl,http://lci.rivm.nl,Rijksoverheid,VWS,RIVM,
 lcms.nl,http://www.lcms.nl,Overheid,JenV,IFV,
-leads.rijksconsultants.nl,http://leads.rijksconsultants.nl,Rijksoverheid,BZK,UBR,
 learningnetwork.pleio.nl,http://learningnetwork.pleio.nl,Rijksoverheid,EZK,,
 leefbaarometer.nl,http://www.leefbaarometer.nl,Rijksoverheid,BZK,,
 leeromgeving.leerportaalienw.nl,http://leeromgeving.leerportaalienw.nl,Rijksoverheid,IenW,RWS,
@@ -835,7 +854,6 @@ leer-rijk.nl,http://www.leer-rijk.nl,Rijksoverheid,BZK,Logius,Keteninf/Digiinkoo
 lees-rijk.nl,http://www.lees-rijk.nl,Rijksoverheid,BZK,Logius,Keteninf/Digiinkoop
 leidraadse.nl,http://www.leidraadse.nl,Rijksoverheid,IenW,RWS,GPO
 lerarenportfolio.nl,http://www.lerarenportfolio.nl,Rijksoverheid,VWS,,
-leren.nza.nl,http://leren.nza.nl,Overheid,VWS,NZa,
 leren.rijksacademie.nl,http://leren.rijksacademie.nl,Rijksoverheid,FIN,Rijksacademie,
 lerenbij.ciz.nl,http://lerenbij.ciz.nl,Overheid,VWS,CIZ,
 lerenenwerken.nl,http://www.lerenenwerken.nl,Overheid,SZW,UWV,
@@ -853,7 +871,7 @@ loc.ubrijk.nl,http://loc.ubrijk.nl,Rijksoverheid,BZK,UBR,EC O&P
 locatiescan.info,http://locatiescan.info,Overheid,EZK,KvK,
 locov.nl,http://www.locov.nl,Rijksoverheid,IenW,BSK,DP
 logerenbijdeboswachter.nl,http://www.logerenbijdeboswachter.nl,Overheid,LNV,Staatsbosbeheer,
-logius.nl,http://www.logius.nl,Rijksoverheid,BZK,Logius,
+logius.nl,http://www.logius.nl,Rijksoverheid,BZK,Logius,Informatievoorzieningen
 lokaalklimaatportaal.nl,http://www.lokaalklimaatportaal.nl,Rijksoverheid,EZK,,DG K&E K
 lokale-democratie.nl,http://www.lokale-democratie.nl,Rijksoverheid,BZK,,
 loket.anvs.nl,http://loket.anvs.nl,Rijksoverheid,IenW,ANVS,
@@ -916,7 +934,7 @@ magazines.sso3w.nl/3w-jaarverslag,http://magazines.sso3w.nl/3w-jaarverslag,Rijks
 magazines.toezichtsociaaldomein.nl/jaarbeeld,http://magazines.toezichtsociaaldomein.nl/jaarbeeld,Rijksoverheid,VWS,IGJ,
 magazines.tuchtcollege-gezondheidszorg.nl/jaarverslagen,http://magazines.tuchtcollege-gezondheidszorg.nl/jaarverslagen,Rijksoverheid,VWS,,Kerndepartement/ESTT
 magazines.ubrijk.nl/productenendienstencatalogus,http://magazines.ubrijk.nl/productenendienstencatalogus,Rijksoverheid,BZK,UBR,
-magazines.voordejeugd.nl,http://magazines.voordejeugd.nl,Rijksoverheid,VWS,,
+magazines.voordejeugd.nl,http://magazines.voordejeugd.nl,Rijksoverheid,VWS,,Kerndepartement/Jeugd
 magazines.werkenvoornederland.nl/financieelspecialistbijderijksoverheid,http://magazines.werkenvoornederland.nl/financieelspecialistbijderijksoverheid,Rijksoverheid,BZK,P-direkt,
 magazines.wodc.nl/wodcmagazine,http://magazines.wodc.nl/wodcmagazine,Rijksoverheid,JenV,WODC,
 magazines.zorgpact.nl/samen-leren-zorgen,http://magazines.zorgpact.nl/samen-leren-zorgen,Overheid,VWS,,Kerndepartement/MEVA
@@ -969,7 +987,6 @@ mijnwlzaanvraag.ciz.nl,http://www.mijnwlzaanvraag.ciz.nl,Overheid,VWS,CIZ,
 milieuzones.nl,http://www.milieuzones.nl,Rijksoverheid,EZK,RVO,
 millingerwaard.staatsbosbeheer.nl,http://millingerwaard.staatsbosbeheer.nl,Overheid,LNV,Staatsbosbeheer,
 mindergrondrisico.nl,http://www.mindergrondrisico.nl,Rijksoverheid,IenW,RWS,WVL
-minvws.pr.co,http://minvws.pr.co,Rijksoverheid,VWS,DCO,
 mirt2010.mirtprojectenboek.nl,http://mirt2010.mirtprojectenboek.nl,Rijksoverheid,IenW,,
 mirt2016.mirtoverzicht.nl,http://mirt2016.mirtoverzicht.nl,Rijksoverheid,IenW,BSK,DGMo
 mirta15papendrechtgorinchem.nl,http://www.mirta15papendrechtgorinchem.nl,Rijksoverheid,IenW,BSK,DGMo
@@ -992,6 +1009,7 @@ mobiliteitsbank.nl,http://www.mobiliteitsbank.nl,Rijksoverheid,BZK,P-direkt,
 mobiliteitsscan-info.nl,http://mobiliteitsscan-info.nl,Rijksoverheid,IenW,RWS,
 mobilityhappiness.nl,http://www.mobilityhappiness.nl,Rijksoverheid,IenW,RWS,WNZ
 mobilitylab.nl,http://mobilitylab.nl,Rijksoverheid,IenW,RWS,
+models.pbl.nl,http://models.pbl.nl,Rijksoverheid,IenW,PBL,
 mondriaanfonds.nl,http://www.mondriaanfonds.nl,Overheid,OCW,MF,
 monitorgezondheid.nl,http://www.monitorgezondheid.nl,Rijksoverheid,VWS,RIVM,
 monitorlangdurigezorg.nl,http://www.monitorlangdurigezorg.nl,Rijksoverheid,VWS,,Kerndepartement/LZ
@@ -1032,6 +1050,7 @@ nba.nl,http://www.nba.nl,Overheid,FIN,NBA,
 nbso-brazil.com.br,http://nbso-brazil.com.br,Rijksoverheid,BUZA,,
 nbso-texas.com,http://www.nbso-texas.com,Rijksoverheid,BUZA,,
 ncadierproevenbeleid.nl,http://www.ncadierproevenbeleid.nl,Rijksoverheid,LNV,NCAD ,
+ncpeh.nl,http://www.ncpeh.nl,Rijksoverheid,VWS,CIBG,
 ncsc.nl,http://www.ncsc.nl,Rijksoverheid,JenV,NCSC,
 nctv.nl,http://www.nctv.nl,Rijksoverheid,JenV,NCTV,
 ndw.nu,http://www.ndw.nu,Rijksoverheid,IenW,RWS,NDW
@@ -1099,6 +1118,7 @@ nwo-i.nl,http://www.nwo-i.nl,Overheid,OCW,NWO,
 nza.nl,http://www.nza.nl,Overheid,VWS,NZa,
 ocw.cultuursubsidie.nl,http://ocw.cultuursubsidie.nl,Rijksoverheid,OCW,,
 ocwincijfers.nl,http://www.ocwincijfers.nl,Rijksoverheid,OCW,,
+ocw-verhalen.nl,http://www.ocw-verhalen.nl,Rijksoverheid,OCW,,
 odb.belastingdienst.nl,http://odb.belastingdienst.nl,Rijksoverheid,FIN,Belastingdienst,CAP
 odc.functiegebouwrijksoverheid.nl,http://odc.functiegebouwrijksoverheid.nl,Rijksoverheid,BZK,P-direkt,
 odc.mobiliteitsbank.nl,http://odc.mobiliteitsbank.nl,Rijksoverheid,BZK,P-direkt,
@@ -1119,6 +1139,7 @@ on2013.nl,http://on2013.nl,Rijksoverheid,IenW,RWS,
 onbedoeldzwanger.info,http://www.onbedoeldzwanger.info,Rijksoverheid,VWS,,Kerndepartement/PG
 onboarding.belastingdienst.nl,http://onboarding.belastingdienst.nl,Rijksoverheid,FIN,Belastingdienst,
 ondernemersplein.kvk.nl,http://ondernemersplein.kvk.nl,Overheid,EZK,KvK,
+onderwijs.eerstekamer.nl,http://onderwijs.eerstekamer.nl,Overheid,EK,,
 onderwijsinderegioincijfers.nl,http://www.onderwijsinderegioincijfers.nl,Rijksoverheid,OCW,,
 onderwijsinspectie.nl,http://www.onderwijsinspectie.nl,Rijksoverheid,OCW,OI,
 onderwijsraad.nl,http://www.onderwijsraad.nl,Overheid,OCW,Onderwijsraad,
@@ -1139,6 +1160,7 @@ opendata.tweedekamer.nl,http://opendata.tweedekamer.nl,Overheid,TK,,
 opendata-award.nl,http://www.opendata-award.nl,Rijksoverheid,BZK,,
 opendata-ref.ndw.nu,http://opendata-ref.ndw.nu,Rijksoverheid,IenW,RWS,NDW
 opendisdata.nl,http://www.opendisdata.nl,Overheid,VWS,NZa,
+openkat.nl,http://openkat.nl,Rijksoverheid,VWS,,
 open-overheid.nl,http://www.open-overheid.nl,Rijksoverheid,BZK,,
 opensource.pleio.nl,http://opensource.pleio.nl,Overheid,ICTU,,
 opnieuwthuis.nl,http://www.opnieuwthuis.nl,Rijksoverheid,JenV,,
@@ -1178,7 +1200,7 @@ pbt-netwerk.nl,http://www.pbt-netwerk.nl,Overheid,OCW,PBT,
 p-direkt.nl,http://www.p-direkt.nl,Rijksoverheid,BZK,P-direkt,
 pdok.nl,http://www.pdok.nl,Overheid,BZK,Kadaster,Materiebeleid (PDOK)
 peppolautoriteit.nl,http://peppolautoriteit.nl,Rijksoverheid,BZK,Logius,Portaaldiensten
-perined.nl,http://www.perined.nl,Rijksoverheid,VWS,RIVM,
+perined.nl,http://www.perined.nl,Rijksoverheid,VWS,,Kerndepartement/CZ
 permanentevertegenwoordigingen.nl,http://www.permanentevertegenwoordigingen.nl,Rijksoverheid,BUZA,,
 permanentrepresentations.nl,http://www.permanentrepresentations.nl,Rijksoverheid,BUZA,,
 persberichten.rijksoverheid.nl,http://persberichten.rijksoverheid.nl,Rijksoverheid,AZ,DPC,Online Advies
@@ -1186,7 +1208,6 @@ pgw.belastingdienst.nl,http://pgw.belastingdienst.nl,Rijksoverheid,FIN,Belasting
 pianoo.nl,http://www.pianoo.nl,Overheid,EZK,PIANOo,
 pianoo-congres.nl,http://www.pianoo-congres.nl,Overheid,EZK,PIANOo,
 pih.belastingdienst.nl,http://pih.belastingdienst.nl,Rijksoverheid,FIN,Belastingdienst,CAP
-pilotnudging.nl,http://www.pilotnudging.nl,Rijksoverheid,SZW,,DGSZI/PDV
 pkioverheid.nl,http://www.pkioverheid.nl,Rijksoverheid,BZK,Logius,Toeg team levering 2
 placesofhope.nl,http://www.placesofhope.nl,Rijksoverheid,BZK,,
 plastic.tool.cultureelerfgoed.nl,http://plastic.tool.cultureelerfgoed.nl,Rijksoverheid,OCW,RCE,
@@ -1226,8 +1247,12 @@ postergenerator.ontdekdezorg.nl,http://postergenerator.ontdekdezorg.nl,Rijksover
 praatmee.nza.nl,http://praatmee.nza.nl,Overheid,VWS,NZa,
 praktijkproefamsterdam.nl,http://www.praktijkproefamsterdam.nl,Rijksoverheid,IenW,RWS,VWM
 pre.omgevingswet.overheid.nl,http://pre.omgevingswet.overheid.nl,Overheid,BZK,UBR,KOOP
+preprod.viewer.dso.kadaster.nl,http://preprod.viewer.dso.kadaster.nl,Overheid,BZK,Kadaster,
 prestatie.opkaart.nl,http://prestatie.opkaart.nl,Rijksoverheid,BZK,,DGBRW
+prestatieafspraken.datawonen.nl,http://prestatieafspraken.datawonen.nl,Rijksoverheid,BZK,,
+prestatie-opkaart.datawonen.nl,http://prestatie-opkaart.datawonen.nl,Rijksoverheid,BZK,,
 prettigcontactmetdeoverheid.nl,http://www.prettigcontactmetdeoverheid.nl,Rijksoverheid,BZK,PCMO,
+primos.datawonen.nl,http://primos.datawonen.nl,Rijksoverheid,BZK,,
 prinsjesdagtool.nl,http://www.prinsjesdagtool.nl,Rijksoverheid,FIN,,AGT/FM
 processierups.nu,http://processierups.nu,Rijksoverheid,VWS,RIVM,
 processinnovation.nl,http://processinnovation.nl,Rijksoverheid,EZK,RVO,
@@ -1383,6 +1408,7 @@ skal.nl,http://www.skal.nl,Overheid,LNV,SKAL,
 slachtofferinformatie-om.nl,http://www.slachtofferinformatie-om.nl,Overheid,JenV,OM,
 slimmest.nl,http://www.slimmest.nl,Rijksoverheid,LNV,,DG AGRO PAV
 slimmezorgestafette.nl,http://slimmezorgestafette.nl,Rijksoverheid,VWS,,Kerndepartement/I&Z
+slimmezorgestafette2022.nl,http://www.slimmezorgestafette2022.nl,Rijksoverheid,VWS,,Kerndepartement/I&Z
 slimwatermanagement.nl,http://www.slimwatermanagement.nl,Rijksoverheid,IenW,RWS,
 slo.nl,http://www.slo.nl,Overheid,OCW,SLO,
 slotcoordination.nl,http://slotcoordination.nl,Overheid,IenW,SACN,
@@ -1398,7 +1424,7 @@ solliciterenbijciz.nl,http://www.solliciterenbijciz.nl,Overheid,VWS,CIZ,
 spaceoffice.nl,http://www.spaceoffice.nl,Rijksoverheid,EZK,RVO,
 sportakkoord.nl,http://www.sportakkoord.nl,Rijksoverheid,VWS,,Kerndepartement/Sport
 sportenbewegenincijfers.nl,http://www.sportenbewegenincijfers.nl,Rijksoverheid,VWS,RIVM,
-sportinnovator.nl,http://www.sportinnovator.nl,Rijksoverheid,VWS,,
+sportinnovator.nl,http://www.sportinnovator.nl,Rijksoverheid,VWS,,Kerndepartement/Sport
 ssc-campus.nl,http://www.ssc-campus.nl,Rijksoverheid,VWS,RIVM,
 ssci.nl,http://www.ssci.nl,Rijksoverheid,JenV,DJI,SSC-I
 ssc-ict.nl,http://www.ssc-ict.nl,Rijksoverheid,BZK,SSC-ICT,
@@ -1445,6 +1471,7 @@ suurhoffbrug.nl,http://www.suurhoffbrug.nl,Rijksoverheid,IenW,BSK,DGMO
 svb.nl,http://www.svb.nl,Overheid,SZW,SVB,
 svdj.nl,http://www.svdj.nl,Overheid,OCW,SVDJ,
 synbiosys.alterra.nl,http://www.synbiosys.alterra.nl,Overheid,LNV,WUR,
+syswov.datawonen.nl,http://syswov.datawonen.nl,Rijksoverheid,BZK,,
 szwkerncijfers.nl,http://www.szwkerncijfers.nl,Rijksoverheid,SZW,,
 talent.rijksbeveiliging.nl,http://talent.rijksbeveiliging.nl,Rijksoverheid,BZK,UBR,RBO
 talentisbelangrijker.nl,http://www.talentisbelangrijker.nl,Rijksoverheid,SZW,,DGSZI/PDV
@@ -1452,7 +1479,6 @@ tarievenzoekerzorgprestatiemodel.nza.nl,http://tarievenzoekerzorgprestatiemodel.
 tcbb.nl,http://tcbb.nl,Overheid,EZK,TCBB,
 tcbodem.nl,http://www.tcbodem.nl,Rijksoverheid,IenW,BSK,DGWB
 techfocus.pleio.nl,http://techfocus.pleio.nl,Rijksoverheid,BZK,,
-techleap.nl,http://www.techleap.nl,Rijksoverheid,EZK,RVO,
 teebstad.nl,http://www.teebstad.nl,Rijksoverheid,VWS,RIVM,
 tegengaanradicalisering.nl,http://www.tegengaanradicalisering.nl,Rijksoverheid,JenV,NCTV,
 telmeemettaal.nl,http://www.telmeemettaal.nl,Rijksoverheid,OCW,,
@@ -1461,12 +1487,12 @@ tenderned.nl,http://www.tenderned.nl,Rijksoverheid,EZK,RVO,
 testenvoortoegang.org,http://www.testenvoortoegang.org,Rijksoverheid,VWS,,Kerndepartement/PDC19
 testuitvoeringarbeidsvoorwaardenwetgeving.nl,http://www.testuitvoeringarbeidsvoorwaardenwetgeving.nl,Rijksoverheid,SZW,,DGW/UAW
 teverantwoordenregelingen.rijksoverheid.nl,http://teverantwoordenregelingen.rijksoverheid.nl,Rijksoverheid,BZK,,
-thegfce.org,http://thegfce.org,Rijksoverheid,JenV,,
 tib-ivd.nl,http://www.tib-ivd.nl,Overheid,AZ,TIB-IVD,
 tl.iplo.nl,http://tl.iplo.nl,Rijksoverheid,IenW,RWS,WVL
 tlokb.nl,http://www.tlokb.nl,Rijksoverheid,BZK,TloKB,
 tno.nl,http://www.tno.nl,Overheid,EZK,TNO,
 toegangsociaaldomein.nl,http://www.toegangsociaaldomein.nl,Rijksoverheid,VWS,IGJ,
+toegangspuntmobiliteit.nl,http://www.toegangspuntmobiliteit.nl,Rijksoverheid,IenW,RWS,NDW
 toegangtotdeoverheid.nl,http://toegangtotdeoverheid.nl,Rijksoverheid,JenV,Justid,
 toegankelijkheidsverklaring.nl,http://www.toegankelijkheidsverklaring.nl,Rijksoverheid,BZK,Logius,
 toekomstglb.nl,http://www.toekomstglb.nl,Rijksoverheid,LNV,,DG AGRO EIA
@@ -1476,6 +1502,7 @@ toets.dopingautoriteit.nl,http://toets.dopingautoriteit.nl,Overheid,VWS,DA,
 toetsingonline.nl,http://www.toetsingonline.nl,Overheid,VWS,,Kerndepartement/CCMO
 toetsingscommissievp.nl,http://www.toetsingscommissievp.nl,Rijksoverheid,SZW,,DGSZI/PDV
 toezichtdocumenten.igj.nl,http://www.toezichtdocumenten.igj.nl,Rijksoverheid,VWS,IGJ,
+toezichtfestival.nl,http://www.toezichtfestival.nl,Rijksoverheid,IenW,ILT,
 toezichtopzorgnetwerken.igj.nl,http://toezichtopzorgnetwerken.igj.nl,Rijksoverheid,VWS,IGJ,
 toezichtresultaten.nl,http://www.toezichtresultaten.nl,Rijksoverheid,OCW,OI,
 toezichtsociaaldomein.nl,http://www.toezichtsociaaldomein.nl,Rijksoverheid,VWS,IGJ,
@@ -1485,6 +1512,7 @@ toolkit.kiesdefiets.nl,http://toolkit.kiesdefiets.nl,Rijksoverheid,IenW,,
 toolkit.ontdekdezorg.nl,http://toolkit.ontdekdezorg.nl,Rijksoverheid,VWS,,Kerndepartement/DCO
 toolkitomgevingswet.nl,http://www.toolkitomgevingswet.nl,Rijksoverheid,BZK,,
 tools.rijksictgilde.nl,http://tools.rijksictgilde.nl,Rijksoverheid,BZK,UBR,I-Interim Rijk
+tools.wijzeringeldzaken.nl,http://tools.wijzeringeldzaken.nl,Rijksoverheid,FIN,,AGT/FM
 topcorridors.com,http://www.topcorridors.com,Rijksoverheid,IenW,BSK,DGMO
 topinkomens.nl,http://www.topinkomens.nl,Rijksoverheid,BZK,,
 topotijdreis.nl,http://www.topotijdreis.nl,Overheid,BZK,Kadaster,
@@ -1532,7 +1560,6 @@ veiligvakmanschap.nl,http://www.veiligvakmanschap.nl,Rijksoverheid,SZW,Inspectie
 veiling.belastingdienst.nl,http://veiling.belastingdienst.nl,Rijksoverheid,FIN,Belastingdienst,
 venvn.nl,http://www.venvn.nl,Overheid,VWS,V&VN,
 vera-2r.nl,http://www.vera-2r.nl,Rijksoverheid,JenV,DJI,
-veranderingenkinderopvang.nl,http://www.veranderingenkinderopvang.nl,Rijksoverheid,SZW,,DGW/KO
 verantwoordalcoholverkopen.nl,http://www.verantwoordalcoholverkopen.nl,Rijksoverheid,VWS,,Kerndepartement/VGP
 verantwoordmesttransport.nl,http://www.verantwoordmesttransport.nl,Rijksoverheid,LNV,,DG AGRO PAV
 verantwoordmestvervoer.nl,http://www.verantwoordmestvervoer.nl,Rijksoverheid,LNV,,DG AGRO PAV
@@ -1572,7 +1599,7 @@ volksgezondheidenzorg.info,http://www.volksgezondheidenzorg.info,Rijksoverheid,V
 volksgezondheidtoekomstverkenning.nl,http://www.volksgezondheidtoekomstverkenning.nl,Rijksoverheid,VWS,RIVM,
 volwaardig-leven.nl,http://www.volwaardig-leven.nl,Rijksoverheid,VWS,,Kerndepartement/LZ
 volwassenheidsscan.gebruikercentraal.nl,http://volwassenheidsscan.gebruikercentraal.nl,Rijksoverheid,BZK,,
-voordejeugd.nl,http://www.voordejeugd.nl,Rijksoverheid,VWS,,
+voordejeugd.nl,http://www.voordejeugd.nl,Rijksoverheid,VWS,,Kerndepartement/Jeugd
 vo-raad.nl,http://www.vo-raad.nl,Overheid,OCW,VO raad,
 vraaghetdepolitie.nl,http://www.vraaghetdepolitie.nl,Overheid,JenV,Politie,
 vrachtwagenheffing.nl,http://www.vrachtwagenheffing.nl,Rijksoverheid,IenW,BSK,DGMo
@@ -1589,7 +1616,7 @@ vzvz.nl,http://www.vzvz.nl,Overheid,VWS,VZVZ,
 waarborg.nl,http://waarborg.nl,Overheid,EZK,WaarborgHolland,
 waarderingskamer.nl,http://www.waarderingskamer.nl,Rijksoverheid,FIN,WK,
 waardigheidentrots.nl,http://www.waardigheidentrots.nl,Rijksoverheid,VWS,,Kerndepartement/LZ
-waarzitwatin.nl,http://waarzitwatin.nl,Rijksoverheid,VWS,RIVM,
+waarzitwatin.nl,http://waarzitwatin.nl,Rijksoverheid,VWS,,Kerndepartement/VGP
 wabes.nl,http://www.wabes.nl,Rijksoverheid,IenW,RWS,
 waddenatlas.nl,http://www.waddenatlas.nl,Rijksoverheid,IenW,RWS,
 waddenviewer.datahuiswadden.nl,http://waddenviewer.datahuiswadden.nl,Rijksoverheid,IenW,RWS,
@@ -1607,7 +1634,7 @@ waterveiligheidsportaal.nl,http://waterveiligheidsportaal.nl,Rijksoverheid,IenW,
 watkanmijhelpen.nl,http://www.watkanmijhelpen.nl,Rijksoverheid,JenV,,
 watvoorhandhaverbenjij.nl,http://www.watvoorhandhaverbenjij.nl,Rijksoverheid,JenV,,
 wcefplusclimate.com,http://www.wcefplusclimate.com,Rijksoverheid,IenW,,
-web.minienm.nl/mob2016,http://web.minienm.nl/mob2016/,Rijksoverheid,IenW,,
+web.minienm.nl/mob2016/,http://web.minienm.nl/mob2016/,Rijksoverheid,IenW,,
 webinar-windturbines.nl,http://webinar-windturbines.nl,Rijksoverheid,EZK,,
 webshop.incidentmanagement.nl,http://webshop.incidentmanagement.nl,Rijksoverheid,IenW,RWS,
 weekvanhetgeld.nl,http://www.weekvanhetgeld.nl,Rijksoverheid,FIN,,AGT/FM
@@ -1619,6 +1646,7 @@ wegwijzermensenhandel.nl,http://www.wegwijzermensenhandel.nl,Rijksoverheid,JenV,
 werk.nl,http://www.werk.nl,Overheid,SZW,UWV,
 werkaanuitvoering.nl,http://www.werkaanuitvoering.nl,Rijksoverheid,BZK,,
 werkagenda.raadrvs.nl,http://werkagenda.raadrvs.nl,Overheid,VWS,,Kerndepartement/RVS
+werkconferentie-lnv.nl,http://www.werkconferentie-lnv.nl,Overheid,LNV,,
 werken.belastingdienst.nl,http://werken.belastingdienst.nl,Rijksoverheid,FIN,Belastingdienst,
 werkenbij.kvk.nl,http://werkenbij.kvk.nl,Overheid,EZK,KvK,
 werkenbij.rijkswaterstaat.nl,http://werkenbij.rijkswaterstaat.nl,Rijksoverheid,IenW,RWS,
@@ -1679,8 +1707,10 @@ zorgcsp.nl,http://www.zorgcsp.nl,Rijksoverheid,VWS,CIBG,
 zorginstituutnederland.nl,http://www.zorginstituutnederland.nl,Rijksoverheid,VWS,ZIN,
 zorginzicht.nl,http://www.zorginzicht.nl,Rijksoverheid,VWS,ZIN,
 zorgopdekaart.nl,http://www.zorgopdekaart.nl,Rijksoverheid,VWS,,Kerndepartement/LZ
+zorgprestatiemodel.nza.nl,http://zorgprestatiemodel.nza.nl,Overheid,VWS,NZa,
 zorgproducten.nza.nl,http://zorgproducten.nza.nl,Overheid,VWS,NZa,
 zorgvannu.nl,http://www.zorgvannu.nl,Rijksoverheid,VWS,,Kerndepartement/DCO
+zorgverzekeringslijn.nl,http://www.zorgverzekeringslijn.nl,Rijksoverheid,VWS,,Kerndepartement/Zorgverzekeringen
 zorgvoorinnoveren.nl,http://www.zorgvoorinnoveren.nl,Rijksoverheid,VWS,,Kerndepartement/I&Z
 zovar.nl,http://www.zovar.nl,Rijksoverheid,VWS,CIBG,
 zuid-west380kv.nl,http://www.zuid-west380kv.nl,Rijksoverheid,EZK,,DG K&E WO
