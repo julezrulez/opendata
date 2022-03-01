@@ -1,4 +1,4 @@
-nr ;overheidstype;organisatie;verkortenaam;organisatienaam;dummy;samenwerking;urlhomepage;url;domeinnaam;checkdate;websitestatus;verklaringsplicht;opdrachtgeveraudit;platform;datasource;bronid;bronupdate;type;actie
+nr;overheidstype;organisatie;verkortenaam;organisatienaam;dummy;samenwerking;urlhomepage;url;domeinnaam;checkdate;websitestatus;verklaringsplicht;opdrachtgeveraudit;platform;datasource;bronid;bronupdate;type;actie
 ;Adviescollege;BZK;;Adviescollege ICT-toetsing;;;https://www.adviescollegeicttoetsing.nl/;;adviescollegeicttoetsing.nl;10-10-2021;;ja;ja;;200ok;;;;
 ;Adviescollege;JenV;;Adviescollege levenslanggestraften;;;https://www.adviescollegelevenslanggestraften.nl/;;adviescollegelevenslanggestraften.nl;10-10-2021;;ja;ja;;200ok;;;;
 ;Adviescollege;EZK;ATR;Adviescollege toetsing regeldruk;;;https://www.actal.nl/;;actal.nl;1-10-2021;;ja;ja;;rijksreg;http://www.actal.nl;21-8-2021;;
